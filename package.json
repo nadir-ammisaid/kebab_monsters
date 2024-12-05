@@ -30,9 +30,16 @@
   "license": "MIT",
   "devDependencies": {
     "@biomejs/biome": "1.9.2",
+    "@types/leaflet": "^1.9.15",
     "concurrently": "^9.0.1"
   },
   "dependencies": {
-    "@api/yelp-developers": "file:.api/apis/yelp-developers"
+    "-": "^0.0.1",
+    "@api/yelp-developers": "file:.api/apis/yelp-developers",
+    "leaflet": "^1.9.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-leaflet": "^4.2.1",
+    "save": "^2.9.0"
   }
 }
