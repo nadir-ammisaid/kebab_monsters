@@ -2,7 +2,7 @@ import { createContext, useContext, useEffect, useState } from "react";
 import type { ReactNode, Dispatch, SetStateAction } from "react";
 
 // Définir le type pour un Kebab
-interface Kebab {
+export interface Kebab {
 	id: string;
 	name: string;
 	location: {
@@ -13,7 +13,7 @@ interface Kebab {
 	image_url: string;
 }
 
-interface KebabContextType {
+export interface KebabContextType {
 	kebabs: Kebab[];
 	setKebabs: Dispatch<SetStateAction<Kebab[]>>;
 }
