@@ -13,19 +13,21 @@ export interface Kebab {
 	rating: number;
 	image_url: string;
 }
-
+// Définir le type pour le tableau des Kebabs et le SearchText
 export interface KebabContextType {
-	kebabs: Kebab[];
-	setKebabs: Dispatch<SetStateAction<Kebab[]>>;
+	kebabs: { businesses: Kebab[] };
+	setKebabs: Dispatch<SetStateAction<{ businesses: Kebab[] }>>;
+	searchText: string;
+	setSearchText: Dispatch<SetStateAction<string>>;
 }
 
-// voici les infos en dur
-
-// Créer le contexte avec une valeur initiale nulle
+// le contexte avec une valeur initiale nulle
 const KebabContext = createContext<KebabContextType | null>(null);
 
 export const KebabProvider = ({ children }: { children: ReactNode }) => {
-	const [kebabs, setKebabs] = useState(data);
+	const [kebabs, setKebabs] = useState(data); //*+*+*+*+*+*en dur pour tester en dehors de l'API
+	const [searchText, setSearchText] = useState(""); // Nouveau state pour le texte de recherche
+	// *+*+*+**+ à remettre après avoir récupéré l'accès à l'API
 
 	// const [kebabs, setKebabs] = useState<Kebab[]>([]);
 
@@ -70,7 +72,9 @@ export const KebabProvider = ({ children }: { children: ReactNode }) => {
 	// }, []);
 
 	return (
-		<KebabContext.Provider value={{ kebabs, setKebabs }}>
+		<KebabContext.Provider
+			value={{ kebabs, setKebabs, searchText, setSearchText }}
+		>
 			{children}
 		</KebabContext.Provider>
 	);

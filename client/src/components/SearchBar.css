@@ -1,0 +1,11 @@
+.searchBar {
+	text-align: center;
+	padding: 2em;
+}
+
+input {
+	font-size: X-large;
+	border: 5px;
+	border-color: #faedcd;
+	border-style: solid;
+}

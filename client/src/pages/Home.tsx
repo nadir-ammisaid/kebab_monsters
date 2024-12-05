@@ -2,7 +2,7 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import Maps from "../components/Maps";
 import SearchBar from "../components/SearchBar";
-import DetailCard from "../components/DetailCard";
+import BusinessCard from "../components/BusinessCard";
 
 function Home() {
 	return (
@@ -11,7 +11,7 @@ function Home() {
 			<main>
 				<SearchBar />
 				<Maps />
-				<DetailCard />
+				<BusinessCard />
 			</main>
 			<Footer />
 		</>

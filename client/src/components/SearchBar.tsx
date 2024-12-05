@@ -5,24 +5,23 @@ import "./SearchBar.css";
 
 function SearchBar() {
 	/////ajouter le useContext
-	const context = useContext(KebabContext) as KebabContextType;
-
-	const { kebabs, setKebabs } = context;
+	// Utilisation du contexte pour obtenir searchText et setSearchText
+	const { searchText, setSearchText } = useContext(
+		KebabContext,
+	) as KebabContextType;
 
 	const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-		const searchText = e.target.value.toLowerCase();
-
-		////// Filtrer les kebabs par nom
-		const filteredKebabs = kebabs.filter((kebab) =>
-			kebab.name.toLowerCase().includes(searchText),
-		);
-
-		setKebabs(filteredKebabs);
+		setSearchText(e.target.value); // Met à jour l'état du texte de recherche
 	};
 
 	return (
 		<div className="searchBar">
-			<input type="text" placeholder="Search a kebab" onChange={handleChange} />
+			<input
+				type="text"
+				placeholder="Search a Kebab"
+				value={searchText} // L'input est contrôlé par searchText du contexte
+				onChange={handleChange} // Appel de handleChange pour mettre à jour l'état
+			/>
 		</div>
 	);
 }
