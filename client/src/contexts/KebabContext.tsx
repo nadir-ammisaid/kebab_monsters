@@ -43,7 +43,7 @@ export const KebabProvider = ({ children }: { children: ReactNode }) => {
 						headers: {
 							accept: "application/json",
 							Authorization:
-								"Bearer g6R6o34PjuzRjebzCH0bdCQERTnt8KNwZiTd00s_ZRsNHgAYUUiPdNtLBF0RE8QVLb3FQlBch18SDRSbUj10ilMmsyvRtU9UgmtMqG-Rbf2nLqEHvHFDPr-154tRZ3Yx",
+								"Bearer g3ZUORBgVunAuNGi5-1w-p3bc5lO6O_wgn_igSGxKqq7RWkAVwnb",
 						},
 					}),
 				);
@@ -80,3 +80,5 @@ export const useKebab = () => {
 
 	return value;
 };
+
+// g3ZUORBgVunAuNGi5-1w-p3bc5lO6O_wgn_igSGxKqq7RWkAVwnbb44Kl2_GkIvlE1PBLNY6je9B_8GsSG_qQKKxP8xAfPGvl7SmFeq7qWRMW2f-5LPBCtEZto9RZ3Yx
