@@ -1,4 +1,4 @@
-import { createContext, useEffect, useState } from "react";
+import { createContext, useState } from "react";
 import type { ReactNode, Dispatch, SetStateAction } from "react";
 import data from "../data.json";
 
@@ -27,7 +27,8 @@ const KebabContext = createContext<KebabContextType | null>(null);
 export const KebabProvider = ({ children }: { children: ReactNode }) => {
 	const [kebabs, setKebabs] = useState(data); //*+*+*+*+*+*en dur pour tester en dehors de l'API
 	const [searchText, setSearchText] = useState(""); // Nouveau state pour le texte de recherche
-	// *+*+*+**+ à remettre après avoir récupéré l'accès à l'API
+
+	// *+*+*+**+ à remettre après avoir récupéré l'accès à l'API, sans oublier d'importer useEffect
 
 	// const [kebabs, setKebabs] = useState<Kebab[]>([]);
 
