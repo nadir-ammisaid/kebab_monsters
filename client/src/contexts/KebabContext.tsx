@@ -4,13 +4,10 @@ import type { ReactNode, Dispatch, SetStateAction } from "react";
 // Définir le type pour un Kebab
 export interface Kebab {
 	id: string;
-	name: string;
-	location: {
-		address1: string;
-		city: string;
+	coordinates: {
+		longitude: number;
+		latitude: number;
 	};
-	rating: number;
-	image_url: string;
 }
 
 export interface KebabContextType {
@@ -21,48 +18,72 @@ export interface KebabContextType {
 // Créer le contexte avec une valeur initiale nulle
 const KebabContext = createContext<KebabContextType | null>(null);
 
+const tabKebabs = [
+	{
+		id: "-0iLH7iQNYtoURciDpJf6w",
+		coordinates: {
+			latitude: 48.8645157999652,
+			longitude: 2.34540185646608,
+		},
+	},
+	{
+		id: "cEjF41ZQB8-SST8cd3EsEw",
+		coordinates: {
+			latitude: 48.85202,
+			longitude: 2.3388,
+		},
+	},
+	{
+		id: "ctP4c3mwVO5oOzLI48LtuQ",
+		coordinates: {
+			latitude: 48.8580664639432,
+			longitude: 2.32823697067099,
+		},
+	},
+];
+
 export const KebabProvider = ({ children }: { children: ReactNode }) => {
-	const [kebabs, setKebabs] = useState<Kebab[]>([]);
+	const [kebabs, setKebabs] = useState<Kebab[]>(tabKebabs);
 
-	useEffect(() => {
-		const urls = [
-			"https://thingproxy.freeboard.io/fetch/https://api.yelp.com/v3/businesses/search?location=France&term=kebab&limit=50",
-			"https://thingproxy.freeboard.io/fetch/https://api.yelp.com/v3/businesses/search?location=France&term=kebab&limit=50&offset=51",
-			"https://thingproxy.freeboard.io/fetch/https://api.yelp.com/v3/businesses/search?location=France&term=kebab&limit=50&offset=101",
-			"https://thingproxy.freeboard.io/fetch/https://api.yelp.com/v3/businesses/search?location=France&term=kebab&limit=50&offset=151",
-			"https://thingproxy.freeboard.io/fetch/https://api.yelp.com/v3/businesses/search?location=France&term=kebab&limit=50&offset=201",
-			"https://thingproxy.freeboard.io/fetch/https://api.yelp.com/v3/businesses/search?location=France&term=kebab&limit=50&offset=251",
-			"https://thingproxy.freeboard.io/fetch/https://api.yelp.com/v3/businesses/search?location=Turkey&term=kebab&limit=50",
-		];
+	// useEffect(() => {
+	// 	const urls = [
+	// 		"https://thingproxy.freeboard.io/fetch/https://api.yelp.com/v3/businesses/search?location=France&term=kebab&limit=50",
+	// 		"https://thingproxy.freeboard.io/fetch/https://api.yelp.com/v3/businesses/search?location=France&term=kebab&limit=50&offset=51",
+	// 		"https://thingproxy.freeboard.io/fetch/https://api.yelp.com/v3/businesses/search?location=France&term=kebab&limit=50&offset=101",
+	// 		"https://thingproxy.freeboard.io/fetch/https://api.yelp.com/v3/businesses/search?location=France&term=kebab&limit=50&offset=151",
+	// 		"https://thingproxy.freeboard.io/fetch/https://api.yelp.com/v3/businesses/search?location=France&term=kebab&limit=50&offset=201",
+	// 		"https://thingproxy.freeboard.io/fetch/https://api.yelp.com/v3/businesses/search?location=France&term=kebab&limit=50&offset=251",
+	// 		"https://thingproxy.freeboard.io/fetch/https://api.yelp.com/v3/businesses/search?location=Turkey&term=kebab&limit=50",
+	// 	];
 
-		const fetchKebabs = async () => {
-			try {
-				const fetchPromises = urls.map((url) =>
-					fetch(url, {
-						method: "GET",
-						headers: {
-							accept: "application/json",
-							Authorization:
-								"Bearer g6R6o34PjuzRjebzCH0bdCQERTnt8KNwZiTd00s_ZRsNHgAYUUiPdNtLBF0RE8QVLb3FQlBch18SDRSbUj10ilMmsyvRtU9UgmtMqG-Rbf2nLqEHvHFDPr-154tRZ3Yx",
-						},
-					}),
-				);
+	// 	const fetchKebabs = async () => {
+	// 		try {
+	// 			const fetchPromises = urls.map((url) =>
+	// 				fetch(url, {
+	// 					method: "GET",
+	// 					headers: {
+	// 						accept: "application/json",
+	// 						Authorization:
+	// 							"Bearer g6R6o34PjuzRjebzCH0bdCQERTnt8KNwZiTd00s_ZRsNHgAYUUiPdNtLBF0RE8QVLb3FQlBch18SDRSbUj10ilMmsyvRtU9UgmtMqG-Rbf2nLqEHvHFDPr-154tRZ3Yx",
+	// 					},
+	// 				}),
+	// 			);
 
-				const responses = await Promise.all(fetchPromises);
-				const data = await Promise.all(responses.map((res) => res.json()));
+	// 			const responses = await Promise.all(fetchPromises);
+	// 			const data = await Promise.all(responses.map((res) => res.json()));
 
-				// Fusionner toutes les données reçues
-				const allKebabs = data.flatMap((item) => item.businesses);
+	// 			// Fusionner toutes les données reçues
+	// 			const allKebabs = data.flatMap((item) => item.businesses);
 
-				setKebabs(allKebabs);
-				console.log("Kebabs chargés :", allKebabs);
-			} catch (error) {
-				console.error("Erreur lors de la récupération des données :", error);
-			}
-		};
+	// 			setKebabs(allKebabs);
+	// 			console.log("Kebabs chargés :", allKebabs);
+	// 		} catch (error) {
+	// 			console.error("Erreur lors de la récupération des données :", error);
+	// 		}
+	// 	};
 
-		fetchKebabs();
-	}, []);
+	// 	fetchKebabs();
+	// }, []);
 
 	return (
 		<KebabContext.Provider value={{ kebabs, setKebabs }}>
