@@ -1,5 +1,8 @@
 export default function Details() {
 	return (
+		<>
+			<p>Details</p>
+		</>
 		// <section className="show-details">
 		// 	<section className="show-card">
 		// 		<img
