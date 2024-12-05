@@ -23,11 +23,11 @@ import Details from "./pages/Details";
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home />,
+    element: <Welcome />,
   },
   {
-    path: "/welcome",
-    element: <Welcome />,
+    path: "/home",
+    element: <Home />,
   },
   {
     path: "/details",
