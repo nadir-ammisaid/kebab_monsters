@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Jaro:wght@400&display=swap");
+
+.header {
+	/* position: fixed; */
+	top: 0;
+	left: 0;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0px 20px;
+	background-color: #faedcd;
+	z-index: 1000;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+	font-family: "Jaro", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 3em;
+}
+
+#logo {
+	width: 7em;
+	height: 7em;
+	padding: 0.5em;
+	transition: 0.3s ease;
+}
+
+#logo:hover {
+	transform: scale(1.1);
+}
+
+.title {
+	margin-right: 10rem;
+}
+
+@media (max-width: 768px) {
+	#logo {
+		width: 5em;
+		height: 5em;
+		padding-left: 0.5em;
+		transition: 0.3s ease;
+	}
+}

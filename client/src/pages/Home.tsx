@@ -1,10 +1,14 @@
+import Header from "../components/Header";
+import Footer from "../components/Footer";
 import Maps from "../components/map";
 
-export default function Home() {
+function Home() {
 	return (
 		<>
-			<div>Home</div>
-			<Maps />
+			<Header />
+			<Footer />
 		</>
 	);
 }
+
+export default Home;

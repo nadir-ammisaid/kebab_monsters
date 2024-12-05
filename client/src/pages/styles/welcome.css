@@ -1,0 +1,87 @@
+html {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+}
+
+.welcome_center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-color: #faedcd;
+	min-height: 100vh;
+}
+
+.welcome_center p {
+	color: aliceblue;
+	font-size: 26px;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.welcome_center button {
+	position: relative;
+	padding: 16px auto;
+	padding: 10px 175px;
+	font-size: 16px;
+	background-color: #ffcc00; /* Exemple de style bouton */
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.welcome_center img {
+	background-image: url("DALL·E 2024-12-05 10.32.35 - Create a logo design for 'Kebab Monsters', a fun and quirky brand. The logo should feature a cartoon-style kebab with a playful monster face, includin.webp");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 80%;
+	display: block;
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+	.welcome_center {
+		flex-direction: column;
+		padding: 20px;
+		background-color: #e63946;
+	}
+
+	.welcome_center p {
+		font-size: 30px;
+	}
+
+	.welcome_center button {
+		font-size: 28px;
+		padding: 15px 150px;
+	}
+
+	.welcome_center img {
+		width: 60%;
+	}
+}
+
+@media (min-width: 1025px) {
+	.welcome_center {
+		flex-direction: column;
+		padding: 50px;
+		background-color: #e63946;
+	}
+
+	.welcome_center p {
+		font-size: 36px;
+	}
+
+	.welcome_center button {
+		font-size: 24px;
+		padding: 10px 100px;
+		margin-top: 20px;
+	}
+
+	.welcome_center img {
+		width: 40%;
+		margin-right: 20px;
+	}
+}
