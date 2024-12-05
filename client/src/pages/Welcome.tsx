@@ -1,5 +1,5 @@
 import "./styles/welcome.css";
-import logo from "../assets/images/DALL·E 2024-12-05 10.32.35 - Create a logo design for 'Kebab Monsters', a fun and quirky brand. The logo should feature a cartoon-style kebab with a playful monster face, includin.webp"
+import logo from "../assets/images/kebab.png"
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 
