@@ -34,10 +34,12 @@
     "concurrently": "^9.0.1"
   },
   "dependencies": {
+    "-": "^0.0.1",
     "@api/yelp-developers": "file:.api/apis/yelp-developers",
     "leaflet": "^1.9.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-leaflet": "^4.2.1"
+    "react-leaflet": "^4.2.1",
+    "save": "^2.9.0"
   }
 }
