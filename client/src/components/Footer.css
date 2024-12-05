@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Jaro:wght@400&display=swap");
 
+.footer {
+	margin-top: 1em;
+}
+
 .footer h3 {
 	color: black;
 	/* font-size: medium;
