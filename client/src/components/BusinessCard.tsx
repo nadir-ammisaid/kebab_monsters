@@ -20,11 +20,7 @@ function BusinessCard() {
 			{filteredKebabs?.map((business) => (
 				<div key={business.id} className="businessCard">
 					<h3>{business.name}</h3>
-					<img
-						className="cardArtImg"
-						src={business.image_url}
-						alt={business.name}
-					/>
+					<img src={business.image_url} alt={business.name} />
 				</div>
 			))}
 		</section>
