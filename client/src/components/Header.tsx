@@ -11,7 +11,7 @@ function Header() {
 			<div className="title">
 				<h1>KEBAB MONSTERS</h1>
 			</div>
-			<div className="useless"></div>
+			<div className="useless" />
 		</section>
 	);
 }
