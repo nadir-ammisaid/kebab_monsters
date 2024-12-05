@@ -1,5 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Jaro:wght@400&display=swap");
+
 .header {
-	position: fixed;
+	/* position: fixed; */
 	top: 0;
 	left: 0;
 	width: 100%;
@@ -13,11 +15,11 @@
 }
 
 h1 {
-	font-family: "Oswald", sans-serif;
+	font-family: "Jaro", sans-serif;
 	font-optical-sizing: auto;
 	font-weight: 400;
 	font-style: normal;
-	font-size: xx-large;
+	font-size: 3em;
 }
 
 #logo {
