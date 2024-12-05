@@ -1,4 +1,4 @@
-import { createContext, useEffect, useState } from "react";
+import { createContext, useContext, useEffect, useState } from "react";
 import type { ReactNode, Dispatch, SetStateAction } from "react";
 
 // Définir le type pour un Kebab
@@ -71,4 +71,12 @@ export const KebabProvider = ({ children }: { children: ReactNode }) => {
 	);
 };
 
-export default KebabContext;
+export const useKebab = () => {
+	const value = useContext(KebabContext);
+
+	if (value === null) {
+		throw new Error("useKebab has to be used within <FavoriteProvider>");
+	}
+
+	return value;
+};
