@@ -1,7 +1,7 @@
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import KebabCard from "../components/KebabCard";
-import Maps from "../components/map";
+import Maps from "../components/Maps";
 
 function Home() {
 	return (
