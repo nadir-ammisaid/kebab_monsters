@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/wcs/monochaos.git"
   },
-  "workspaces": ["client", "server"],
+  "workspaces": [
+    "client",
+    "server"
+  ],
   "scripts": {
     "build": "npm run build --workspaces --if-present",
     "clean": "node ./bin/clean",
@@ -28,5 +31,8 @@
   "devDependencies": {
     "@biomejs/biome": "1.9.2",
     "concurrently": "^9.0.1"
+  },
+  "dependencies": {
+    "@api/yelp-developers": "file:.api/apis/yelp-developers"
   }
 }
