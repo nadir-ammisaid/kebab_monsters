@@ -1,4 +1,4 @@
-import kebab from "../assets/images/kebab.webp";
+import kebab from "../assets/images/kebab.png";
 import "./Header.css";
 import { Link } from "react-router-dom";
 
@@ -11,8 +11,7 @@ function Header() {
 			<div className="title">
 				<h1>KEBAB MONSTERS</h1>
 			</div>
-			<div className="useless">
-			</div>
+			<div className="useless" />
 		</section>
 	);
 }
