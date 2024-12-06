@@ -18,11 +18,7 @@ export default function Maps() {
 	const { kebabs } = kebabsData;
 
 	return (
-		<MapContainer
-			center={[48.8645158, 2.3454019]}
-			zoom={13}
-			scrollWheelZoom={true}
-		>
+		<MapContainer center={[45.183331, 0.71667]} zoom={5} scrollWheelZoom={true}>
 			<TileLayer
 				attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 				url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
