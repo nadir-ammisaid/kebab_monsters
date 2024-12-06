@@ -1,42 +1,38 @@
-export default function Details() {
+import { useContext } from "react";
+import KebabContext from "../contexts/KebabContext";
+import type { KebabContextType } from "../contexts/KebabContext";
+import { useParams } from "react-router-dom";
+function Details() {
+	const kebabsData = useContext(KebabContext) as KebabContextType;
+	const { kebabs } = kebabsData;
+	if (!kebabs || !kebabs.businesses) {
+		return <p>Chargement des détails...</p>;
+	}
+	const { id } = useParams(); // Récupère l'ID du kebab depuis l'URL
+	const business = kebabs.businesses.find((business) => business.id === id);
+	if (!business) {
+		return <p>Business not found!</p>;
+	}
 	return (
-		<>
-			<p>Details</p>
-		</>
-		// <section className="show-details">
-		// 	<section className="show-card">
-		// 		<img
-		// 			src={show.image.original}
-		// 			alt={show.name}
-		// 			className="show-poster"
-		// 		/>
-		// 		<div className="show-info">
-		// 			<div id="title-favorite">
-		// 				<h1>{show.name}</h1>
-		// 			</div>
-		// 			<p>
-		// 				<strong>Release date :</strong>{" "}
-		// 				{new Date(show.premiered).getFullYear()}
-		// 			</p>
-		// 			<p>
-		// 				<strong>Country :</strong> {show.network?.country.name}
-		// 			</p>
-		// 			<p>
-		// 				<strong>Genres :</strong> {show.genres.join(", ")}
-		// 			</p>
-
-		// 			<p id="summary">
-		// 				<MovieSummary summary={show.summary} />
-		// 			</p>
-		// 		</div>
-		// 	</section>
-		// 	<section id="back-button-section">
-		// 		<Link to="/" style={{ textDecoration: "none" }}>
-		// 			<button type="button">
-		// 				<img src={LeftArrow} alt="Retour en arrière" id="back-button" />
-		// 			</button>
-		// 		</Link>
-		// 	</section>
-		// </section>
+		<section className="kebab-details">
+			<section className="kebab-card">
+				<img
+					src={business.image_url}
+					alt={business.name}
+					className="kebab-poster"
+				/>
+				<div className="kebab-info">
+					<div id="title-favorite">
+						<h1>{business.name}</h1>
+					</div>
+					<p id="phone">Téléphone: {business.display_phone}</p>
+					<p id="rating">Rating: {business.rating || "Non noté"}</p>
+					<p id="url">
+						Site Internet: {business.business_url || "URL non disponible"}
+					</p>
+				</div>
+			</section>
+		</section>
 	);
 }
+export default Details;
