@@ -31,9 +31,10 @@ section {
 	flex-direction: column; /* Aligner l'image et le titre horizontalement */
 	align-items: center;
 	justify-content: center;
-	padding: 2em;
+	padding: 1em;
 	border-radius: 1em;
 	width: 100%; /* Par défaut, les cartes prennent toute la largeur de l'écran sur mobile */
+	min-height: 70vh;
 	font-family: "Jaro", sans-serif;
 	font-size: medium;
 }
@@ -41,6 +42,7 @@ section {
 .businessCard img {
 	width: 70vw; /* Ajuste la largeur de l'image */
 	height: auto; /* Conserver la proportion de l'image */
+	max-height: 50vh;
 	border-radius: 1em;
 }
 
