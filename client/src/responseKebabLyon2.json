@@ -1,0 +1,2074 @@
+{
+	"businesses": [
+		{
+			"id": "RHpx0ej3300n7M4bh48q0Q",
+			"alias": "mis-kebab-vénissieux-4",
+			"name": "Mis Kebab",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gH6quH2uFgLa8kyNuoFeLQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/mis-kebab-v%C3%A9nissieux-4?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.3,
+			"coordinates": {
+				"latitude": 45.723628,
+				"longitude": 4.87243685871363
+			},
+			"transactions": [],
+			"location": {
+				"address1": "68 avenue Viviani",
+				"address2": "",
+				"address3": null,
+				"city": "Vénissieux",
+				"zip_code": "69200",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["68 avenue Viviani", "69200 Vénissieux", "France"]
+			},
+			"phone": "+33478017342",
+			"display_phone": "+33 4 78 01 73 42",
+			"distance": 4801.868024273485,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "S4aDI8MzsDuX7G7JlACVPw",
+			"alias": "la-medina-lyon-3",
+			"name": "La Medina",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/607edcGT81FoVVEbEJiKxw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/la-medina-lyon-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 8,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "mediterranean",
+					"title": "Mediterranean"
+				}
+			],
+			"rating": 2.6,
+			"coordinates": {
+				"latitude": 45.75343,
+				"longitude": 4.84132
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "13 rue de Marseille",
+				"address2": "",
+				"address3": "",
+				"city": "Lyon",
+				"zip_code": "69007",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["13 rue de Marseille", "69007 Lyon", "France"]
+			},
+			"phone": "+33472713142",
+			"display_phone": "+33 4 72 71 31 42",
+			"distance": 775.5879854660226,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "pW4j37ovvAeoJ4goLk27yg",
+			"alias": "croq-rousse-lyon-01",
+			"name": "Croq Rousse",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/croq-rousse-lyon-01?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "sandwiches",
+					"title": "Sandwiches"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 45.77187,
+				"longitude": 4.82723
+			},
+			"transactions": [],
+			"location": {
+				"address1": "1 Montée Des Carmelites",
+				"address2": "",
+				"address3": "",
+				"city": "Lyon 01",
+				"zip_code": "69001",
+				"country": "FR",
+				"state": "69",
+				"display_address": [
+					"1 Montée Des Carmelites",
+					"69001 Lyon 01",
+					"France"
+				]
+			},
+			"phone": "+33472078313",
+			"display_phone": "+33 4 72 07 83 13",
+			"distance": 1614.6470876804751,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1600",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "Ap7xGqF9lddu7IVajSMYLQ",
+			"alias": "restaurant-eclair-99-lyon",
+			"name": "Restaurant-Eclair 99",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ul2pW8ZUxhbzXXBArDuGrA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/restaurant-eclair-99-lyon?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 45.75366,
+				"longitude": 4.8902599
+			},
+			"transactions": [],
+			"location": {
+				"address1": "39 Cours Richard Vitton",
+				"address2": "",
+				"address3": "",
+				"city": "Lyon",
+				"zip_code": "69003",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["39 Cours Richard Vitton", "69003 Lyon", "France"]
+			},
+			"phone": "+33472332034",
+			"display_phone": "+33 4 72 33 20 34",
+			"distance": 3983.115547643486,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2300",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "9GQaE4YKRWz3U0ixw-qk2g",
+			"alias": "la-colombe-lyon-03",
+			"name": "La Colombe",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/la-colombe-lyon-03?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 45.7570289,
+				"longitude": 4.8492639
+			},
+			"transactions": [],
+			"location": {
+				"address1": "69 bis place Voltaire",
+				"address2": null,
+				"address3": null,
+				"city": "Lyon 03",
+				"zip_code": "69003",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["69 bis place Voltaire", "69003 Lyon 03", "France"]
+			},
+			"phone": "+33478954105",
+			"display_phone": "+33 4 78 95 41 05",
+			"distance": 813.8606877310659,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "E7O26rLQ8iwGqUTwM9BZ3Q",
+			"alias": "kebab-in-lyon",
+			"name": "Kebab'in",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kebab-in-lyon?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "burgers",
+					"title": "Burgers"
+				},
+				{
+					"alias": "sandwiches",
+					"title": "Sandwiches"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 45.765681,
+				"longitude": 4.855579
+			},
+			"transactions": [],
+			"location": {
+				"address1": "34 rue Juliette Récamier",
+				"address2": null,
+				"address3": null,
+				"city": "Lyon",
+				"zip_code": "69006",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["34 rue Juliette Récamier", "69006 Lyon", "France"]
+			},
+			"phone": "+33472752006",
+			"display_phone": "+33 4 72 75 20 06",
+			"distance": 1359.704817875416,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0100",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0100",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0100",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0100",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0100",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0100",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0100",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "EyDApx104eaaUBPYvCrN2w",
+			"alias": "la-new-casa-lyon",
+			"name": "La New Casa",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zvUZQUDVE9pYYhTe5nijkw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/la-new-casa-lyon?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "bbq",
+					"title": "Barbeque"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 45.7574146725622,
+				"longitude": 4.84944734785067
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "258 rue Duguesclin",
+				"address2": "",
+				"address3": "",
+				"city": "Lyon",
+				"zip_code": "69003",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["258 rue Duguesclin", "69003 Lyon", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 813.9594918314368,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "NeyTrfqb0c6u5Jo6ESt5yg",
+			"alias": "loomja-lyon",
+			"name": "Loomja",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/loomja-lyon?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "falafel",
+					"title": "Falafel"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 45.7765,
+				"longitude": 4.8042
+			},
+			"transactions": [],
+			"location": {
+				"address1": "13 rue de Bourgogne",
+				"address2": null,
+				"address3": "",
+				"city": "Lyon",
+				"zip_code": "69009",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["13 rue de Bourgogne", "69009 Lyon", "France"]
+			},
+			"phone": "+33469670796",
+			"display_phone": "+33 4 69 67 07 96",
+			"distance": 3298.1022582529813,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1430",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1830",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1430",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1830",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1430",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1830",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1530",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1830",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1430",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1830",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1430",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1830",
+							"end": "2300",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "X03Q36PFjCRPAQAcG8suhQ",
+			"alias": "la-maison-orientale-lyon-2",
+			"name": "La Maison Orientale",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/5d2P-pQK-amWyeOSagIgbw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/la-maison-orientale-lyon-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				},
+				{
+					"alias": "salad",
+					"title": "Salad"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 45.7701127,
+				"longitude": 4.8620037
+			},
+			"transactions": [],
+			"location": {
+				"address1": "117 avenue Thiers",
+				"address2": null,
+				"address3": null,
+				"city": "Lyon",
+				"zip_code": "69006",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["117 avenue Thiers", "69006 Lyon", "France"]
+			},
+			"phone": "+33469707735",
+			"display_phone": "+33 4 69 70 77 35",
+			"distance": 2035.940533683922,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "http://www.lamaisonorientale.fr/carte.html",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "qOWQnpc7gk5EVuMU37wWxg",
+			"alias": "burger-store-lyon-1er",
+			"name": "Burger store",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/g1BdbmFTr_35TrjVTc7wZA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/burger-store-lyon-1er?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "burgers",
+					"title": "Burgers"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 45.76914,
+				"longitude": 4.83212
+			},
+			"transactions": [],
+			"location": {
+				"address1": "99 Grande Cote",
+				"address2": "",
+				"address3": "",
+				"city": "Lyon 1Er",
+				"zip_code": "69001",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["99 Grande Cote", "69001 Lyon 1Er", "France"]
+			},
+			"phone": "+33952819998",
+			"display_phone": "+33 9 52 81 99 98",
+			"distance": 1478.5446685731986,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "PxlLzOiAXdsAw-a1yjFhEw",
+			"alias": "restaurant-karatay-lyon",
+			"name": "Restaurant Karatay",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/restaurant-karatay-lyon?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 45.7684402,
+				"longitude": 4.8319802
+			},
+			"transactions": [],
+			"location": {
+				"address1": "23 rue Terme",
+				"address2": "",
+				"address3": "",
+				"city": "Lyon",
+				"zip_code": "69001",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["23 rue Terme", "69001 Lyon", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1084.199317531146,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "rAhNGoWxIDZxgeMKW6Ip2Q",
+			"alias": "pamukkale-lyon",
+			"name": "Pamukkale",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UKOxYsUAdftk8LZoM-F_OA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/pamukkale-lyon?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "halal",
+					"title": "Halal"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "sandwiches",
+					"title": "Sandwiches"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 45.773092,
+				"longitude": 4.809879
+			},
+			"transactions": [],
+			"location": {
+				"address1": "10 quai Arloing",
+				"address2": null,
+				"address3": "",
+				"city": "Lyon",
+				"zip_code": "69009",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["10 quai Arloing", "69009 Lyon", "France"]
+			},
+			"phone": "+33954743011",
+			"display_phone": "+33 9 54 74 30 11",
+			"distance": 2721.953908872906,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1130",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1130",
+							"end": "0200",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "gviFNgOZt6R5MSSzsLzSMw",
+			"alias": "kebab-granclément-villeurbanne",
+			"name": "Kebab Granclément",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kebab-grancl%C3%A9ment-villeurbanne?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "halal",
+					"title": "Halal"
+				},
+				{
+					"alias": "burgers",
+					"title": "Burgers"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 45.75935,
+				"longitude": 4.88858
+			},
+			"transactions": [],
+			"location": {
+				"address1": "53 place Jules Grandclément",
+				"address2": null,
+				"address3": "",
+				"city": "Villeurbanne",
+				"zip_code": "69100",
+				"country": "FR",
+				"state": "69",
+				"display_address": [
+					"53 place Jules Grandclément",
+					"69100 Villeurbanne",
+					"France"
+				]
+			},
+			"phone": "+33973218700",
+			"display_phone": "+33 9 73 21 87 00",
+			"distance": 3766.022595759959,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2230",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2230",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2230",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2230",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2230",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2230",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2230",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "LAU_AKnd-HtTJ37GTspIZw",
+			"alias": "le-splendid-lyon",
+			"name": "Le Splendid",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jbZI9Wsx8ORX-m2-tJn2GQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/le-splendid-lyon?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 69,
+			"categories": [
+				{
+					"alias": "french",
+					"title": "French"
+				}
+			],
+			"rating": 3.5,
+			"coordinates": {
+				"latitude": 45.76747,
+				"longitude": 4.85883
+			},
+			"transactions": [],
+			"price": "€€€",
+			"location": {
+				"address1": "3 place Jules Ferry",
+				"address2": "",
+				"address3": null,
+				"city": "Lyon",
+				"zip_code": "69006",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["3 place Jules Ferry", "69006 Lyon", "France"]
+			},
+			"phone": "+33437248585",
+			"display_phone": "+33 4 37 24 85 85",
+			"distance": 1669.395684859415,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1400",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1400",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1400",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1400",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1400",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1400",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2300",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1400",
+							"day": 6
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "p0h3vOEyhu_PgMQNH_dT_g",
+			"alias": "kebab-man-villeurbanne",
+			"name": "Kebab Man",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kebab-man-villeurbanne?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 45.77106,
+				"longitude": 4.86804
+			},
+			"transactions": [],
+			"location": {
+				"address1": "59 cours Emile Zola",
+				"address2": "",
+				"address3": null,
+				"city": "Villeurbanne",
+				"zip_code": "69100",
+				"country": "FR",
+				"state": "69",
+				"display_address": [
+					"59 cours Emile Zola",
+					"69100 Villeurbanne",
+					"France"
+				]
+			},
+			"phone": "+33478931230",
+			"display_phone": "+33 4 78 93 12 30",
+			"distance": 2493.459781724332,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "0la0z0zIc7Nl_hwcna3e_w",
+			"alias": "cheesy-oullins",
+			"name": "Cheesy",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/cheesy-oullins?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 45.71803,
+				"longitude": 4.80834
+			},
+			"transactions": [],
+			"location": {
+				"address1": "15 bd Emile Zola",
+				"address2": null,
+				"address3": null,
+				"city": "Oullins",
+				"zip_code": "69600",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["15 bd Emile Zola", "69600 Oullins", "France"]
+			},
+			"phone": "+33426005387",
+			"display_phone": "+33 4 26 00 53 87",
+			"distance": 5305.86412895776,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "1400",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2230",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "1400",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2230",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "1400",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2230",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "1400",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2230",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "1400",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2230",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2230",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2230",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "QXg82320JkaOjzbLRQsCRg",
+			"alias": "le-315-villeurbanne",
+			"name": "Le 315",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/le-315-villeurbanne?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 45.7667503,
+				"longitude": 4.8949599
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "315 cours Emile Zola",
+				"address2": "",
+				"address3": "",
+				"city": "Villeurbanne",
+				"zip_code": "69100",
+				"country": "FR",
+				"state": "69",
+				"display_address": [
+					"315 cours Emile Zola",
+					"69100 Villeurbanne",
+					"France"
+				]
+			},
+			"phone": "+33478846299",
+			"display_phone": "+33 4 78 84 62 99",
+			"distance": 4341.243573254649,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "GZDTZrX9Otyat2ugDdj8yA",
+			"alias": "zelal-lyon",
+			"name": "Zelal",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/zelal-lyon?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 1.0,
+			"coordinates": {
+				"latitude": 45.7418099917525,
+				"longitude": 4.83987
+			},
+			"transactions": [],
+			"location": {
+				"address1": "125 Avenue Jean Jaurès",
+				"address2": "",
+				"address3": "",
+				"city": "Lyon",
+				"zip_code": "69007",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["125 Avenue Jean Jaurès", "69007 Lyon", "France"]
+			},
+			"phone": "+33472705908",
+			"display_phone": "+33 4 72 70 59 08",
+			"distance": 2058.9061074892334,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "SaBIcanfU6JyvcCM93TJ8Q",
+			"alias": "snack-des-facs-lyon",
+			"name": "snack des facs",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/snack-des-facs-lyon?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 2.0,
+			"coordinates": {
+				"latitude": 45.73866706,
+				"longitude": 4.8836153
+			},
+			"transactions": [],
+			"location": {
+				"address1": "70 Laennec",
+				"address2": "",
+				"address3": "",
+				"city": "Lyon",
+				"zip_code": "69008",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["70 Laennec", "69008 Lyon", "France"]
+			},
+			"phone": "+33472786036",
+			"display_phone": "+33 4 72 78 60 36",
+			"distance": 4262.351708916466,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "5czJrUTZNfwPuZ4BIZLr3A",
+			"alias": "cappadoce-villeurbanne",
+			"name": "Cappadoce",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/cappadoce-villeurbanne?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 45.7589333276495,
+				"longitude": 4.88726612180471
+			},
+			"transactions": [],
+			"location": {
+				"address1": "51 place Jules Grandclément",
+				"address2": "",
+				"address3": null,
+				"city": "Villeurbanne",
+				"zip_code": "69100",
+				"country": "FR",
+				"state": "69",
+				"display_address": [
+					"51 place Jules Grandclément",
+					"69100 Villeurbanne",
+					"France"
+				]
+			},
+			"phone": "+33950172215",
+			"display_phone": "+33 9 50 17 22 15",
+			"distance": 3683.9314424076274,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "V0y7UEawMRSUXSju_I7n5g",
+			"alias": "le-royal-villeurbanne",
+			"name": "Le Royal",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/le-royal-villeurbanne?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 45.7764180753341,
+				"longitude": 4.86269608139992
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "2 ave Salvador Allendé",
+				"address2": "",
+				"address3": "",
+				"city": "Villeurbanne",
+				"zip_code": "69100",
+				"country": "FR",
+				"state": "69",
+				"display_address": [
+					"2 ave Salvador Allendé",
+					"69100 Villeurbanne",
+					"France"
+				]
+			},
+			"phone": "+33478935366",
+			"display_phone": "+33 4 78 93 53 66",
+			"distance": 2519.9075559830803,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "HDrCI8BDCHOw62L3OAgVoA",
+			"alias": "n-et-l-restaurant-villeurbanne-2",
+			"name": "N&L Restaurant",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/n-et-l-restaurant-villeurbanne-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 45.7514339755489,
+				"longitude": 4.90632556378841
+			},
+			"transactions": [],
+			"location": {
+				"address1": "259 route de Gênas",
+				"address2": "",
+				"address3": "",
+				"city": "Villeurbanne",
+				"zip_code": "69100",
+				"country": "FR",
+				"state": "69",
+				"display_address": [
+					"259 route de Gênas",
+					"69100 Villeurbanne",
+					"France"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 5253.488122567623,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "1vMb2ZgLScGbwb4OinM7FQ",
+			"alias": "mimosa-lyon-2",
+			"name": "Mimosa",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/mimosa-lyon-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 2.5,
+			"coordinates": {
+				"latitude": 45.7511597,
+				"longitude": 4.8435602
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "7 Rue de la Thibaudière",
+				"address2": "",
+				"address3": "",
+				"city": "Lyon",
+				"zip_code": "69007",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["7 Rue de la Thibaudière", "69007 Lyon", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1058.8619833398143,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "WlEr8-NHOq5noV5TyqppFg",
+			"alias": "kardelen-lyon",
+			"name": "Kardelen",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kardelen-lyon?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 45.7566986,
+				"longitude": 4.84622
+			},
+			"transactions": [],
+			"location": {
+				"address1": "126 avenue marechal de Saxe",
+				"address2": "",
+				"address3": "",
+				"city": "Lyon",
+				"zip_code": "69003",
+				"country": "FR",
+				"state": "69",
+				"display_address": [
+					"126 avenue marechal de Saxe",
+					"69003 Lyon",
+					"France"
+				]
+			},
+			"phone": "+33952095252",
+			"display_phone": "+33 9 52 09 52 52",
+			"distance": 644.274030491642,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "kNV7l-FM0ld57UcqjL7D5w",
+			"alias": "baba-box-lyon",
+			"name": "Baba Box",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/baba-box-lyon?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 1.0,
+			"coordinates": {
+				"latitude": 45.7556511692627,
+				"longitude": 4.8411163687706
+			},
+			"transactions": [],
+			"location": {
+				"address1": "4 cours Gambetta",
+				"address2": "",
+				"address3": null,
+				"city": "Lyon",
+				"zip_code": "69007",
+				"country": "FR",
+				"state": "69",
+				"display_address": ["4 cours Gambetta", "69007 Lyon", "France"]
+			},
+			"phone": "+33678175968",
+			"display_phone": "+33 6 78 17 59 68",
+			"distance": 529.4622222479596,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0400",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0400",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0400",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "-tLBIk8aNoG9Q81sYRx0ew",
+			"alias": "le-soufi-villeurbanne",
+			"name": "Le Soufi",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/le-soufi-villeurbanne?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "burgers",
+					"title": "Burgers"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "sandwiches",
+					"title": "Sandwiches"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 45.76686,
+				"longitude": 4.89413
+			},
+			"transactions": [],
+			"location": {
+				"address1": "296 cours Emile Zola",
+				"address2": null,
+				"address3": null,
+				"city": "Villeurbanne",
+				"zip_code": "69100",
+				"country": "FR",
+				"state": "69",
+				"display_address": [
+					"296 cours Emile Zola",
+					"69100 Villeurbanne",
+					"France"
+				]
+			},
+			"phone": "+33478032623",
+			"display_phone": "+33 4 78 03 26 23",
+			"distance": 4275.043852271677,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1330",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2230",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1330",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2230",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1330",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2230",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1330",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2230",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1330",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2230",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1330",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2230",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1330",
+							"day": 6
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2230",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "http://lesoufi.fr/liste-categorie.html",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "0oy035YvDSwlx0uqSnoizw",
+			"alias": "cusset-food-villeurbanne",
+			"name": "Cusset Food",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/cusset-food-villeurbanne?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				},
+				{
+					"alias": "indpak",
+					"title": "Indian"
+				}
+			],
+			"rating": 1.0,
+			"coordinates": {
+				"latitude": 45.7661,
+				"longitude": 4.90084
+			},
+			"transactions": [],
+			"location": {
+				"address1": "263 rue du 4 Aout 1789",
+				"address2": null,
+				"address3": "",
+				"city": "Villeurbanne",
+				"zip_code": "69100",
+				"country": "FR",
+				"state": "69",
+				"display_address": [
+					"263 rue du 4 Aout 1789",
+					"69100 Villeurbanne",
+					"France"
+				]
+			},
+			"phone": "+33983873821",
+			"display_phone": "+33 9 83 87 38 21",
+			"distance": 4789.54993778038,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		}
+	],
+	"total": 78,
+	"region": {
+		"center": {
+			"longitude": 4.839820861816406,
+			"latitude": 45.760326168012995
+		}
+	}
+}
