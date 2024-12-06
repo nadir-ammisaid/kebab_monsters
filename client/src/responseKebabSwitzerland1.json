@@ -1,0 +1,3574 @@
+{
+	"businesses": [
+		{
+			"id": "el3zCZPRa7qPKgReF89low",
+			"alias": "kings-kebab-zürich",
+			"name": "Kings Kebab",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ZgtZprnHdyibV--HN0H-wQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kings-kebab-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 5,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 4.4,
+			"coordinates": {
+				"latitude": 47.37598,
+				"longitude": 8.54391
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Niederdorfstrasse 71",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8001",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Niederdorfstrasse 71",
+					"8001 Zürich",
+					"Switzerland"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1154.6274427659348,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "a-HEtL-JMHYMTokCuL4pzg",
+			"alias": "kebab-haus-höngg-zürich-2",
+			"name": "Kebab Haus Höngg",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JgnmccS5V0SSmllIu9rYuA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kebab-haus-h%C3%B6ngg-z%C3%BCrich-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 12,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 47.40194,
+				"longitude": 8.49598
+			},
+			"transactions": [],
+			"price": "$",
+			"location": {
+				"address1": "Limmattalstrasse 227",
+				"address2": null,
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8049",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Limmattalstrasse 227",
+					"8049 Zürich",
+					"Switzerland"
+				]
+			},
+			"phone": "+41433004301",
+			"display_phone": "+41 43 300 43 01",
+			"distance": 3469.1907467087954,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "CTtuUB-EMwSb547NMgER5w",
+			"alias": "original-kebab-haus-zürich-3",
+			"name": "Original Kebab Haus",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/-2K9CNGvocO9sQ14Wta7OQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/original-kebab-haus-z%C3%BCrich-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 10,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				}
+			],
+			"rating": 4.1,
+			"coordinates": {
+				"latitude": 47.40946,
+				"longitude": 8.54467
+			},
+			"transactions": [],
+			"price": "$",
+			"location": {
+				"address1": "Franklinstrasse 20",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8050",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Franklinstrasse 20", "8050 Zürich", "Switzerland"]
+			},
+			"phone": "+41435586644",
+			"display_phone": "+41 43 558 66 44",
+			"distance": 3084.793665508872,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "K62ue01TpDBwjE-6g6WxgA",
+			"alias": "ayverdis-zürich-4",
+			"name": "AYVERDI'S",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qhIoBBS7MRh8KgePrddFsA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/ayverdis-z%C3%BCrich-4?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 9,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				},
+				{
+					"alias": "mideastern",
+					"title": "Middle Eastern"
+				}
+			],
+			"rating": 3.8,
+			"coordinates": {
+				"latitude": 47.4146682137205,
+				"longitude": 8.56125343740303
+			},
+			"transactions": [],
+			"price": "$$$",
+			"location": {
+				"address1": "Genossenschaftsstrasse 18",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8050",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Genossenschaftsstrasse 18",
+					"8050 Zürich",
+					"Switzerland"
+				]
+			},
+			"phone": "+41435449950",
+			"display_phone": "+41 43 544 99 50",
+			"distance": 4129.512833050334,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "https://ayverdis.ch/menue/",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "ewG8IOIq-H2N51Svb4d34A",
+			"alias": "1001-zürich",
+			"name": "1001 ",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gYIkMZ0T8lq8WR9ODtF0qw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/1001-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 22,
+			"categories": [
+				{
+					"alias": "food",
+					"title": "Food"
+				}
+			],
+			"rating": 2.9,
+			"coordinates": {
+				"latitude": 47.37286,
+				"longitude": 8.54384
+			},
+			"transactions": [],
+			"price": "$$",
+			"location": {
+				"address1": "Niederdorfstrasse 4",
+				"address2": null,
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8001",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Niederdorfstrasse 4", "8001 Zürich", "Switzerland"]
+			},
+			"phone": "+41442529060",
+			"display_phone": "+41 44 252 90 60",
+			"distance": 1410.9349208016383,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "l-21hG_gAmMgTBJ1ygtEJQ",
+			"alias": "sesam-falafelbar-zürich",
+			"name": "Sesam Falafelbar",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GIOTD1p72V8k7UgHDSKVkQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/sesam-falafelbar-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "foodstands",
+					"title": "Food Stands"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 47.3744202,
+				"longitude": 8.5380096
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Seidengasse 6",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8001",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Seidengasse 6", "8001 Zürich", "Switzerland"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1037.0680002472368,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "6j0Tz0Oc90cPipCGfHV5OA",
+			"alias": "new-point-zürich-2",
+			"name": "New Point",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/grYUtXFwf4I8UW8D8nWjdw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/new-point-z%C3%BCrich-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 16,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 3.7,
+			"coordinates": {
+				"latitude": 47.382793177818,
+				"longitude": 8.5301194324267
+			},
+			"transactions": [],
+			"price": "$$",
+			"location": {
+				"address1": "Langstrasse 206",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8005",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Langstrasse 206", "8005 Zürich", "Switzerland"]
+			},
+			"phone": "+41442720354",
+			"display_phone": "+41 44 272 03 54",
+			"distance": 188.16661009317772,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0430",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0430",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0430",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0430",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0800",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0800",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "x2aRTw2TFevKcN2llQZrTA",
+			"alias": "oase-gloria-zürich",
+			"name": "Oase Gloria",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_OLXU_2hkWKotzWkAQcaUQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/oase-gloria-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 4,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "burgers",
+					"title": "Burgers"
+				},
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				}
+			],
+			"rating": 3.5,
+			"coordinates": {
+				"latitude": 47.3749200789955,
+				"longitude": 8.55246133985906
+			},
+			"transactions": [],
+			"price": "$",
+			"location": {
+				"address1": "Gloriastrasse 19",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8006",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Gloriastrasse 19", "8006 Zürich", "Switzerland"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1744.421189749622,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "KeNGoOn5jsAtsq-AXyDWzQ",
+			"alias": "hiltl-zürich",
+			"name": "Hiltl",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9ebuU6TU4XOG9hp5tm8nig/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/hiltl-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 346,
+			"categories": [
+				{
+					"alias": "vegetarian",
+					"title": "Vegetarian"
+				},
+				{
+					"alias": "breakfast_brunch",
+					"title": "Breakfast & Brunch"
+				},
+				{
+					"alias": "buffets",
+					"title": "Buffets"
+				}
+			],
+			"rating": 4.4,
+			"coordinates": {
+				"latitude": 47.373203894653,
+				"longitude": 8.5366113415075
+			},
+			"transactions": [],
+			"price": "$$",
+			"location": {
+				"address1": "Sihlstrasse 28",
+				"address2": null,
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8001",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Sihlstrasse 28", "8001 Zürich", "Switzerland"]
+			},
+			"phone": "+41442277000",
+			"display_phone": "+41 44 227 70 00",
+			"distance": 1130.0913539697299,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0700",
+							"end": "2200",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0700",
+							"end": "2200",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0700",
+							"end": "2200",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0700",
+							"end": "2200",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0700",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "2300",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "https://hiltl.ch/app/uploads/2019/12/Flyout_DE-3.pdf",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "PbP9tnLAPHWvoTePh_wYrQ",
+			"alias": "tas-imbiss-zürich",
+			"name": "Tas Imbiss",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OKiOT9O3TOBsfEAgbeTV9w/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/tas-imbiss-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.5,
+			"coordinates": {
+				"latitude": 47.3792,
+				"longitude": 8.52465
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Brauerstrasse 78",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8004",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Brauerstrasse 78", "8004 Zürich", "Switzerland"]
+			},
+			"phone": "+41432438033",
+			"display_phone": "+41 43 243 80 33",
+			"distance": 732.8376065698674,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0930",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0930",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0930",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0930",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0930",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "0930",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "0930",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "-JQBL9vzutKXkAeOmepjGw",
+			"alias": "new-point-hardbrücke-zürich",
+			"name": "New Point Hardbrücke",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/f0OKuBvUNDjsdg_WmbG3Ew/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/new-point-hardbr%C3%BCcke-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 22,
+			"categories": [
+				{
+					"alias": "foodstands",
+					"title": "Food Stands"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.1,
+			"coordinates": {
+				"latitude": 47.38753,
+				"longitude": 8.51976
+			},
+			"transactions": [],
+			"price": "$$",
+			"location": {
+				"address1": "Hardstrasse 240",
+				"address2": null,
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8005",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Hardstrasse 240", "8005 Zürich", "Switzerland"]
+			},
+			"phone": "+41438182545",
+			"display_phone": "+41 43 818 25 45",
+			"distance": 1087.7182981358417,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "0600",
+							"end": "0400",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "0600",
+							"end": "0400",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "0600",
+							"end": "0400",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "0600",
+							"end": "0400",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "0600",
+							"end": "0530",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "0600",
+							"end": "0530",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "0600",
+							"end": "0400",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "huPjevpluKERlTUClUmGKw",
+			"alias": "ayverdis-wiedikon-2",
+			"name": "AYVERDI'S",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/W7rvJlOsIfgMJOxT7Vd_qA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/ayverdis-wiedikon-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "burgers",
+					"title": "Burgers"
+				},
+				{
+					"alias": "mideastern",
+					"title": "Middle Eastern"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 47.37977,
+				"longitude": 8.50612
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Badenerstrasse 415",
+				"address2": "",
+				"address3": null,
+				"city": "Wiedikon",
+				"zip_code": "8003",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Badenerstrasse 415",
+					"8003 Wiedikon",
+					"Switzerland"
+				]
+			},
+			"phone": "+41435449950",
+			"display_phone": "+41 43 544 99 50",
+			"distance": 2028.1890023715243,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "https://ayverdis.ch/menue/",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "K7xMx1eLOzG6dTmc_zC0xg",
+			"alias": "new-point-zürich-3",
+			"name": "New Point",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-oOOhKv2N9NRxIQrEdgM1A/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/new-point-z%C3%BCrich-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 7,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 47.3786228,
+				"longitude": 8.5099692
+			},
+			"transactions": [],
+			"price": "$",
+			"location": {
+				"address1": "Albisrieder - Platz 5",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8004",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Albisrieder - Platz 5",
+					"8004 Zürich",
+					"Switzerland"
+				]
+			},
+			"phone": "+41433111212",
+			"display_phone": "+41 43 311 12 12",
+			"distance": 1772.0321560034013,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0000",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0600",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0000",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0600",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0000",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0600",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0000",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0600",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0000",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "0600",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "0000",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "0000",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "kfgImhZw1VsCIZMxp4HjRg",
+			"alias": "nectar-döner-zürich",
+			"name": "Nectar Döner",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DiZChIlwR0bkB0o0_dmagA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/nectar-d%C3%B6ner-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 11,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.3,
+			"coordinates": {
+				"latitude": 47.39024,
+				"longitude": 8.523
+			},
+			"transactions": [],
+			"price": "$$",
+			"location": {
+				"address1": "Limmatstrasse 317",
+				"address2": null,
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8005",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Limmatstrasse 317", "8005 Zürich", "Switzerland"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1082.3095890736447,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "0600",
+							"end": "0100",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "0600",
+							"end": "0100",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "0600",
+							"end": "0100",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "0600",
+							"end": "0430",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "0600",
+							"end": "0530",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "0600",
+							"end": "0530",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "0600",
+							"end": "0100",
+							"day": 6
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "rUjGONCYmPueTer0kD6xmw",
+			"alias": "cèdre-bellevue-zürich-3",
+			"name": "Cèdre-Bellevue",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fyfNTm0X15dqriEGD3E9HQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/c%C3%A8dre-bellevue-z%C3%BCrich-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 34,
+			"categories": [
+				{
+					"alias": "lebanese",
+					"title": "Lebanese"
+				}
+			],
+			"rating": 3.4,
+			"coordinates": {
+				"latitude": 47.36867,
+				"longitude": 8.5443
+			},
+			"transactions": [],
+			"price": "$$",
+			"location": {
+				"address1": "Schifflände 5",
+				"address2": null,
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8001",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Schifflände 5", "8001 Zürich", "Switzerland"]
+			},
+			"phone": "+41442528370",
+			"display_phone": "+41 44 252 83 70",
+			"distance": 1820.492937466371,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1400",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1800",
+							"end": "0030",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1400",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1800",
+							"end": "0030",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1400",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1800",
+							"end": "0030",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1400",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1800",
+							"end": "0030",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1400",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1800",
+							"end": "0030",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1800",
+							"end": "0030",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1800",
+							"end": "0030",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "nPYqotPJBinT2j1b9f6m-Q",
+			"alias": "nosch-imbiss-und-cafébar-zürich",
+			"name": "NOSCH Imbiss und Cafébar",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MnJ1okUd31synI4x3dEqlQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/nosch-imbiss-und-caf%C3%A9bar-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 5,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 47.3752435,
+				"longitude": 8.543683
+			},
+			"transactions": [],
+			"price": "$$",
+			"location": {
+				"address1": "Niederdorfstrasse 49",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8001",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Niederdorfstrasse 49",
+					"8001 Zürich",
+					"Switzerland"
+				]
+			},
+			"phone": "+41442611208",
+			"display_phone": "+41 44 261 12 08",
+			"distance": 1198.6383642076971,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "_Xbmh8Ruwsq6FjkH0buaqA",
+			"alias": "escherwyss-kebab-zürich-2",
+			"name": "Escherwyss Kebab",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/q4H1RUK6MTN1PXl7snnYig/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/escherwyss-kebab-z%C3%BCrich-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "foodstands",
+					"title": "Food Stands"
+				}
+			],
+			"rating": 3.5,
+			"coordinates": {
+				"latitude": 47.38745,
+				"longitude": 8.51971
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Hardstrasse 238",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8005",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Hardstrasse 238", "8005 Zürich", "Switzerland"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1090.9943664655984,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "0NCTlUC2KRTphqNPYUYxUw",
+			"alias": "ubs-restaurant-elite-zürich",
+			"name": "UBS Restaurant Elite",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/sGsY1HtBHMoyjaBQIXv5-g/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/ubs-restaurant-elite-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "italian",
+					"title": "Italian"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "wok",
+					"title": "Wok"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 47.371453,
+				"longitude": 8.537741
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Nüschelerstrasse 6",
+				"address2": null,
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8001",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Nüschelerstrasse 6", "8001 Zürich", "Switzerland"]
+			},
+			"phone": "+41442345071",
+			"display_phone": "+41 44 234 50 71",
+			"distance": 1340.7682557197409,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0700",
+							"end": "1500",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0700",
+							"end": "1500",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0700",
+							"end": "1500",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0700",
+							"end": "1500",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0700",
+							"end": "1500",
+							"day": 4
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "DV_HGHFFZYQdiWXTVnE5xQ",
+			"alias": "les-délices-d-orient-zürich",
+			"name": "Les Délices d'Orient",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fgsPrYEeqvdCAQl8mROqgg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/les-d%C3%A9lices-d-orient-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 4,
+			"categories": [
+				{
+					"alias": "lebanese",
+					"title": "Lebanese"
+				},
+				{
+					"alias": "syrian",
+					"title": "Syrian"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 47.3737799,
+				"longitude": 8.52606
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Badenerstrasse 85",
+				"address2": null,
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8004",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Badenerstrasse 85", "8004 Zürich", "Switzerland"]
+			},
+			"phone": "+41445579105",
+			"display_phone": "+41 44 557 91 05",
+			"distance": 1137.213215717999,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2230",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2230",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2230",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2230",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2230",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2230",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "LtiHttjTvJvIg_rtJNc_8Q",
+			"alias": "chickeria-zürich",
+			"name": "Chickeria",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hfXNsJM6rv_Owg8HHrgeXQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/chickeria-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 10,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "chickenshop",
+					"title": "Chicken Shop"
+				},
+				{
+					"alias": "swissfood",
+					"title": "Swiss Food"
+				}
+			],
+			"rating": 3.7,
+			"coordinates": {
+				"latitude": 47.411347,
+				"longitude": 8.544882
+			},
+			"transactions": [],
+			"price": "$",
+			"location": {
+				"address1": "Hofwiesenstrasse 370",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8050",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Hofwiesenstrasse 370",
+					"8050 Zürich",
+					"Switzerland"
+				]
+			},
+			"phone": "+41443151851",
+			"display_phone": "+41 44 315 18 51",
+			"distance": 3285.075615688913,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0100",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0100",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "https://chickeria.ch/menuekarte/",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "xA2ehCn9S3TaV7BWv0BKyA",
+			"alias": "best-kebab-takeaway-abbas-yelocagi-zürich-2",
+			"name": "Best Kebab Takeaway Abbas Yelocagi",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/best-kebab-takeaway-abbas-yelocagi-z%C3%BCrich-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 2.0,
+			"coordinates": {
+				"latitude": 47.37572,
+				"longitude": 8.5439
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Niederdorfstrasse 63",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8001",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Niederdorfstrasse 63",
+					"8001 Zürich",
+					"Switzerland"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1174.1194012657804,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "BhCP_JqhA5UYKIipQa-_1A",
+			"alias": "kanzleitreff-zürich",
+			"name": "KANZLEItreff",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kanzleitreff-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.5,
+			"coordinates": {
+				"latitude": 47.3756905,
+				"longitude": 8.5249395
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Langstrasse 31",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8004",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Langstrasse 31", "8004 Zürich", "Switzerland"]
+			},
+			"phone": "+41442414455",
+			"display_phone": "+41 44 241 44 55",
+			"distance": 987.0940543437845,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "PFqPtjd7JEYb-nGnyG1rJQ",
+			"alias": "ilhans-dietlikon",
+			"name": "Ilhan's",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1d35Ms-_7-9YORGAPuhrAQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/ilhans-dietlikon?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 47.41517,
+				"longitude": 8.61961
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Neue Winterthurerstrasse 20",
+				"address2": "",
+				"address3": "",
+				"city": "Dietlikon",
+				"zip_code": "8305",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Neue Winterthurerstrasse 20",
+					"8305 Dietlikon",
+					"Switzerland"
+				]
+			},
+			"phone": "+41434955252",
+			"display_phone": "+41 43 495 52 52",
+			"distance": 7491.58058964185,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "1400",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1730",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "1400",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1730",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "1400",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1730",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "1400",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1730",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "1400",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1730",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "1230",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1500",
+							"end": "2200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "To2szd9CQb25-LFfRewSuw",
+			"alias": "ayverdis-zürich-3",
+			"name": "AYVERDI'S",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/4s7cHSIVeWOspcqWoeaRbg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/ayverdis-z%C3%BCrich-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 11,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "mideastern",
+					"title": "Middle Eastern"
+				},
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 47.411439,
+				"longitude": 8.525383
+			},
+			"transactions": [],
+			"price": "$",
+			"location": {
+				"address1": "Wehntalerstrasse 289",
+				"address2": null,
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8046",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Wehntalerstrasse 289",
+					"8046 Zürich",
+					"Switzerland"
+				]
+			},
+			"phone": "+41435449950",
+			"display_phone": "+41 43 544 99 50",
+			"distance": 3208.8749202505505,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "https://ayverdis.ch/menue/",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "9E3OBQK0LPu3cqZl4smwgw",
+			"alias": "cevapdzinica-zürich",
+			"name": "Cevapdzinica",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/cjJm_P17vF-qBpdAulOcZQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/cevapdzinica-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "foodstands",
+					"title": "Food Stands"
+				}
+			],
+			"rating": 4.7,
+			"coordinates": {
+				"latitude": 47.3804057,
+				"longitude": 8.5050934
+			},
+			"transactions": [],
+			"price": "$$$",
+			"location": {
+				"address1": "Badenerstrasse 447",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8003",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Badenerstrasse 447", "8003 Zürich", "Switzerland"]
+			},
+			"phone": "+41443001315",
+			"display_phone": "+41 44 300 13 15",
+			"distance": 2120.3396679888124,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "7WLSNEcUHg7sFL8uAmP8EQ",
+			"alias": "payamlino-zürich",
+			"name": "Payamlino",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/gGyBnz5rzuuQyKdCEHIppg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/payamlino-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 4,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.5,
+			"coordinates": {
+				"latitude": null,
+				"longitude": null
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Uetlibergstrasse 103",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8045",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Uetlibergstrasse 103",
+					"8045 Zürich",
+					"Switzerland"
+				]
+			},
+			"phone": "+41446660303",
+			"display_phone": "+41 44 666 03 03",
+			"distance": 2630.90985701568,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "1rX7CYeJYLWhfnchGUZOhQ",
+			"alias": "happy-chef-zürich",
+			"name": "Happy Chef",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/happy-chef-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "breakfast_brunch",
+					"title": "Breakfast & Brunch"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 47.36797,
+				"longitude": 8.53508
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Bleicherweg 44",
+				"address2": "",
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8002",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Bleicherweg 44", "8002 Zürich", "Switzerland"]
+			},
+			"phone": "+41442012686",
+			"display_phone": "+41 44 201 26 86",
+			"distance": 1681.2169635851203,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2100",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2100",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2100",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2100",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2100",
+							"day": 4
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "AoMCI_q3uS7ID2BM_lJYVA",
+			"alias": "pizzeria-la-casa-zürich",
+			"name": "Pizzeria La Casa",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/O2e9E9yA_I6L8B4QMMoL3A/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/pizzeria-la-casa-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "italian",
+					"title": "Italian"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 47.3713188,
+				"longitude": 8.52036
+			},
+			"transactions": [],
+			"price": "$",
+			"location": {
+				"address1": "Zweierstrasse 124",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8003",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Zweierstrasse 124", "8003 Zürich", "Switzerland"]
+			},
+			"phone": "+438187778",
+			"display_phone": "+43 818 7778",
+			"distance": 1591.0157588984844,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "http://www.pizzerialacasa.ch/shop/menukarte/pizzerialacasa-menu.pdf",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "DgGPhaj-6RkpkjpQUTL0sg",
+			"alias": "gül-restoran-zürich",
+			"name": "Gül Restoran",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/yyph34gn6p210kTX5fQxPg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/g%C3%BCl-restoran-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 47.378477,
+				"longitude": 8.529162
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Tellstrasse 22",
+				"address2": "",
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8004",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Tellstrasse 22", "8004 Zürich", "Switzerland"]
+			},
+			"phone": "+41444319090",
+			"display_phone": "+41 44 431 90 90",
+			"distance": 565.3991292844604,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1400",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1400",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1400",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1400",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1400",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "https://guel.ch/media/190104_beispielmenu_guel_abend.pdf",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "ieO6G7RCm5NHj1jyYpQsiQ",
+			"alias": "la-favorita-zürich",
+			"name": "La Favorita",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5LIIGdd7su9B4gDSzmcnWw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/la-favorita-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 1.0,
+			"coordinates": {
+				"latitude": 47.370244,
+				"longitude": 8.5181987
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Birmensdorferstrasse 169",
+				"address2": null,
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8003",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Birmensdorferstrasse 169",
+					"8003 Zürich",
+					"Switzerland"
+				]
+			},
+			"phone": "+41444501515",
+			"display_phone": "+41 44 450 15 15",
+			"distance": 1785.224766541929,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2200",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2200",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2200",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2200",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2200",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2200",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "GlZnNCFOmsWdcoNA3AzPcQ",
+			"alias": "evin-kebap-haus-zürich",
+			"name": "Evin Kebap Haus",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/evin-kebap-haus-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "hotelstravel",
+					"title": "Hotels & Travel"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 47.3808128,
+				"longitude": 8.5182621
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Hohlstrasse 187",
+				"address2": null,
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8004",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Hohlstrasse 187", "8004 Zürich", "Switzerland"]
+			},
+			"phone": "+41442910080",
+			"display_phone": "+41 44 291 00 80",
+			"distance": 1106.5374072521813,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "F7rLo47Id15hBJdboYGx6w",
+			"alias": "linden-treff-zürich",
+			"name": "Linden Treff",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/8Ty9MUYI-bkiZH8ybAr5Ug/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/linden-treff-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				},
+				{
+					"alias": "burgers",
+					"title": "Burgers"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 47.3882818635227,
+				"longitude": 8.48473495043805
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Badenerstrasse 682",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8048",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Badenerstrasse 682", "8048 Zürich", "Switzerland"]
+			},
+			"phone": "+41433217630",
+			"display_phone": "+41 43 321 76 30",
+			"distance": 3651.1725901559776,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "0900",
+							"end": "0400",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "0900",
+							"end": "0400",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "NtpsqYOoWBeYOanuYy2nvw",
+			"alias": "bahnhof-kebap-zürich",
+			"name": "Bahnhof Kebap",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mUXBANJlQtZ3DdbrF1tFmg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/bahnhof-kebap-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 47.41178,
+				"longitude": 8.54522
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Hofwiesenstrasse 379",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8050",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Hofwiesenstrasse 379",
+					"8050 Zürich",
+					"Switzerland"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 3311.3788545950197,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "Q7vmfzVbDXslA6UGycpwnA",
+			"alias": "bar-nabas-pub-regensdorf",
+			"name": "bar nabas Pub",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ccgXl0g5-fdPDLM3qROmKA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/bar-nabas-pub-regensdorf?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "food",
+					"title": "Food"
+				},
+				{
+					"alias": "hotelstravel",
+					"title": "Hotels & Travel"
+				},
+				{
+					"alias": "bars",
+					"title": "Bars"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "social_clubs",
+					"title": "Social Clubs"
+				}
+			],
+			"rating": 4.3,
+			"coordinates": {
+				"latitude": 47.4292,
+				"longitude": 8.46767
+			},
+			"transactions": [],
+			"price": "$",
+			"location": {
+				"address1": "Hönggerstrasse 70",
+				"address2": null,
+				"address3": null,
+				"city": "Regensdorf",
+				"zip_code": "8105",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Hönggerstrasse 70",
+					"8105 Regensdorf",
+					"Switzerland"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 7090.199779896645,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "4ydXryC52JJCrQdaKh5-mA",
+			"alias": "memo-bar-zürich",
+			"name": "Memo Bar",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ieTsscnIZ1HyJwvcW4VTaQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/memo-bar-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "pubs",
+					"title": "Pubs"
+				},
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 47.3879836542552,
+				"longitude": 8.48612195127751
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Badenerstrasse 676",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8048",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Badenerstrasse 676", "8048 Zürich", "Switzerland"]
+			},
+			"phone": "+41444313500",
+			"display_phone": "+41 44 431 35 00",
+			"distance": 3542.821584190074,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "Ub6Kq61E3TqH0YLWsM92lw",
+			"alias": "ali-baba-2-schlieren",
+			"name": "Ali Baba 2",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Pr0AyWKtNfkbXc1zBsKCpQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/ali-baba-2-schlieren?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 5,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.2,
+			"coordinates": {
+				"latitude": 47.3991519838053,
+				"longitude": 8.44810238639603
+			},
+			"transactions": [],
+			"location": {
+				"address1": "",
+				"address2": "Beim Bahnhof Schlieren",
+				"address3": "",
+				"city": "Schlieren",
+				"zip_code": "8952",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Beim Bahnhof Schlieren",
+					"8952 Schlieren",
+					"Switzerland"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 6609.601832276919,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "G25GkGy9YiPoo72LB1IZwQ",
+			"alias": "royal-take-away-zürich",
+			"name": "Royal Take Away",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/n_PpiMaKSDNS960gAmU02w/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/royal-take-away-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 47.41178,
+				"longitude": 8.54522
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Hofwiesenstrasse 379",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8050",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Hofwiesenstrasse 379",
+					"8050 Zürich",
+					"Switzerland"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 3311.3788545950197,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "6IOo8-uf4GmPPpE8l4JlYg",
+			"alias": "glatt-grill-wallisellen",
+			"name": "Glatt Grill",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/A_L_54hQ8AMItI_AsXrNZg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/glatt-grill-wallisellen?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 47.4084,
+				"longitude": 8.59569
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Neue Winterthurerstrasse 99",
+				"address2": "",
+				"address3": "Parkebene 12",
+				"city": "Wallisellen",
+				"zip_code": "8304",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Neue Winterthurerstrasse 99",
+					"Parkebene 12",
+					"8304 Wallisellen",
+					"Switzerland"
+				]
+			},
+			"phone": "+41448303223",
+			"display_phone": "+41 44 830 32 23",
+			"distance": 5509.635651886681,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "1900",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "1900",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "1900",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "1900",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "1900",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "1900",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "CRrmYR6zNB-57fZMNZmJhw",
+			"alias": "wollyhood-kebab-zürich",
+			"name": "Wollyhood Kebab",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pvrlyGMCm9q-_tizdC8YNQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/wollyhood-kebab-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "foodstands",
+					"title": "Food Stands"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.5,
+			"coordinates": {
+				"latitude": 47.3446,
+				"longitude": 8.53325
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Albisstrasse 9",
+				"address2": null,
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8038",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Albisstrasse 9", "8038 Zürich", "Switzerland"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 4269.873714433917,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "t5Hrwk76i7lQ8Y3aU0SHIA",
+			"alias": "my-kebab-zürich",
+			"name": "My Kebab",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/my-kebab-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 47.402129328658,
+				"longitude": 8.49838279187679
+			},
+			"transactions": [],
+			"price": "$",
+			"location": {
+				"address1": "Limmattalstrasse 202",
+				"address2": "",
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8049",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Limmattalstrasse 202",
+					"8049 Zürich",
+					"Switzerland"
+				]
+			},
+			"phone": "+41438184260",
+			"display_phone": "+41 43 818 42 60",
+			"distance": 3340.690436685879,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "http://www.eat.ch/restaurant/menu/my-pizza-kebab-h-ngg",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "8rHcmwe2-dFsLoSJA5sdjQ",
+			"alias": "uni-point-zürich",
+			"name": "Uni-Point",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/AK43A38yk0o8KdXxvHykOw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/uni-point-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 9,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 2.7,
+			"coordinates": {
+				"latitude": 47.38053,
+				"longitude": 8.5479299
+			},
+			"transactions": [],
+			"price": "$$",
+			"location": {
+				"address1": "Universitätstrasse 43",
+				"address2": null,
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8006",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Universitätstrasse 43",
+					"8006 Zürich",
+					"Switzerland"
+				]
+			},
+			"phone": "+41442622445",
+			"display_phone": "+41 44 262 24 45",
+			"distance": 1189.4367162173355,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0830",
+							"end": "2330",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0830",
+							"end": "2330",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0830",
+							"end": "2330",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0830",
+							"end": "2330",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0830",
+							"end": "2330",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2200",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "BXFOJ2AxDsYglxULYxPyNg",
+			"alias": "tram-point-zürich",
+			"name": "Tram Point",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/tZzlb8HNQSacCe0i_TdoSw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/tram-point-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 2.0,
+			"coordinates": {
+				"latitude": 47.33826,
+				"longitude": 8.53037
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Albisstrasse 105",
+				"address2": null,
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8038",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Albisstrasse 105", "8038 Zürich", "Switzerland"]
+			},
+			"phone": "+41433003113",
+			"display_phone": "+41 43 300 31 13",
+			"distance": 4977.429139545044,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "IqNZOy5B1w_E8FIO_Cy-CA",
+			"alias": "grand-café-lochergut-zürich",
+			"name": "Grand Café Lochergut",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/htk3Wjn10Vb18xDRUOqcdw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/grand-caf%C3%A9-lochergut-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 6,
+			"categories": [
+				{
+					"alias": "bars",
+					"title": "Bars"
+				},
+				{
+					"alias": "cafes",
+					"title": "Cafes"
+				}
+			],
+			"rating": 4.2,
+			"coordinates": {
+				"latitude": 47.375754,
+				"longitude": 8.517045
+			},
+			"transactions": [],
+			"price": "$$",
+			"location": {
+				"address1": "Badenerstrasse 230",
+				"address2": "",
+				"address3": "",
+				"city": "Zürich",
+				"zip_code": "8004",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": ["Badenerstrasse 230", "8004 Zürich", "Switzerland"]
+			},
+			"phone": "+41442121314",
+			"display_phone": "+41 44 212 13 14",
+			"distance": 1421.448015522204,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "iJpQJWPs0ku0nkwC42VkCw",
+			"alias": "lemon-zürich-2",
+			"name": "Lemon",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/lemon-z%C3%BCrich-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 47.40925,
+				"longitude": 8.538226
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Regensbergstrasse 175",
+				"address2": "",
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8050",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Regensbergstrasse 175",
+					"8050 Zürich",
+					"Switzerland"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 2949.7023100353395,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "IGw0aP_SXe_8Z4vsoMPBTg",
+			"alias": "mc-rodi-zürich",
+			"name": "Mc Rodi",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/mc-rodi-z%C3%BCrich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 47.40452,
+				"longitude": 8.57385
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Winterthurerstrasse 539",
+				"address2": null,
+				"address3": null,
+				"city": "Zürich",
+				"zip_code": "8051",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Winterthurerstrasse 539",
+					"8051 Zürich",
+					"Switzerland"
+				]
+			},
+			"phone": "+41433216764",
+			"display_phone": "+41 43 321 67 64",
+			"distance": 3937.988188063932,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "0900",
+							"end": "0100",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "0900",
+							"end": "0100",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "0900",
+							"end": "0100",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "0900",
+							"end": "0100",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "0900",
+							"end": "0100",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "0900",
+							"end": "0100",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "0900",
+							"end": "0100",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "4Bn1Rra5LQtlESZUKrebsg",
+			"alias": "bikan-kebab-dübendorf",
+			"name": "Bikan Kebab",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/bikan-kebab-d%C3%BCbendorf?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 47.39579,
+				"longitude": 8.62376
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Oberdorfstrasse 11",
+				"address2": null,
+				"address3": null,
+				"city": "Dübendorf",
+				"zip_code": "8600",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Oberdorfstrasse 11",
+					"8600 Dübendorf",
+					"Switzerland"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 7003.901144957511,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "cymt1D2kXuFBy6uJC2LiTg",
+			"alias": "one-point-brüttisellen",
+			"name": "One Point",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/one-point-br%C3%BCttisellen?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 47.42342,
+				"longitude": 8.62924
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Riedmühlestrasse 2",
+				"address2": "",
+				"address3": null,
+				"city": "Brüttisellen",
+				"zip_code": "8306",
+				"country": "CH",
+				"state": "ZH",
+				"display_address": [
+					"Riedmühlestrasse 2",
+					"8306 Brüttisellen",
+					"Switzerland"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 8550.08074429029,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		}
+	],
+	"total": 47,
+	"region": {
+		"center": {
+			"longitude": 8.532600402832031,
+			"latitude": 47.38299741854348
+		}
+	}
+}

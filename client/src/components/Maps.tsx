@@ -15,25 +15,29 @@ export default function Maps() {
 		return <p>Chargement des données...</p>;
 	}
 
-	const { kebabs } = kebabsData;
+	const { kebabs, searchText } = kebabsData;
+
+	// Filtrer les kebabs en fonction du texte de recherche
+	const filteredKebabs = kebabs.businesses?.filter((business) =>
+		business.name.toLowerCase().includes(searchText.toLowerCase()),
+	);
 
 	return (
-		<MapContainer
-			center={[48.8645158, 2.3454019]}
-			zoom={13}
-			scrollWheelZoom={true}
-		>
+		<MapContainer center={[45.183331, 0.71667]} zoom={5} scrollWheelZoom={true}>
 			<TileLayer
 				attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 				url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
 			/>
-			{kebabs.businesses.map((kebab) => (
+			{filteredKebabs.map((kebab) => (
 				<Marker
 					key={kebab.id}
 					position={[kebab.coordinates.latitude, kebab.coordinates.longitude]}
 				>
-					<Popup>
-						<strong>Kebab:</strong> {kebab.name}
+					<Popup className="popup">
+						<div key={kebab.id} className="popCard">
+							<h3>{kebab.name}</h3>
+							<img src={kebab.image_url} alt={kebab.name} />
+						</div>
 					</Popup>
 				</Marker>
 			))}

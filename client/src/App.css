@@ -1,4 +1,26 @@
 .leaflet-container {
-  height: 40vh;
-  width: 100%;
+	height: 50vh;
+	width: 100%;
+}
+.leaflet-popup-content {
+	padding: 0;
+	margin: 0;
+}
+.popCard {
+	background-color: #faedcd;
+
+	display: flex;
+	flex-direction: column; /* Aligner l'image et le titre horizontalement */
+	align-items: center;
+	justify-content: center;
+	padding: 2em;
+	border-radius: 1em;
+	width: 100%; /* Par défaut, les cartes prennent toute la largeur de l'écran sur mobile */
+	font-family: "Jaro", sans-serif;
+	font-size: medium;
+}
+.popCard img {
+	width: 5em; /* Ajuste la largeur de l'image */
+	height: auto; /* Conserver la proportion de l'image */
+	border-radius: 1em;
 }

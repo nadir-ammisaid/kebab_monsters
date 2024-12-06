@@ -1,0 +1,2395 @@
+{
+	"businesses": [
+		{
+			"id": "Z00UW-5DJvpvRScEavveYA",
+			"alias": "istanbul-kebab-marseille",
+			"name": "Istanbul Kebab",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tykux6Oc2E6lkP093pLsKw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/istanbul-kebab-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 5,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 3.6,
+			"coordinates": {
+				"latitude": 43.29564,
+				"longitude": 5.37786
+			},
+			"transactions": [],
+			"location": {
+				"address1": "3 rue Pavillon",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13001",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["3 rue Pavillon", "13001 Marseille", "France"]
+			},
+			"phone": "+33491336856",
+			"display_phone": "+33 4 91 33 68 56",
+			"distance": 668.3137919252722,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "vqlRsD_SDPBc6vednsTo-A",
+			"alias": "tony-snack-marseille",
+			"name": "Tony Snack",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-RM9mH-0QcorZtn9NBpXnQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/tony-snack-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 43.2870615,
+				"longitude": 5.3891123
+			},
+			"transactions": [],
+			"location": {
+				"address1": "130 rue de Lodi",
+				"address2": null,
+				"address3": null,
+				"city": "Marseille",
+				"zip_code": "13006",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["130 rue de Lodi", "13006 Marseille", "France"]
+			},
+			"phone": "+33951124707",
+			"display_phone": "+33 9 51 12 47 07",
+			"distance": 701.5541524692044,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "smq8PFsyBbfYWNwpBbofUA",
+			"alias": "king-kebab-marseille",
+			"name": "King Kebab",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gTfiCAQfIY72JHwPGSCe2Q/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/king-kebab-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 5,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 3.4,
+			"coordinates": {
+				"latitude": 43.2542,
+				"longitude": 5.38107
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "3 avenue de Bonneveine",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13008",
+				"country": "FR",
+				"state": "13",
+				"display_address": [
+					"3 avenue de Bonneveine",
+					"13008 Marseille",
+					"France"
+				]
+			},
+			"phone": "+33491542998",
+			"display_phone": "+33 4 91 54 29 98",
+			"distance": 4003.353177165143,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "3tdtt96qJRf4DxS4-wkPjg",
+			"alias": "le-prince-marseille",
+			"name": "Le Prince",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/c0rwKPPtX0yAaXks-KeyDQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/le-prince-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 6,
+			"categories": [
+				{
+					"alias": "halal",
+					"title": "Halal"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				}
+			],
+			"rating": 3.3,
+			"coordinates": {
+				"latitude": 43.29802,
+				"longitude": 5.3769
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "36 Cours Belsunce",
+				"address2": null,
+				"address3": null,
+				"city": "Marseille",
+				"zip_code": "13001",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["36 Cours Belsunce", "13001 Marseille", "France"]
+			},
+			"phone": "+33623476785",
+			"display_phone": "+33 6 23 47 67 85",
+			"distance": 949.6072356445444,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0100",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0100",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0100",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0100",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0100",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0100",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0100",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "6p3GUVj2GZFbyj2AKT1cGA",
+			"alias": "tombiq-doner-marseille",
+			"name": "Tombiq Doner",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-6jwKL-oQt5A9q4I_475mQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/tombiq-doner-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 6,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.2,
+			"coordinates": {
+				"latitude": 43.2934914,
+				"longitude": 5.3741002
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "21 rue Saint Saens",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13001",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["21 rue Saint Saens", "13001 Marseille", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 705.9864168684111,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "Rs3QCyCnp9wIjlzUivhFHw",
+			"alias": "les-jardins-d-amelia-marseille",
+			"name": "Les Jardins d'Amelia",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XX-uxVAtfxVv8gfIbZUemg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/les-jardins-d-amelia-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "halal",
+					"title": "Halal"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "sandwiches",
+					"title": "Sandwiches"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 43.33485,
+				"longitude": 5.4504
+			},
+			"transactions": [],
+			"location": {
+				"address1": "25 Grand'rue",
+				"address2": null,
+				"address3": null,
+				"city": "Marseille",
+				"zip_code": "13013",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["25 Grand'rue", "13013 Marseille", "France"]
+			},
+			"phone": "+33491507688",
+			"display_phone": "+33 4 91 50 76 88",
+			"distance": 7467.537688841421,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "1400",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2200",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "1400",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2200",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "1400",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2200",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "1400",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2200",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "1400",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2200",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "1400",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2200",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "MtVdsZG4ecmuTQd5UX2KFg",
+			"alias": "istanbul-city-marseille",
+			"name": "Istanbul City",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/k0n_KMD_ZjJEZF8rEx823g/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/istanbul-city-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 43.2975844,
+				"longitude": 5.3775029
+			},
+			"transactions": [],
+			"location": {
+				"address1": "20 cours Belsunge",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13001",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["20 cours Belsunge", "13001 Marseille", "France"]
+			},
+			"phone": "+33980714701",
+			"display_phone": "+33 9 80 71 47 01",
+			"distance": 886.0830427850613,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "ZNb05b-R3NgEVqS0XcWEkQ",
+			"alias": "durum-kebab-marseille",
+			"name": "Durum Kebab",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/durum-kebab-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.5,
+			"coordinates": {
+				"latitude": 43.2961577,
+				"longitude": 5.3814699
+			},
+			"transactions": [],
+			"location": {
+				"address1": "2 cours Lieutaud",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13001",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["2 cours Lieutaud", "13001 Marseille", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 663.6392278330551,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "z-_gk439XrEIIsebtxLvfw",
+			"alias": "papyrus-marseille",
+			"name": "Papyrus",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MsZj4lDlIWJQyQIjAVjLMA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/papyrus-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 43.2909,
+				"longitude": 5.38118
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "4 bd Louis Salvator",
+				"address2": null,
+				"address3": null,
+				"city": "Marseille",
+				"zip_code": "13006",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["4 bd Louis Salvator", "13006 Marseille", "France"]
+			},
+			"phone": "+33491423549",
+			"display_phone": "+33 4 91 42 35 49",
+			"distance": 85.45487400514135,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2230",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2230",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2230",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2230",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2230",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2230",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "LMxARsHlZN5BVDAVajWrbg",
+			"alias": "le-splendid-marseille",
+			"name": "Le Splendid",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KB3RWVxG1sdTm14jjmgacg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/le-splendid-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 9,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "brasseries",
+					"title": "Brasseries"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 43.29727,
+				"longitude": 5.38127
+			},
+			"transactions": [],
+			"location": {
+				"address1": "1 boulevard Garibaldi",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13001",
+				"country": "FR",
+				"state": "13",
+				"display_address": [
+					"1 boulevard Garibaldi",
+					"13001 Marseille",
+					"France"
+				]
+			},
+			"phone": "+33496120669",
+			"display_phone": "+33 4 96 12 06 69",
+			"distance": 793.4123407874248,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "0700",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "0700",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "0700",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "0700",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "0700",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "0700",
+							"end": "0200",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "0700",
+							"end": "0200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "XfnZA_qMl-mhR4tpm1SDfw",
+			"alias": "l-escale-marseille-2",
+			"name": "L'Escale",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aNQn9vq8a88p1ujhb81RIw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/l-escale-marseille-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 3.7,
+			"coordinates": {
+				"latitude": 43.30017,
+				"longitude": 5.38057
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "21 boulevard Athènes",
+				"address2": null,
+				"address3": null,
+				"city": "Marseille",
+				"zip_code": "13001",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["21 boulevard Athènes", "13001 Marseille", "France"]
+			},
+			"phone": "+33491919440",
+			"display_phone": "+33 4 91 91 94 40",
+			"distance": 1114.1490917524948,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "X3gfDF5xswTX_XM2xj-cvw",
+			"alias": "cappadocia-marseille",
+			"name": "Cappadocia",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QAVCIC7tLAd9kIajRmfYfw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/cappadocia-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "halal",
+					"title": "Halal"
+				},
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 43.2981387,
+				"longitude": 5.3822113
+			},
+			"transactions": [],
+			"location": {
+				"address1": "105 la Canebière",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13001",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["105 la Canebière", "13001 Marseille", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 920.7085285437829,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2300",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1030",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "HqBiqHtbkXM9tWLcwjVl-g",
+			"alias": "le-tigran-marseille",
+			"name": "Le Tigran",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/le-tigran-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 43.3002797615571,
+				"longitude": 5.40060773491859
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Cinq ave",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13007",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["Cinq ave", "13007 Marseille", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1905.0117478648447,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "hCh2J4gvrA37sM461rO7fw",
+			"alias": "telfta-marseille",
+			"name": "Telfta",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/telfta-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "sandwiches",
+					"title": "Sandwiches"
+				},
+				{
+					"alias": "burgers",
+					"title": "Burgers"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 43.30687,
+				"longitude": 5.39997
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "3 place Brossolette",
+				"address2": "",
+				"address3": null,
+				"city": "Marseille",
+				"zip_code": "13004",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["3 place Brossolette", "13004 Marseille", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 2384.6464905179696,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "QSnDJ702oAQt0On-UwZw-A",
+			"alias": "helin-kebab-marseille",
+			"name": "Helin Kebab",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ILstnQ7lUBvQ0YLiQXUUSg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/helin-kebab-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 43.2967994370558,
+				"longitude": 5.3811302036047
+			},
+			"transactions": [],
+			"location": {
+				"address1": "22 boulevard Garibaldi",
+				"address2": "",
+				"address3": null,
+				"city": "Marseille",
+				"zip_code": "13001",
+				"country": "FR",
+				"state": "13",
+				"display_address": [
+					"22 boulevard Garibaldi",
+					"13001 Marseille",
+					"France"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 735.8504112894159,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "C6Gy-ZctPSXWzH65-zEQgA",
+			"alias": "1-2-3-la-belle-équipe-marseille-2",
+			"name": "1, 2, 3 la Belle Équipe",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xW2a0bWIP-9qjhcTUE3qGg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/1-2-3-la-belle-%C3%A9quipe-marseille-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.7,
+			"coordinates": {
+				"latitude": 43.2908,
+				"longitude": 5.3718
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "3 Boulevard de la Corderie",
+				"address2": null,
+				"address3": null,
+				"city": "Marseille",
+				"zip_code": "13007",
+				"country": "FR",
+				"state": "13",
+				"display_address": [
+					"3 Boulevard de la Corderie",
+					"13007 Marseille",
+					"France"
+				]
+			},
+			"phone": "+33491541134",
+			"display_phone": "+33 4 91 54 11 34",
+			"distance": 794.8024574458378,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "Qv29KC7y21qpB_ZTms6jRQ",
+			"alias": "tito-marseille",
+			"name": "Tito",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ly2f4_667Lz2kRe7-mcVaA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/tito-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "foodstands",
+					"title": "Food Stands"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 43.29456,
+				"longitude": 5.3847699
+			},
+			"transactions": [],
+			"location": {
+				"address1": "34 rue des 3 mages",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13006",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["34 rue des 3 mages", "13006 Marseille", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 549.0018613205762,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2200",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "4C8apR--nRu_VcbVSIY6Eg",
+			"alias": "antalya-marseille",
+			"name": "Antalya",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/antalya-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 43.294298871801,
+				"longitude": 5.37735556512056
+			},
+			"transactions": [],
+			"location": {
+				"address1": "10 rue du Jeune Anacharsis",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13001",
+				"country": "FR",
+				"state": "13",
+				"display_address": [
+					"10 rue du Jeune Anacharsis",
+					"13001 Marseille",
+					"France"
+				]
+			},
+			"phone": "+33491119722",
+			"display_phone": "+33 4 91 11 97 22",
+			"distance": 570.8511300083265,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "2000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "2000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "2000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "2000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "2000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "2000",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "tIacC6YacC29Y57quWvpCw",
+			"alias": "snack-la-jeunesse-marseille",
+			"name": "Snack la Jeunesse",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/k0R_2vWqSKIoK9A3u3GRrQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/snack-la-jeunesse-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "tea",
+					"title": "Tea Rooms"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 43.30605,
+				"longitude": 5.38035
+			},
+			"transactions": [],
+			"location": {
+				"address1": "28 rue Léon Gozlan",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13003",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["28 rue Léon Gozlan", "13003 Marseille", "France"]
+			},
+			"phone": "+33491623505",
+			"display_phone": "+33 4 91 62 35 05",
+			"distance": 1767.9678888805574,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "9hd9Ps_p-DKxHnp-q9SFJw",
+			"alias": "mister-kebab-marseille",
+			"name": "Mister Kebab",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NERto1jwk41BTfzG9M5DMg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/mister-kebab-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 4,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.8,
+			"coordinates": {
+				"latitude": 43.24553,
+				"longitude": 5.37334
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "85 avenue de la Pointe Rouge",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13008",
+				"country": "FR",
+				"state": "13",
+				"display_address": [
+					"85 avenue de la Pointe Rouge",
+					"13008 Marseille",
+					"France"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 5020.473735167984,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "jZD9UjuwbCd5T-6e8eIjLA",
+			"alias": "le-snack-marseille",
+			"name": "Le Snack",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/le-snack-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 43.300771,
+				"longitude": 5.3821768
+			},
+			"transactions": [],
+			"location": {
+				"address1": "47 rue des Petites Maries",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13001",
+				"country": "FR",
+				"state": "13",
+				"display_address": [
+					"47 rue des Petites Maries",
+					"13001 Marseille",
+					"France"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1177.5269549850564,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "fsPaJ-BAH6MnTsbWAGvLgg",
+			"alias": "bolly-food-marseille",
+			"name": "Bolly Food",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/az9_Ra_7irUDzNgW4uayeQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/bolly-food-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "burgers",
+					"title": "Burgers"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 43.327271,
+				"longitude": 5.3751074
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "140 bd Danielle Casanova",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13014",
+				"country": "FR",
+				"state": "13",
+				"display_address": [
+					"140 bd Danielle Casanova",
+					"13014 Marseille",
+					"France"
+				]
+			},
+			"phone": "+33413633890",
+			"display_phone": "+33 4 13 63 38 90",
+			"distance": 4156.381898643946,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "Xrdd8H1qE1a_LJucCdXqSA",
+			"alias": "tom-pouce-marseille",
+			"name": "Tom Pouce",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5YKn2Itc5DFXjZv1C0WBJQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/tom-pouce-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 2.7,
+			"coordinates": {
+				"latitude": 43.297821,
+				"longitude": 5.3729
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "rue de la République",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13001",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["rue de la République", "13001 Marseille", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1287.722445925237,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "LhYXfdID0LwfIpUY7GU5KA",
+			"alias": "marina-marseille",
+			"name": "Marina",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/A9vNmrhkhPZE6GRnFns-Fg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/marina-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 4,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 43.29454,
+				"longitude": 5.38702
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "47 place Jean-Jaurès",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13005",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["47 place Jean-Jaurès", "13005 Marseille", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 656.3845724357969,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2200",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2200",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2200",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2200",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0130",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "-av4vRnYnANMspDcyXpOdA",
+			"alias": "snack-zidni-marseille",
+			"name": "Snack Zidni",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/snack-zidni-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "sandwiches",
+					"title": "Sandwiches"
+				}
+			],
+			"rating": 2.0,
+			"coordinates": {
+				"latitude": 43.28982756886,
+				"longitude": 5.398741366665
+			},
+			"transactions": [],
+			"location": {
+				"address1": "262 boulevard Baille",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13005",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["262 boulevard Baille", "13005 Marseille", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1389.2514612536077,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "uIxTm1hYwYAZS9OKffGZ5A",
+			"alias": "le-syrien-marseille",
+			"name": "Le Syrien",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/le-syrien-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 43.2956437583628,
+				"longitude": 5.38247868418694
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "12 cours Julien",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13006",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["12 cours Julien", "13006 Marseille", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 610.7333140835514,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "IvqVAJWvuUah_DYJuNXSKg",
+			"alias": "santa-pizza-marseille",
+			"name": "Santa Pizza",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/aSERGOZXd_LRfkDjuCkPpg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/santa-pizza-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 9,
+			"categories": [
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				}
+			],
+			"rating": 3.8,
+			"coordinates": {
+				"latitude": 43.29126,
+				"longitude": 5.36955
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "88 rue Sainte",
+				"address2": null,
+				"address3": null,
+				"city": "Marseille",
+				"zip_code": "13007",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["88 rue Sainte", "13007 Marseille", "France"]
+			},
+			"phone": "+33491544434",
+			"display_phone": "+33 4 91 54 44 34",
+			"distance": 981.2477267760938,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2200",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2200",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2200",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2200",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2200",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2200",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "HlcNC5fOGa2piQ6yEzcNag",
+			"alias": "snack-marina-marseille",
+			"name": "Snack Marina",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/I7gZ6I5nPBsQfnAlkwXpew/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/snack-marina-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "mediterranean",
+					"title": "Mediterranean"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 43.29459,
+				"longitude": 5.38705
+			},
+			"transactions": [],
+			"location": {
+				"address1": "45 place Jean Jaures",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13005",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["45 place Jean Jaures", "13005 Marseille", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 659.8033506598684,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "7zv4bIKRB3irS-UgtklnXQ",
+			"alias": "le-saray-marseille",
+			"name": "Le Saray",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/le-saray-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 43.2996788,
+				"longitude": 5.38063
+			},
+			"transactions": [],
+			"location": {
+				"address1": "11 bd d'Athènes",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13001",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["11 bd d'Athènes", "13001 Marseille", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1003.0566223756589,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "4ZBOwrZXUyakbq2lWCsx2A",
+			"alias": "o-petit-four-marseille",
+			"name": "O petit four",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ook1-ELoZ-TAq8kwk_A2ZQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/o-petit-four-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 1.0,
+			"coordinates": {
+				"latitude": 43.29355,
+				"longitude": 5.3741899
+			},
+			"transactions": [],
+			"location": {
+				"address1": "rue Saint Saens",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13001",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["rue Saint Saens", "13001 Marseille", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 711.36280287456,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "MJKdrUwCHHVpg-UNx-xO4g",
+			"alias": "gimy-marseille",
+			"name": "Gimy",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/gimy-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 43.27408,
+				"longitude": 5.41466
+			},
+			"transactions": [],
+			"location": {
+				"address1": "137 bd Romain Rolland",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13010",
+				"country": "FR",
+				"state": "13",
+				"display_address": [
+					"137 bd Romain Rolland",
+					"13010 Marseille",
+					"France"
+				]
+			},
+			"phone": "+33491796073",
+			"display_phone": "+33 4 91 79 60 73",
+			"distance": 3221.4260011214124,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "JckJztBSj87DWKt5_QVrfg",
+			"alias": "snack-de-la-colonne-marseille",
+			"name": "Snack de la Colonne",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/zHaSHexTGski77bHLuY71w/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/snack-de-la-colonne-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 43.29498,
+				"longitude": 5.37915
+			},
+			"transactions": [],
+			"location": {
+				"address1": "6 rue Halles Delacroix",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13001",
+				"country": "FR",
+				"state": "13",
+				"display_address": [
+					"6 rue Halles Delacroix",
+					"13001 Marseille",
+					"France"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 565.4399963302776,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "nqaQdTWtx35RYQTnFz2pVg",
+			"alias": "il-pinocchio-ii-marseille",
+			"name": "Il Pinocchio II",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/M69kKGFzaPvXlWO9ac3_AQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/il-pinocchio-ii-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 115,
+			"categories": [
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				}
+			],
+			"rating": 3.4,
+			"coordinates": {
+				"latitude": 43.24428,
+				"longitude": 5.42721
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "126 ave Mar de Lattre de Tassigny",
+				"address2": null,
+				"address3": null,
+				"city": "Marseille",
+				"zip_code": "13009",
+				"country": "FR",
+				"state": "13",
+				"display_address": [
+					"126 ave Mar de Lattre de Tassigny",
+					"13009 Marseille",
+					"France"
+				]
+			},
+			"phone": "+33491267425",
+			"display_phone": "+33 4 91 26 74 25",
+			"distance": 6301.426288008343,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "fwHlOS-1otqTlwXgce8eMg",
+			"alias": "le-castel-marseille-3",
+			"name": "Le Castel",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/le-castel-marseille-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "nightlife",
+					"title": "Nightlife"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "sandwiches",
+					"title": "Sandwiches"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 43.28613,
+				"longitude": 5.3851
+			},
+			"transactions": [],
+			"location": {
+				"address1": "4 Boulevard Baille",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13006",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["4 Boulevard Baille", "13006 Marseille", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 535.2855883887793,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "H7SxDwu1r5kbh6cXY6FGUg",
+			"alias": "for-eat-marseille",
+			"name": "For'Eat",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/for-eat-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "burgers",
+					"title": "Burgers"
+				},
+				{
+					"alias": "salad",
+					"title": "Salad"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 43.29756,
+				"longitude": 5.42738
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "4 rue Louis Reybaud",
+				"address2": "",
+				"address3": null,
+				"city": "Marseille",
+				"zip_code": "13012",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["4 rue Louis Reybaud", "13012 Marseille", "France"]
+			},
+			"phone": "+33620585276",
+			"display_phone": "+33 6 20 58 52 76",
+			"distance": 3789.0331334143893,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "1700",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "1700",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "1700",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "1700",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "1700",
+							"day": 4
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "W2r1Ek0KPQP82h7hRR-zSg",
+			"alias": "snack-basile-marseille",
+			"name": "Snack Basile",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/l3wMkOT1hs5ssfkzxoQfwA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/snack-basile-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "sportsbars",
+					"title": "Sports Bars"
+				},
+				{
+					"alias": "sandwiches",
+					"title": "Sandwiches"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 43.30013,
+				"longitude": 5.38302
+			},
+			"transactions": [],
+			"location": {
+				"address1": "33 rue Bazile",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13001",
+				"country": "FR",
+				"state": "13",
+				"display_address": ["33 rue Bazile", "13001 Marseille", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1107.7301724533827,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "K3tZV1jvIGZ1IgOhfk20Dw",
+			"alias": "tk-le-marseille",
+			"name": "TK-LE",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/tk-le-marseille?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 1.0,
+			"coordinates": {
+				"latitude": 43.3191610078891,
+				"longitude": 5.36839138716459
+			},
+			"transactions": [],
+			"location": {
+				"address1": "14 place Bougainville",
+				"address2": "",
+				"address3": "",
+				"city": "Marseille",
+				"zip_code": "13015",
+				"country": "FR",
+				"state": "13",
+				"display_address": [
+					"14 place Bougainville",
+					"13015 Marseille",
+					"France"
+				]
+			},
+			"phone": "+33491506617",
+			"display_phone": "+33 4 91 50 66 17",
+			"distance": 3393.700533270563,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		}
+	],
+	"total": 37,
+	"region": {
+		"center": {
+			"longitude": 5.381584167480469,
+			"latitude": 43.29019002195203
+		}
+	}
+}
