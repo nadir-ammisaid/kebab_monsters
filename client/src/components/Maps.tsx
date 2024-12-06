@@ -33,6 +33,10 @@ export default function Maps() {
 						<Link key={kebab.id} to={`/details/${kebab.id}`}>
 							<div key={kebab.id} className="popCard">
 								<h3>{kebab.name}</h3>
+								<p key={kebab.id}>
+									{""}
+									Rating: {kebab.rating || "Non noté"}
+								</p>
 								<img src={kebab.image_url} alt={kebab.name} />
 							</div>
 						</Link>
