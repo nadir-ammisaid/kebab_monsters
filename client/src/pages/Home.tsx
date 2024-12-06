@@ -1,17 +1,15 @@
-import Header from "../components/Header";
-import Footer from "../components/Footer";
-import KebabCard from "../components/KebabCard";
 import Maps from "../components/Maps";
+import SearchBar from "../components/SearchBar";
+import BusinessCard from "../components/BusinessCard";
 
 function Home() {
 	return (
 		<>
-			<Header />
-			<KebabCard />
 			<main>
+				<SearchBar />
 				<Maps />
+				<BusinessCard />
 			</main>
-			<Footer />
 		</>
 	);
 }

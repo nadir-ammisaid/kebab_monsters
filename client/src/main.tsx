@@ -14,7 +14,6 @@ import Home from "./pages/Home";
 import Welcome from "./pages/Welcome";
 import Details from "./pages/Details";
 
-
 // Import additional components for new routes
 // Try creating these components in the "pages" folder
 
@@ -26,20 +25,24 @@ import Details from "./pages/Details";
 // Create router configuration with routes
 // You can add more routes as you build out your app!
 const router = createBrowserRouter([
-
-  {
-    path: "/",
-    element: <Welcome />,
-  },
-  {
-    path: "/home",
-    element: <Home />,
-  },
-  {
-    path: "/details",
-    element: <Details />,
-  },
-
+	{
+		path: "/",
+		element: <Welcome />,
+	},
+	{
+		path: "/",
+		element: <App />,
+		children: [
+			{
+				path: "home",
+				element: <Home />,
+			},
+			{
+				path: "details/:id",
+				element: <Details />,
+			},
+		],
+	},
 ]);
 
 /* ************************************************************************* */
