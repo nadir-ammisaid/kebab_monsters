@@ -81,4 +81,14 @@ export const KebabProvider = ({ children }: { children: ReactNode }) => {
 	);
 };
 
-export default KebabContext;
+export const useKebab = () => {
+	const value = useContext(KebabContext);
+
+	if (value === null) {
+		throw new Error("useKebab has to be used within <FavoriteProvider>");
+	}
+
+	return value;
+};
+
+// g3ZUORBgVunAuNGi5-1w-p3bc5lO6O_wgn_igSGxKqq7RWkAVwnbb44Kl2_GkIvlE1PBLNY6je9B_8GsSG_qQKKxP8xAfPGvl7SmFeq7qWRMW2f-5LPBCtEZto9RZ3Yx
