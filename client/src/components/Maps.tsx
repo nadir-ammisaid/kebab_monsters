@@ -19,7 +19,7 @@ export default function Maps() {
 
 	// Filtrer les kebabs en fonction du texte de recherche
 	const filteredKebabs = kebabs.businesses?.filter((business) =>
-		business.name.toLowerCase().includes(searchText.toLowerCase()),
+		business.location.city.toLowerCase().includes(searchText.toLowerCase()),
 	);
 
 	return (

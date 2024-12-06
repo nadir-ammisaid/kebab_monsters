@@ -26,6 +26,7 @@ function Details() {
 						<h1>{business.name}</h1>
 					</div>
 					<p id="phone">Téléphone: {business.display_phone}</p>
+					<p id="address">Adresse: {business.location.display_address}</p>
 					<p id="rating">Rating: {business.rating || "Non noté"}</p>
 					<p id="url">
 						Site Internet: {business.business_url || "URL non disponible"}
