@@ -23,6 +23,7 @@ export interface KebabContextType {
 	setKebabs: Dispatch<SetStateAction<{ businesses: Kebab[] }>>;
 	searchText: string;
 	setSearchText: Dispatch<SetStateAction<string>>;
+	filteredKebabs: { businesses: Kebab[] };
 }
 
 // le contexte avec une valeur initiale nulle
@@ -31,6 +32,10 @@ const KebabContext = createContext<KebabContextType | null>(null);
 export const KebabProvider = ({ children }: { children: ReactNode }) => {
 	const [kebabs, setKebabs] = useState(data); //*+*+*+*+*+*en dur pour tester en dehors de l'API
 	const [searchText, setSearchText] = useState(""); // Nouveau state pour le texte de recherche
+
+	const filteredKebabs = kebabs.businesses?.filter((business) =>
+		business.location.city.toLowerCase().includes(searchText.toLowerCase()),
+	);
 
 	// *+*+*+**+ à remettre après avoir récupéré l'accès à l'API, sans oublier d'importer useEffect
 
@@ -78,7 +83,7 @@ export const KebabProvider = ({ children }: { children: ReactNode }) => {
 
 	return (
 		<KebabContext.Provider
-			value={{ kebabs, setKebabs, searchText, setSearchText }}
+			value={{ kebabs, setKebabs, searchText, setSearchText, filteredKebabs }}
 		>
 			{children}
 		</KebabContext.Provider>

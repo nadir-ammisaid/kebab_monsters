@@ -9,12 +9,9 @@ function BusinessCard() {
 	//tester la data
 	//console.log(kebabsData);
 
-	const { kebabs, searchText } = kebabsData;
+	const { filteredKebabs } = kebabsData;
 
 	// Filtrer les kebabs en fonction du texte de recherche
-	const filteredKebabs = kebabs.businesses?.filter((business) =>
-		business.location.city.toLowerCase().includes(searchText.toLowerCase()),
-	);
 
 	return (
 		<section>

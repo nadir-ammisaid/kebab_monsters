@@ -3,6 +3,7 @@ import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
 import KebabContext from "../contexts/KebabContext";
 import type { KebabContextType } from "../contexts/KebabContext";
 import "../App.css";
+import { Link } from "react-router-dom";
 
 export default function Maps() {
 	const kebabsData = useContext(KebabContext) as KebabContextType;
@@ -15,12 +16,7 @@ export default function Maps() {
 		return <p>Chargement des données...</p>;
 	}
 
-	const { kebabs, searchText } = kebabsData;
-
-	// Filtrer les kebabs en fonction du texte de recherche
-	const filteredKebabs = kebabs.businesses?.filter((business) =>
-		business.location.city.toLowerCase().includes(searchText.toLowerCase()),
-	);
+	const { filteredKebabs } = kebabsData;
 
 	return (
 		<MapContainer center={[45.183331, 0.71667]} zoom={5} scrollWheelZoom={true}>
@@ -34,10 +30,12 @@ export default function Maps() {
 					position={[kebab.coordinates.latitude, kebab.coordinates.longitude]}
 				>
 					<Popup className="popup">
-						<div key={kebab.id} className="popCard">
-							<h3>{kebab.name}</h3>
-							<img src={kebab.image_url} alt={kebab.name} />
-						</div>
+						<Link key={kebab.id} to={`/details/${kebab.id}`}>
+							<div key={kebab.id} className="popCard">
+								<h3>{kebab.name}</h3>
+								<img src={kebab.image_url} alt={kebab.name} />
+							</div>
+						</Link>
 					</Popup>
 				</Marker>
 			))}
