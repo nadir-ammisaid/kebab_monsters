@@ -1,0 +1,4140 @@
+{
+	"businesses": [
+		{
+			"id": "0fIOb3W2yHLNRNFo2qlk9g",
+			"alias": "istambul-döner-kebab-madrid",
+			"name": "Istambul Döner Kebab",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/SO226NIp1kQo1dwHXsPI8Q/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/istambul-d%C3%B6ner-kebab-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.5,
+			"coordinates": {
+				"latitude": 40.4173423,
+				"longitude": -3.7068524
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Calle Arenal, 18",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28013",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle Arenal, 18", "28013 Madrid", "Spain"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 995.881819997487,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2300",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "N9NbvjHTozC3d7WqgnF0nQ",
+			"alias": "city-kebab-madrid",
+			"name": "City Kebab",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/oPijsvKbvjOmL0tbTSm8rg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/city-kebab-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 8,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.1,
+			"coordinates": {
+				"latitude": 40.4159,
+				"longitude": -3.70135
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Calle de la Cruz, 10",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28012",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle de la Cruz, 10", "28012 Madrid", "Spain"]
+			},
+			"phone": "+34651968135",
+			"display_phone": "+34 651 96 81 35",
+			"distance": 836.1382500232612,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "zADn5xA7xo4d_qJxPnK2_w",
+			"alias": "kebab-house-madrid",
+			"name": "Kebab House",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/38Bf5hd8uP_thO32EQzvTw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kebab-house-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 19,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.8,
+			"coordinates": {
+				"latitude": 40.4329796,
+				"longitude": -3.71733
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Calle de Menéndez Valdés, 67",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28015",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Calle de Menéndez Valdés, 67",
+					"28015 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "+34915495865",
+			"display_phone": "+34 915 49 58 65",
+			"distance": 2017.1452039696853,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1600",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1930",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1600",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1930",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1600",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1930",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1600",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1930",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1600",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1930",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1600",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "Xp7_3-LZH92GToGRi_63rQ",
+			"alias": "nemrut-kebap-madrid-2",
+			"name": "Nemrut Kebap",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/eDbWkAYff-3S-MoApz0Y3w/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/nemrut-kebap-madrid-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 8,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.3,
+			"coordinates": {
+				"latitude": 40.4177897067869,
+				"longitude": -3.71010448945766
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle Vergara, 2",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28013",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle Vergara, 2", "28013 Madrid", "Spain"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1200.375747337991,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "5D5BaO3mOSLJK8LhetovVQ",
+			"alias": "bósforos-turkish-restaurante-madrid",
+			"name": "Bósforos Turkish Restaurante ",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9XHXmcBL-RgMDyq7SJeDag/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/b%C3%B3sforos-turkish-restaurante-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 17,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.7,
+			"coordinates": {
+				"latitude": 40.42066,
+				"longitude": -3.70072
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Calle de Hortaleza, 6",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28004",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle de Hortaleza, 6", "28004 Madrid", "Spain"]
+			},
+			"phone": "+34915323694",
+			"display_phone": "+34 915 32 36 94",
+			"distance": 357.43536641715957,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0230",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0230",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0230",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0230",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0230",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0230",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0230",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "bBFSr8XUJYXEv8_O9H_MlQ",
+			"alias": "istanbul-madrid-3",
+			"name": "Istanbul",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0Ldc4hCrB4qxyJDh50yjgw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/istanbul-madrid-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 4,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.3,
+			"coordinates": {
+				"latitude": 40.4143726563579,
+				"longitude": -3.70758935809135
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle de Toledo, 14",
+				"address2": "",
+				"address3": null,
+				"city": "Madrid",
+				"zip_code": "28005",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle de Toledo, 14", "28005 Madrid", "Spain"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1267.9983472352872,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "_fdmXMMLp74XWLogm7kflw",
+			"alias": "sindibad-shisha-madrid",
+			"name": "Sindibad Shisha",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/r4OKWHEppBzCRkFFVHLKoA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/sindibad-shisha-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 6,
+			"categories": [
+				{
+					"alias": "hookah_bars",
+					"title": "Hookah Bars"
+				},
+				{
+					"alias": "arabian",
+					"title": "Arabic"
+				},
+				{
+					"alias": "lebanese",
+					"title": "Lebanese"
+				}
+			],
+			"rating": 4.8,
+			"coordinates": {
+				"latitude": 40.4170501416178,
+				"longitude": -3.70739959180355
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Calle Bordadores, 9",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28013",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle Bordadores, 9", "28013 Madrid", "Spain"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1052.3885938707263,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0130",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0130",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0130",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0130",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0130",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0200",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "k4ASjPdF9cKuUzwLpLMzqg",
+			"alias": "atena-madrid",
+			"name": "Atena",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Y-7Gn0wX-38ckipesLHmtw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/atena-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "fooddeliveryservices",
+					"title": "Food Delivery Services"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.3,
+			"coordinates": {
+				"latitude": 40.42556,
+				"longitude": -3.7023799
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Calle de San Vicente Ferrer, 13",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28004",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Calle de San Vicente Ferrer, 13",
+					"28004 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 457.46993384240517,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "B4TteyhxzGwePpxyOTmWlg",
+			"alias": "döner-kebab-big-chicken-madrid",
+			"name": "Döner Kebab Big Chicken",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SyMXP5eim0CY2AkluyOvJA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/d%C3%B6ner-kebab-big-chicken-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 2.0,
+			"coordinates": {
+				"latitude": 40.3927073750324,
+				"longitude": -3.66085521876812
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle Sierra de Cadí, 10",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28018",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle Sierra de Cadí, 10", "28018 Madrid", "Spain"]
+			},
+			"phone": "+34914771011",
+			"display_phone": "+34 914 77 10 11",
+			"distance": 4573.1182125344085,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1230",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1230",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1230",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1230",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1230",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1230",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1230",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "rXpCMnWHctKnWhfAXHwQsA",
+			"alias": "kebab-reina-de-estambul-madrid",
+			"name": "Kebab Reina de Estambul",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/21DZPsnv5pZcbDI0DjhvGw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kebab-reina-de-estambul-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 2.5,
+			"coordinates": {
+				"latitude": 40.39559,
+				"longitude": -3.66758
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle de la Peña Gorbea, 6",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28053",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Calle de la Peña Gorbea, 6",
+					"28053 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 3958.097419436828,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "44bOWOmefKBILWxrYbpDRQ",
+			"alias": "steak-grill-house-halal-madrid",
+			"name": "Steak Grill House Halal",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/7ttpYxwFRSOMMNrQhjIhfA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/steak-grill-house-halal-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 6,
+			"categories": [
+				{
+					"alias": "halal",
+					"title": "Halal"
+				},
+				{
+					"alias": "steak",
+					"title": "Steakhouses"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.8,
+			"coordinates": {
+				"latitude": 40.41022,
+				"longitude": -3.69438
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle de Atocha, 117",
+				"address2": "",
+				"address3": null,
+				"city": "Madrid",
+				"zip_code": "28012",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle de Atocha, 117", "28012 Madrid", "Spain"]
+			},
+			"phone": "+34913620236",
+			"display_phone": "+34 913 62 02 36",
+			"distance": 1423.1879534148711,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0100",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0100",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0100",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0100",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0100",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0100",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0100",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "jadEFv-GR1ovGlBJ9jTlgA",
+			"alias": "döner-kebab-madrid-5",
+			"name": "Döner Kebab",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ymu054_8PWvl3ZQQxUMUUw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/d%C3%B6ner-kebab-madrid-5?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 1.0,
+			"coordinates": {
+				"latitude": 40.4496328716334,
+				"longitude": -3.69898946609281
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle de Palencia, 59",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28020",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle de Palencia, 59", "28020 Madrid", "Spain"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 2979.358241775165,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0130",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0130",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0130",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0130",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0130",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0130",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0130",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "Q4d7c4X0ECDxPdOjnOUuKg",
+			"alias": "star-madrid",
+			"name": "Star",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/dsFvdiYL4Vz2ZO1HHBQ1mA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/star-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 40.42142,
+				"longitude": -3.71424
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Cuesta de San Vicente, 8",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28008",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Cuesta de San Vicente, 8", "28008 Madrid", "Spain"]
+			},
+			"phone": "+34687067732",
+			"display_phone": "+34 687 06 77 32",
+			"distance": 1417.9880890245665,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "wwa3YpWFe5pw2t9l9uKNPg",
+			"alias": "mundo-kebab-madrid-2",
+			"name": "Mundo Kebab",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PCiQMKK7te4WETufFOBHyA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/mundo-kebab-madrid-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 5,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 40.40306,
+				"longitude": -3.69187
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Calle de Ancora, 15",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28045",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle de Ancora, 15", "28045 Madrid", "Spain"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 2252.750590435344,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "4OykQTGkMYsBScGLqV1Svw",
+			"alias": "mundo-kebab-madrid-3",
+			"name": "Mundo Kebab",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lpkmRa-q-5m7XDIhs4dzHg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/mundo-kebab-madrid-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.5,
+			"coordinates": {
+				"latitude": 40.42212,
+				"longitude": -3.69966
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle de Hortaleza, 42",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28004",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle de Hortaleza, 42", "28004 Madrid", "Spain"]
+			},
+			"phone": "+34914285914",
+			"display_phone": "+34 914 28 59 14",
+			"distance": 179.4196760276871,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "UVFJhNeR9PxXDqsuO1AIug",
+			"alias": "omar-madrid",
+			"name": "Omar",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zXJe0ZNwt3SBJl0Tb2we8A/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/omar-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 4,
+			"categories": [
+				{
+					"alias": "mideastern",
+					"title": "Middle Eastern"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 40.4561433,
+				"longitude": -3.6876752
+			},
+			"transactions": [],
+			"price": "€€€",
+			"location": {
+				"address1": "Calle del Profesor Waksman, 11",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28036",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Calle del Profesor Waksman, 11",
+					"28036 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "+34913441237",
+			"display_phone": "+34 913 44 12 37",
+			"distance": 3794.7697614665412,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1600",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1600",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1600",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1600",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1600",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1600",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "2300",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1600",
+							"day": 6
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "ZRxa1quv86MzQ-cZxAwkYw",
+			"alias": "real-estambul-madrid-2",
+			"name": "Real Estambul",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K1HP8oo4JIOYv8yDOnW1TA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/real-estambul-madrid-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 40.45456,
+				"longitude": -3.703
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle de Bravo Murillo, 193",
+				"address2": null,
+				"address3": null,
+				"city": "Madrid",
+				"zip_code": "28020",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Calle de Bravo Murillo, 193",
+					"28020 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "+34913112865",
+			"display_phone": "+34 913 11 28 65",
+			"distance": 3561.208138342417,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0100",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0100",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0100",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0100",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0200",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0100",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "LFx0-Cbmqfo0wMK4ssMxDQ",
+			"alias": "kebapchi-jalo-madrid-2",
+			"name": "Kebapchi Jalo",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7c7G1Fnrl8iOmlc3eVpaZQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kebapchi-jalo-madrid-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 12,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "mideastern",
+					"title": "Middle Eastern"
+				}
+			],
+			"rating": 4.3,
+			"coordinates": {
+				"latitude": 40.40937,
+				"longitude": -3.69317
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "Calle de Atocha, 116",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28012",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle de Atocha, 116", "28012 Madrid", "Spain"]
+			},
+			"phone": "+34915280055",
+			"display_phone": "+34 915 28 00 55",
+			"distance": 1552.6720261936596,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1230",
+							"end": "1630",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1230",
+							"end": "1630",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1230",
+							"end": "1630",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1230",
+							"end": "1630",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1230",
+							"end": "1630",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "2030",
+							"end": "0030",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1230",
+							"end": "1630",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "2030",
+							"end": "0030",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1230",
+							"end": "1630",
+							"day": 6
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "0Zzv3DbHKFCfNqWXWyRW8Q",
+			"alias": "kebap-antonio-lopez-madrid",
+			"name": "Kebap Antonio Lopez",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dNaGvjD7VaFhlQv7xsSjZA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kebap-antonio-lopez-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "chickenshop",
+					"title": "Chicken Shop"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 40.3961237444639,
+				"longitude": -3.71235488487338
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle de Antonio López, 34",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28026",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Calle de Antonio López, 34",
+					"28026 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 3225.213323175072,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "UpUjTF74SjEJqr2CcwbCwA",
+			"alias": "gran-nemrut-madrid",
+			"name": "Gran Nemrut",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Y0UCyf0w3LLwd8at_mRgJQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/gran-nemrut-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 5,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "mideastern",
+					"title": "Middle Eastern"
+				},
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				}
+			],
+			"rating": 3.8,
+			"coordinates": {
+				"latitude": 40.38847,
+				"longitude": -3.73058
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Glorieta del Valle de Oro, 4",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28019",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Glorieta del Valle de Oro, 4",
+					"28019 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "+34914715219",
+			"display_phone": "+34 914 71 52 19",
+			"distance": 4735.144354584737,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0130",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0130",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0130",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0130",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0130",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0130",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0130",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "fhH6ejzsnXP_umNA1X6K-w",
+			"alias": "kebap-rania-madrid",
+			"name": "Kebap Rania",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ETfs87dMWBj0x_zzR7G_2Q/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kebap-rania-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "hookah_bars",
+					"title": "Hookah Bars"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "moroccan",
+					"title": "Moroccan"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 40.45711,
+				"longitude": -3.70192
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle de Bravo Murillo, 227",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28020",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Calle de Bravo Murillo, 227",
+					"28020 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "+34915711618",
+			"display_phone": "+34 915 71 16 18",
+			"distance": 3829.533248689408,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "YAcfoAKORWlf8OCHES4LLQ",
+			"alias": "kebapchi-jalo-madrid",
+			"name": "Kebapchi Jalo",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/K9YxgpmYO7UqhF38Qi8QSA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kebapchi-jalo-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 13,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.4,
+			"coordinates": {
+				"latitude": 40.40966,
+				"longitude": -3.70088
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "Calle del Ave María, 39",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28012",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle del Ave María, 39", "28012 Madrid", "Spain"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1492.6299080888705,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0030",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0030",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0030",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0030",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0130",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0130",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0030",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "lpVZA9wVw91z5ibT9ETO3g",
+			"alias": "kebab-palace-madrid",
+			"name": "Kebab Palace",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NhUIxrW7rvaxsdLqYAErwg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kebab-palace-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 40.42446536978,
+				"longitude": -3.6773475512468
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle del General Díaz Porlier, 3",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28001",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Calle del General Díaz Porlier, 3",
+					"28001 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "+34915752164",
+			"display_phone": "+34 915 75 21 64",
+			"distance": 1722.4496861353052,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "ZGIhVxVc8SemmxMuvedI8w",
+			"alias": "afgan-doner-kebab-madrid",
+			"name": "Afgan Doner Kebab",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/555Af7W_k-02tYWC5y2HRA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/afgan-doner-kebab-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "fooddeliveryservices",
+					"title": "Food Delivery Services"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 40.4253311,
+				"longitude": -3.7019701
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Calle Corredera Alta de San Pablo, 15",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28004",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Calle Corredera Alta de San Pablo, 15",
+					"28004 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 463.4998634735062,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "2ock2F41mkH9_pSzNn5zhg",
+			"alias": "deliyan-madrid",
+			"name": "Deliyan",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/bzYOF_TJ-5tolXDrIrZmgQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/deliyan-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.3,
+			"coordinates": {
+				"latitude": 40.40688,
+				"longitude": -3.64861
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "Avenida de Moratalaz, 137",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28030",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Avenida de Moratalaz, 137",
+					"28030 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "+34914377890",
+			"display_phone": "+34 914 37 78 90",
+			"distance": 4510.021623627428,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1800",
+							"end": "0030",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1800",
+							"end": "0030",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1800",
+							"end": "0030",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1800",
+							"end": "0030",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1230",
+							"end": "1630",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1830",
+							"end": "0030",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1230",
+							"end": "1630",
+							"day": 6
+						},
+						{
+							"is_overnight": true,
+							"start": "1830",
+							"end": "0030",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "rp_UmoMKd4ZnqkHrladYBA",
+			"alias": "universo-kebab-madrid",
+			"name": "Universo Kebab",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0LKZUby_9cprgudIiAb4lw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/universo-kebab-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 5,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.4,
+			"coordinates": {
+				"latitude": 40.39906,
+				"longitude": -3.69831
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "Calle de los Embajadores, 130",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28045",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Calle de los Embajadores, 130",
+					"28045 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 2657.733811496308,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0130",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0130",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0130",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0130",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0130",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0130",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0130",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "FBjVZb6LxO6IvaN81ASiQA",
+			"alias": "mamma-doner-madrid",
+			"name": "Mamma Doner",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CwmGehg7h9kYJwL-2JOksw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/mamma-doner-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 40.3999786,
+				"longitude": -3.6668401
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Avenida de Peña Prieta, 28",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28038",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Avenida de Peña Prieta, 28",
+					"28038 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 3638.705362417767,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "0000",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "0000",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "0000",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "0000",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "0000",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "0000",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "0000",
+							"end": "0000",
+							"day": 6
+						},
+						{
+							"is_overnight": false,
+							"start": "0000",
+							"end": "0200",
+							"day": 0
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "mswabif6I21cJwv0vCeYSw",
+			"alias": "kurdistan-döner-kebap-madrid-2",
+			"name": "Kurdistan Döner Kebap",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/31AlMvrdc19hkcRvtHCWBA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kurdistan-d%C3%B6ner-kebap-madrid-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "mideastern",
+					"title": "Middle Eastern"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 40.412617,
+				"longitude": -3.6993
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle de Atocha, 63",
+				"address2": null,
+				"address3": null,
+				"city": "Madrid",
+				"zip_code": "28014",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle de Atocha, 63", "28014 Madrid", "Spain"]
+			},
+			"phone": "+34914989043",
+			"display_phone": "+34 914 98 90 43",
+			"distance": 1148.187658168309,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "YLnfz8qNoU7VzQuyr0-vow",
+			"alias": "el-turkito-madrid-3",
+			"name": "El Turkito",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_sdYP8kh68rWoCyhilvNAQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/el-turkito-madrid-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.5,
+			"coordinates": {
+				"latitude": 40.42543,
+				"longitude": -3.71321
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle de Santa Micaela, 4",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28008",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Calle de Santa Micaela, 4",
+					"28008 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "+34915425196",
+			"display_phone": "+34 915 42 51 96",
+			"distance": 1348.6823835276152,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0300",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0300",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0300",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0300",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0300",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0300",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "pj75eaG_lre8f9_OO_Uykg",
+			"alias": "nemrut-madrid-3",
+			"name": "Nemrut",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3AKgEB7sO42rkyboKOWmYA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/nemrut-madrid-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 40.3850211346603,
+				"longitude": -3.71233452140521
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle Cerecinos, s/n",
+				"address2": "",
+				"address3": null,
+				"city": "Madrid",
+				"zip_code": "28013",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle Cerecinos, s/n", "28013 Madrid", "Spain"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 4388.916482473566,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "yEAQNY-pHxOeBrvTIy1vkg",
+			"alias": "euro-kebab-madrid",
+			"name": "Euro Kebab",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/t8kepTqv62DHqLEu-pKGqA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/euro-kebab-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 40.4049,
+				"longitude": -3.74672
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle de Cebreros, 50",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28011",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle de Cebreros, 50", "28011 Madrid", "Spain"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 4613.480567964984,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "0800",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "jXD9FIPtiTESNV4DvVxepA",
+			"alias": "nemrut-madrid-2",
+			"name": "Nemrut",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/CF3TzjNQVNs2yrO2R0TyaQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/nemrut-madrid-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.5,
+			"coordinates": {
+				"latitude": 40.4239270477233,
+				"longitude": -3.710255379091
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Calle Maestro Guerrero, 1",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28015",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Calle Maestro Guerrero, 1",
+					"28015 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1078.9955595467227,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "dU1EJsSDXFtI_5edyH9SUw",
+			"alias": "döner-kebap-istanbul-madrid-10",
+			"name": "Döner Kebap Istanbul",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/XNQ6o4CvqGJiMkLT0EEVjw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/d%C3%B6ner-kebap-istanbul-madrid-10?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 40.40727,
+				"longitude": -3.70108
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle del Amparo, 82",
+				"address2": "",
+				"address3": null,
+				"city": "Madrid",
+				"zip_code": "28012",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle del Amparo, 82", "28012 Madrid", "Spain"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1757.763389905014,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "PoV9vRk22Kv10JWu6vrz6w",
+			"alias": "yunie-madrid",
+			"name": "Yunie",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dQVP_J2_UqzF2yO4ucqm2w/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/yunie-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 9,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.9,
+			"coordinates": {
+				"latitude": 40.433204,
+				"longitude": -3.716371
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "Calle de Melendez Valdés, 64",
+				"address2": "",
+				"address3": null,
+				"city": "Madrid",
+				"zip_code": "28015",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Calle de Melendez Valdés, 64",
+					"28015 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "+34915430877",
+			"display_phone": "+34 915 43 08 77",
+			"distance": 1962.426548000212,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1600",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "2000",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1600",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "2000",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1600",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "2000",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1600",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "2000",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1600",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "2000",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "2000",
+							"end": "2300",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1600",
+							"day": 6
+						},
+						{
+							"is_overnight": false,
+							"start": "2000",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "qPP6j5b8APNZiaVnJm-5sQ",
+			"alias": "kebab-del-mundo-madrid",
+			"name": "Kebab del Mundo",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/UZlq4_77r60K9S9-RYQ9Qw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kebab-del-mundo-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "fooddeliveryservices",
+					"title": "Food Delivery Services"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 2.5,
+			"coordinates": {
+				"latitude": 40.40458,
+				"longitude": -3.70467
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Paseo Acacias, 4",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28005",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Paseo Acacias, 4", "28005 Madrid", "Spain"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 2109.0915855530798,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0200",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "u6J7uMeTTuDWyYRQCUOTfw",
+			"alias": "b13-madrid",
+			"name": "B13",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/i0zOp_X2qFHRWDoe2C7gWQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/b13-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 31,
+			"categories": [
+				{
+					"alias": "vegan",
+					"title": "Vegan"
+				}
+			],
+			"rating": 4.5,
+			"coordinates": {
+				"latitude": 40.4219024,
+				"longitude": -3.7034942
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Calle Ballesta, 13",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28004",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle Ballesta, 13", "28004 Madrid", "Spain"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 511.3421363570183,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1630",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1630",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1630",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1630",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1330",
+							"end": "1630",
+							"day": 6
+						},
+						{
+							"is_overnight": false,
+							"start": "2030",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "kJv_-qyVgh4Yh44IBdNkwQ",
+			"alias": "hisar-madrid",
+			"name": "Hisar",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/hisar-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "mideastern",
+					"title": "Middle Eastern"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 40.4174999,
+				"longitude": -3.67649
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle Narváez, 72",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28009",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle Narváez, 72", "28009 Madrid", "Spain"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1863.032185023992,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "Ux2dFTZOrh0G_Xilj1lg3A",
+			"alias": "tawakal-madrid-2",
+			"name": "Tawakal",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CTCi066_q4PPMHJ1JED_Zg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/tawakal-madrid-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 5,
+			"categories": [
+				{
+					"alias": "mideastern",
+					"title": "Middle Eastern"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.2,
+			"coordinates": {
+				"latitude": 40.43333,
+				"longitude": -3.67112
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Calle Azcona, 16",
+				"address2": null,
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28028",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle Azcona, 16", "28028 Madrid", "Spain"]
+			},
+			"phone": "+34917259590",
+			"display_phone": "+34 917 25 95 90",
+			"distance": 2523.657987278413,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "dn-nCnMS44VaGzJRg9cokw",
+			"alias": "doner-kebab-k2-san-sebastián-de-los-reyes",
+			"name": "Doner Kebab K2",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/yx5pHfzZ4ElIUGmvtdHXDA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/doner-kebab-k2-san-sebasti%C3%A1n-de-los-reyes?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 40.54762,
+				"longitude": -3.6356
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Avenida de España, 68",
+				"address2": null,
+				"address3": "",
+				"city": "San Sebastián de los Reyes",
+				"zip_code": "28701",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Avenida de España, 68",
+					"28701 San Sebastián de los Reyes",
+					"Spain"
+				]
+			},
+			"phone": "+34911106958",
+			"display_phone": "+34 911 10 69 58",
+			"distance": 14837.766645026602,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0100",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0100",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "azXnB0boXLLyt5-06MnQJw",
+			"alias": "kebabish-taj-mahal-madrid",
+			"name": "Kebabish Taj Mahal",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AjompbSiPwWFaWx8ff3Nlg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kebabish-taj-mahal-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 5,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.4,
+			"coordinates": {
+				"latitude": 40.43383,
+				"longitude": -3.64341
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Calle Emilio Ferrari, 18",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28017",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle Emilio Ferrari, 18", "28017 Madrid", "Spain"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 4740.780882415243,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "s4OrjgdBgEWM-g6zpzedrA",
+			"alias": "campanilla-madrid",
+			"name": "Campanilla",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/H3cl_VSVeqMGW-8qLaECJA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/campanilla-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 72,
+			"categories": [
+				{
+					"alias": "spanish",
+					"title": "Spanish"
+				}
+			],
+			"rating": 4.8,
+			"coordinates": {
+				"latitude": 40.47265,
+				"longitude": -3.58163
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Avenida de Logroño, 132",
+				"address2": null,
+				"address3": null,
+				"city": "Madrid",
+				"zip_code": "28042",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Avenida de Logroño, 132", "28042 Madrid", "Spain"]
+			},
+			"phone": "+34913290965",
+			"display_phone": "+34 913 29 09 65",
+			"distance": 11269.788480245592,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "0730",
+							"end": "0000",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "HXp4cifYtu9JrX9mrVAh6A",
+			"alias": "cafeteria-varela-teledonner-kebab-2-leganés",
+			"name": "Cafeteria Varela Teledonner Kebab 2",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DNXld5lg1eX81CKTHHXWEw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/cafeteria-varela-teledonner-kebab-2-legan%C3%A9s?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 40.3299621843538,
+				"longitude": -3.75535577116398
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle de la Rioja, 70",
+				"address2": null,
+				"address3": null,
+				"city": "Leganés",
+				"zip_code": "28915",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle de la Rioja, 70", "28915 Leganés", "Spain"]
+			},
+			"phone": "+34916869416",
+			"display_phone": "+34 916 86 94 16",
+			"distance": 11430.285908467426,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "N3lf-t7M2IumWhacX72gVg",
+			"alias": "el-turkito-madrid",
+			"name": "El Turkito",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/9hZqQHGLFNs6XmGgt4buLg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/el-turkito-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 7,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 40.41322,
+				"longitude": -3.70372
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Calle del Doctor Cortezo, 7",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28012",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Calle del Doctor Cortezo, 7",
+					"28012 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "+34914291811",
+			"display_phone": "+34 914 29 18 11",
+			"distance": 1188.8050702986793,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1300",
+							"end": "0100",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1300",
+							"end": "0100",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1300",
+							"end": "0100",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1300",
+							"end": "0100",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1300",
+							"end": "0100",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1300",
+							"end": "0100",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1300",
+							"end": "0100",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "pSdme7WUZHnQzDRgWk4SAg",
+			"alias": "doner-kebap-aurasya-madrid",
+			"name": "Doner Kebap Aurasya",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/19-FBAQzSvKK8aEo7o_0XQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/doner-kebap-aurasya-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 2.0,
+			"coordinates": {
+				"latitude": 40.4256553761638,
+				"longitude": -3.70711981835107
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Calle de San Bernardo, 53",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28015",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Calle de San Bernardo, 53",
+					"28015 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 864.8046376901962,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0230",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "nyBmRFSs6gk_CzVufWx_Lw",
+			"alias": "reina-saray-madrid",
+			"name": "Reina Saray",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/reina-saray-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 40.4603899,
+				"longitude": -3.69879
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle Bravo Murillo, 283",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28020",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle Bravo Murillo, 283", "28020 Madrid", "Spain"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 4179.759121962517,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "apKyEWiBwLNB56YSPpsn_w",
+			"alias": "doner-kebap-istanbul-madrid-7",
+			"name": "Doner Kebap Istanbul",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KWUdun27tx-iFRTTJ5oV9g/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/doner-kebap-istanbul-madrid-7?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 40.40748,
+				"longitude": -3.70046
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle de Valencia, 14",
+				"address2": null,
+				"address3": null,
+				"city": "Madrid",
+				"zip_code": "28012",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle de Valencia, 14", "28012 Madrid", "Spain"]
+			},
+			"phone": "+34914687909",
+			"display_phone": "+34 914 68 79 09",
+			"distance": 1721.7188183421,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0200",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "0800",
+							"end": "0200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "E8JQ0wa9QlCOMXkL2tLyXg",
+			"alias": "euro-döner-istambul-madrid-2",
+			"name": "Euro Döner Istambul",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wrk5AViA1n8sUbPnTKxcfA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/euro-d%C3%B6ner-istambul-madrid-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 4,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "bars",
+					"title": "Bars"
+				},
+				{
+					"alias": "cafeteria",
+					"title": "Cafeteria"
+				}
+			],
+			"rating": 3.8,
+			"coordinates": {
+				"latitude": 40.41022,
+				"longitude": -3.69438
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Calle de Atocha, 117",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28012",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle de Atocha, 117", "28012 Madrid", "Spain"]
+			},
+			"phone": "+34914202566",
+			"display_phone": "+34 914 20 25 66",
+			"distance": 1423.1879534148711,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1200",
+							"end": "0200",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "-YMmq5kjDY-qZRbVgoD8Ow",
+			"alias": "mundo-kebap-madrid",
+			"name": "Mundo Kebap",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/bJOavUMo6aKBjGujCBKVRA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/mundo-kebap-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 40.4368746134419,
+				"longitude": -3.63870352506638
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Calle José Arcones Gil, 11",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28017",
+				"country": "ES",
+				"state": "M",
+				"display_address": [
+					"Calle José Arcones Gil, 11",
+					"28017 Madrid",
+					"Spain"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 5221.852952157485,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0030",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0030",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0030",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0030",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0030",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0030",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0030",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "sWm_TPypavbikw_LHRN3-w",
+			"alias": "la-pescadería-madrid",
+			"name": "La Pescadería",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/aBYuOBwMlv_7vaJgV-60Hg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/la-pescader%C3%ADa-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 59,
+			"categories": [
+				{
+					"alias": "modern_european",
+					"title": "Modern European"
+				}
+			],
+			"rating": 4.2,
+			"coordinates": {
+				"latitude": 40.4229102,
+				"longitude": -3.7032366
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "Calle de la Ballesta, 32",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28004",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Calle de la Ballesta, 32", "28004 Madrid", "Spain"]
+			},
+			"phone": "+34915239051",
+			"display_phone": "+34 915 23 90 51",
+			"distance": 478.35240163608233,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1300",
+							"end": "0100",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1300",
+							"end": "0100",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1300",
+							"end": "0100",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1300",
+							"end": "0100",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1300",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1300",
+							"end": "0100",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "oJaKGys-VMXY7-bRyYWAcg",
+			"alias": "nemrut-madrid",
+			"name": "Nemrut",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/I-QZLjEJtJlj56LAlKZu0Q/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/nemrut-madrid?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 7,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.6,
+			"coordinates": {
+				"latitude": 40.390809936551,
+				"longitude": -3.69425143863445
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Paseo del Molino, 1",
+				"address2": "",
+				"address3": "",
+				"city": "Madrid",
+				"zip_code": "28045",
+				"country": "ES",
+				"state": "M",
+				"display_address": ["Paseo del Molino, 1", "28045 Madrid", "Spain"]
+			},
+			"phone": "+34914674821",
+			"display_phone": "+34 914 67 48 21",
+			"distance": 3574.9818332841232,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		}
+	],
+	"total": 123,
+	"region": {
+		"center": {
+			"longitude": -3.6975860595703125,
+			"latitude": 40.42286012989007
+		}
+	}
+}

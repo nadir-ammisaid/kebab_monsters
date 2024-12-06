@@ -1,0 +1,3566 @@
+{
+	"businesses": [
+		{
+			"id": "RtI9z3d5PQ1wdxGTaxaMXA",
+			"alias": "au-vieux-cèdre-paris-4",
+			"name": "Au Vieux Cèdre",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JCuG9eQe7TcMAHMraoA3xA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/au-vieux-c%C3%A8dre-paris-4?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 33,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "lebanese",
+					"title": "Lebanese"
+				},
+				{
+					"alias": "sandwiches",
+					"title": "Sandwiches"
+				}
+			],
+			"rating": 4.3,
+			"coordinates": {
+				"latitude": 48.844533,
+				"longitude": 2.34899
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "2 rue Blainville",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75005",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["2 rue Blainville", "75005 Paris", "France"]
+			},
+			"phone": "+33146345567",
+			"display_phone": "+33 1 46 34 55 67",
+			"distance": 2001.2609008010736,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "U4TKzlvGXQaNt6tZs0Q6nw",
+			"alias": "buffet-dost-paris",
+			"name": "Buffet Dost",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MtFAiNweHFJbm0KZ0vBJKw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/buffet-dost-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.7,
+			"coordinates": {
+				"latitude": 48.85256,
+				"longitude": 2.40584
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "92 rue d'Avron",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75020",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["92 rue d'Avron", "75020 Paris", "France"]
+			},
+			"phone": "+33758855585",
+			"display_phone": "+33 7 58 85 55 85",
+			"distance": 4777.692849634725,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "y6nXEMqblnbS1aj1LlymmQ",
+			"alias": "bodrum-paris",
+			"name": "Bodrum",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/z24MkvSHjTX-1tSlolzbQA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/bodrum-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 11,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.6,
+			"coordinates": {
+				"latitude": 48.8854971,
+				"longitude": 2.3199975
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "43 rue des Batignolles",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75017",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["43 rue des Batignolles", "75017 Paris", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 3078.1254470470053,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "2100",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "2100",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "2100",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "2100",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "2100",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "2100",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "LxeA5hfV2o4fnIwBSWrizA",
+			"alias": "la-rose-de-damas-paris-2",
+			"name": "La Rose de Damas",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/26cgAIyVB2SRI6uq2Mg33w/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/la-rose-de-damas-paris-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 15,
+			"categories": [
+				{
+					"alias": "mideastern",
+					"title": "Middle Eastern"
+				}
+			],
+			"rating": 4.5,
+			"coordinates": {
+				"latitude": 48.84954,
+				"longitude": 2.35521
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "6 boulevard Saint-Germain",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75005",
+				"country": "FR",
+				"state": "75",
+				"display_address": [
+					"6 boulevard Saint-Germain",
+					"75005 Paris",
+					"France"
+				]
+			},
+			"phone": "+33980441200",
+			"display_phone": "+33 9 80 44 12 00",
+			"distance": 1676.6819687197471,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1000",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "vXEmo9pjIf4YvCKnKMSuZw",
+			"alias": "grillé-paris-13",
+			"name": "Grillé",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pLcyTvJaCF-PORmAgDTZzQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/grill%C3%A9-paris-13?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "donairs",
+					"title": "Donairs"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 48.8582121287258,
+				"longitude": 2.35373318848947
+			},
+			"transactions": [],
+			"location": {
+				"address1": "14 rue du Temple",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75004",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["14 rue du Temple", "75004 Paris", "France"]
+			},
+			"phone": "+33142783905",
+			"display_phone": "+33 1 42 78 39 05",
+			"distance": 944.3780017770108,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1600",
+							"end": "2000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1600",
+							"end": "2000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2000",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "agoTRD9QK1NYlWSGKyWKEA",
+			"alias": "le-pré-lud-paris",
+			"name": "Le Pré'lud",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/le-pr%C3%A9-lud-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "salad",
+					"title": "Salad"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 48.8711725,
+				"longitude": 2.3084574
+			},
+			"transactions": [],
+			"location": {
+				"address1": "34 rue Ponthieu",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75008",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["34 rue Ponthieu", "75008 Paris", "France"]
+			},
+			"phone": "+33145623715",
+			"display_phone": "+33 1 45 62 37 15",
+			"distance": 2668.797805261243,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "pwKo4Jb-RC9e6CIEd1CyWA",
+			"alias": "chez-omar-paris",
+			"name": "Chez Omar",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eZq4Hw4SYjHx6v6IKUKS3g/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/chez-omar-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 110,
+			"categories": [
+				{
+					"alias": "moroccan",
+					"title": "Moroccan"
+				},
+				{
+					"alias": "mediterranean",
+					"title": "Mediterranean"
+				}
+			],
+			"rating": 3.5,
+			"coordinates": {
+				"latitude": 48.8634,
+				"longitude": 2.36154
+			},
+			"transactions": [],
+			"price": "€€€",
+			"location": {
+				"address1": "47 rue de Bretagne",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75003",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["47 rue de Bretagne", "75003 Paris", "France"]
+			},
+			"phone": "+33490046388",
+			"display_phone": "+33 4 90 04 63 88",
+			"distance": 1427.587774028414,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1430",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2330",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1430",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2330",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1430",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2330",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1430",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2330",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1430",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2330",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1430",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2330",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1430",
+							"day": 6
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2330",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "4ivoutpOKtZbcamD-wOP3A",
+			"alias": "la-crête-paris-2",
+			"name": "La Crête",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LzBal6eMQ2jcM9GfTAz03g/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/la-cr%C3%AAte-paris-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 65,
+			"categories": [
+				{
+					"alias": "greek",
+					"title": "Greek"
+				}
+			],
+			"rating": 4.3,
+			"coordinates": {
+				"latitude": 48.8417353,
+				"longitude": 2.3497009
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "85 rue Mouffetard",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75005",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["85 rue Mouffetard", "75005 Paris", "France"]
+			},
+			"phone": "+33143313047",
+			"display_phone": "+33 1 43 31 30 47",
+			"distance": 2315.637813456891,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1430",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1830",
+							"end": "2330",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1430",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1830",
+							"end": "2330",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1430",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1830",
+							"end": "2330",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1430",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1830",
+							"end": "2330",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1430",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1830",
+							"end": "2330",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1430",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1830",
+							"end": "2330",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1600",
+							"day": 6
+						},
+						{
+							"is_overnight": false,
+							"start": "1830",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "m52r0_naj8lTk9Y9iijwFA",
+			"alias": "akhtamar-issy-les-moulineaux",
+			"name": "Akhtamar",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rnrJoftvCeSZndfaIoEKcw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/akhtamar-issy-les-moulineaux?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "halal",
+					"title": "Halal"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 48.8290689810615,
+				"longitude": 2.28292733430862
+			},
+			"transactions": [],
+			"location": {
+				"address1": "15 Ernest Renan",
+				"address2": "",
+				"address3": "",
+				"city": "Issy-les-Moulineaux",
+				"zip_code": "92130",
+				"country": "FR",
+				"state": "92",
+				"display_address": [
+					"15 Ernest Renan",
+					"92130 Issy-les-Moulineaux",
+					"France"
+				]
+			},
+			"phone": "+33146383392",
+			"display_phone": "+33 1 46 38 33 92",
+			"distance": 5670.480863452304,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "YG1WeJg6HYY3hUF3SJ5GMQ",
+			"alias": "les-délices-de-broca-paris",
+			"name": "Les Délices de Broca",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_K_tyvJ-v4Dh_CmVNSR2Xw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/les-d%C3%A9lices-de-broca-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "halal",
+					"title": "Halal"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 48.8369217,
+				"longitude": 2.3469999
+			},
+			"transactions": [],
+			"location": {
+				"address1": "69 rue Broca",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75013",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["69 rue Broca", "75013 Paris", "France"]
+			},
+			"phone": "+33950553881",
+			"display_phone": "+33 9 50 55 38 81",
+			"distance": 2807.332822388867,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2300",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "JoVfmYr9WSiwNoNvbaDPuQ",
+			"alias": "özgül-paris",
+			"name": "Özgül",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/p0kkLazk69YVH8RidzVZvg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/%C3%B6zg%C3%BCl-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				}
+			],
+			"rating": 3.7,
+			"coordinates": {
+				"latitude": 48.8580295,
+				"longitude": 2.3816319
+			},
+			"transactions": [],
+			"location": {
+				"address1": "117 rue de la Roquette",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75011",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["117 rue de la Roquette", "75011 Paris", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 2921.319845716763,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "srnEdmuUO_lbIOq2Okc3-A",
+			"alias": "maison-de-gyros-paris-3",
+			"name": "Maison de Gyros",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/J0cocVhWbxCWUW7ECFMN8A/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/maison-de-gyros-paris-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 34,
+			"categories": [
+				{
+					"alias": "greek",
+					"title": "Greek"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 2.7,
+			"coordinates": {
+				"latitude": 48.852922,
+				"longitude": 2.345713
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "17 rue de la Huchette",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75005",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["17 rue de la Huchette", "75005 Paris", "France"]
+			},
+			"phone": "+33144270597",
+			"display_phone": "+33 1 44 27 05 97",
+			"distance": 1038.1232964975422,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "firBgAshg3BkhNi09_gztg",
+			"alias": "au-vieux-cèdre-paris-3",
+			"name": "Au Vieux Cèdre",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/au-vieux-c%C3%A8dre-paris-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 14,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "mideastern",
+					"title": "Middle Eastern"
+				}
+			],
+			"rating": 4.3,
+			"coordinates": {
+				"latitude": 48.84523,
+				"longitude": 2.34255
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "187 rue St Jacques",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75005",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["187 rue St Jacques", "75005 Paris", "France"]
+			},
+			"phone": "+33143255715",
+			"display_phone": "+33 1 43 25 57 15",
+			"distance": 1860.651815957911,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "f6TEnDMemXBPkXa9bhVDYw",
+			"alias": "antalya-paris-3",
+			"name": "Antalya",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8Tj51XUMJ2IhhVf_HCoaOw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/antalya-paris-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				},
+				{
+					"alias": "bbq",
+					"title": "Barbeque"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 48.8329151,
+				"longitude": 2.31968
+			},
+			"transactions": [],
+			"location": {
+				"address1": "19 rue Pernety",
+				"address2": "",
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75014",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["19 rue Pernety", "75014 Paris", "France"]
+			},
+			"phone": "+33986244784",
+			"display_phone": "+33 9 86 24 47 84",
+			"distance": 3623.877599855939,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0100",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0100",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0100",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0100",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0100",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0100",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "JLvk_EOmNg4AjmMUfcwA4A",
+			"alias": "coupe-faim-paris",
+			"name": "Coupe Faim",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/lXT_nViMPZ8TC7tKGVH9QA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/coupe-faim-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "burgers",
+					"title": "Burgers"
+				}
+			],
+			"rating": 4.5,
+			"coordinates": {
+				"latitude": 48.84455,
+				"longitude": 2.31849
+			},
+			"transactions": [],
+			"location": {
+				"address1": "125 rue de Vaugirard",
+				"address2": "",
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75015",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["125 rue de Vaugirard", "75015 Paris", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 2597.5298554963556,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "Aaakx_Gy0EyANgXbuJQX2A",
+			"alias": "b-bell-paris",
+			"name": "B.Bell",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mhuWSRdgqEVQU1uhBYX33Q/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/b-bell-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 5,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "friterie",
+					"title": "Friterie"
+				},
+				{
+					"alias": "sandwiches",
+					"title": "Sandwiches"
+				}
+			],
+			"rating": 4.6,
+			"coordinates": {
+				"latitude": 48.8663292186991,
+				"longitude": 2.36073553562164
+			},
+			"transactions": [],
+			"location": {
+				"address1": "74 rue de Turbigo",
+				"address2": "",
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75003",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["74 rue de Turbigo", "75003 Paris", "France"]
+			},
+			"phone": "+33970932727",
+			"display_phone": "+33 9 70 93 27 27",
+			"distance": 1443.918679368617,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2200",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2200",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2200",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "3-k98SgZJqdrtL4WhHCVwg",
+			"alias": "ankara-paris",
+			"name": "Ankara",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/ankara-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.5,
+			"coordinates": {
+				"latitude": 48.8940991,
+				"longitude": 2.3473474
+			},
+			"transactions": [],
+			"location": {
+				"address1": "29 Boulevard Ornano",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75018",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["29 Boulevard Ornano", "75018 Paris", "France"]
+			},
+			"phone": "+33142527145",
+			"display_phone": "+33 1 42 52 71 45",
+			"distance": 3594.026558329029,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "sItazCxRoC2nazmtehQ1Ng",
+			"alias": "shabestan-mirabeau-paris-2",
+			"name": "Shabestan - Mirabeau",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1nt7BzIaol4ogf36pIkYCA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/shabestan-mirabeau-paris-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 26,
+			"categories": [
+				{
+					"alias": "french",
+					"title": "French"
+				},
+				{
+					"alias": "persian",
+					"title": "Persian/Iranian"
+				}
+			],
+			"rating": 4.1,
+			"coordinates": {
+				"latitude": 48.8493870399618,
+				"longitude": 2.27543376190192
+			},
+			"transactions": [],
+			"price": "€€€",
+			"location": {
+				"address1": "38 avenue de Versailles",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75016",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["38 avenue de Versailles", "75016 Paris", "France"]
+			},
+			"phone": "+33145255115",
+			"display_phone": "+33 1 45 25 51 15",
+			"distance": 5077.135821735917,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2300",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2300",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "dxcHp_NAnO2e_BvR_pY4Nw",
+			"alias": "janine-loves-sunday-paris",
+			"name": "Janine loves Sunday",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BT8Qxqp7y2qQLwZCJmw91w/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/janine-loves-sunday-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 62,
+			"categories": [
+				{
+					"alias": "brasseries",
+					"title": "Brasseries"
+				},
+				{
+					"alias": "vegan",
+					"title": "Vegan"
+				}
+			],
+			"rating": 4.4,
+			"coordinates": {
+				"latitude": 48.865794,
+				"longitude": 2.344502
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "49 rue Montmartre",
+				"address2": "",
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75002",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["49 rue Montmartre", "75002 Paris", "France"]
+			},
+			"phone": "+33140265680",
+			"display_phone": "+33 1 40 26 56 80",
+			"distance": 459.93121891359345,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1700",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0100",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0100",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "1630",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "tZi-HY-6ggDTVt4kSypopQ",
+			"alias": "le-sanctuaire-de-baal-paris",
+			"name": "Le Sanctuaire de Baal",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/GVsbTSipQAWhrh3hm4-q2w/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/le-sanctuaire-de-baal-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 10,
+			"categories": [
+				{
+					"alias": "mideastern",
+					"title": "Middle Eastern"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.2,
+			"coordinates": {
+				"latitude": 48.862,
+				"longitude": 2.34259
+			},
+			"transactions": [],
+			"price": "€€€",
+			"location": {
+				"address1": "14 rue Sauval",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75001",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["14 rue Sauval", "75001 Paris", "France"]
+			},
+			"phone": "+33140410808",
+			"display_phone": "+33 1 40 41 08 08",
+			"distance": 38.55527827024135,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "0000",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "yArzhGDPbQNsPOyA99rjwg",
+			"alias": "delice-jussieu-paris",
+			"name": "Delice Jussieu",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4j47zwJayeyRgi6SUhce5A/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/delice-jussieu-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 48.8441057779105,
+				"longitude": 2.35491548033509
+			},
+			"transactions": [],
+			"location": {
+				"address1": "4 rue Linné",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75005",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["4 rue Linné", "75005 Paris", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 2193.9517712018915,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "qfLiMiQn8oy2h1XJ5oeFGg",
+			"alias": "118-paris",
+			"name": "118",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/118-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.5,
+			"coordinates": {
+				"latitude": 48.8885892,
+				"longitude": 2.3236384
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "Avenue de Clichy",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["Avenue de Clichy", "Paris", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 3255.912987630106,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "MtzxQzKBJW-NSrnwr8-M2g",
+			"alias": "ladess-paris",
+			"name": "Ladess",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/tStfRjAOmhc3B_8v_E9vPw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/ladess-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 4,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.3,
+			"coordinates": {
+				"latitude": 48.885,
+				"longitude": 2.32657
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "15 avenue de Clichy",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75017",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["15 avenue de Clichy", "75017 Paris", "France"]
+			},
+			"phone": "+33143873330",
+			"display_phone": "+33 1 43 87 33 30",
+			"distance": 2803.9715455082187,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "usQ1AUbnnK3L4HXyJWjAuw",
+			"alias": "topoly-paris-3",
+			"name": "Topoly",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fefLrLGInMGdoZt8XMsGSg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/topoly-paris-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 15,
+			"categories": [
+				{
+					"alias": "lebanese",
+					"title": "Lebanese"
+				}
+			],
+			"rating": 3.6,
+			"coordinates": {
+				"latitude": 48.8532448974293,
+				"longitude": 2.3427597618081
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "25 rue St André Des Arts",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75006",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["25 rue St André Des Arts", "75006 Paris", "France"]
+			},
+			"phone": "+33143290344",
+			"display_phone": "+33 1 43 29 03 44",
+			"distance": 969.9528934324687,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "3iQRCrPl43ICuGd10smUhQ",
+			"alias": "mélodie-paris-3",
+			"name": "Mélodie",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jtLQtCjSfKx2_7ku27SviA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/m%C3%A9lodie-paris-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.7,
+			"coordinates": {
+				"latitude": 48.87679,
+				"longitude": 2.32699
+			},
+			"transactions": [],
+			"price": "€€€",
+			"location": {
+				"address1": "22 rue Amsterdam",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75008",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["22 rue Amsterdam", "75008 Paris", "France"]
+			},
+			"phone": "+33148748904",
+			"display_phone": "+33 1 48 74 89 04",
+			"distance": 1981.2574754956208,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "Rj02EI7oamBg1bRkEL3iMw",
+			"alias": "croq-étoile-paris-2",
+			"name": "croq'étoile",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qp0JkP3_rp90GX2jAU7_Ig/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/croq-%C3%A9toile-paris-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 2.0,
+			"coordinates": {
+				"latitude": 48.8762894,
+				"longitude": 2.2899899
+			},
+			"transactions": [],
+			"location": {
+				"address1": "3 rue de Acasias",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75017",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["3 rue de Acasias", "75017 Paris", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 4135.853980852779,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "Z3NoQkHtk4WOQ0dnD8KpPg",
+			"alias": "sizin-paris-2",
+			"name": "Sizin",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Mkpwn4j-MiSGXiAs0oAJHw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/sizin-paris-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 35,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				}
+			],
+			"rating": 4.1,
+			"coordinates": {
+				"latitude": 48.87771,
+				"longitude": 2.33739
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "47 rue Saint-Georges",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75009",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["47 rue Saint-Georges", "75009 Paris", "France"]
+			},
+			"phone": "+33144630228",
+			"display_phone": "+33 1 44 63 02 28",
+			"distance": 1785.7087961882282,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "http://www.sizin-restaurant.com/carte/formules/",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "Yntg154gBVzoXaC68TANZQ",
+			"alias": "five-food-paris",
+			"name": "Five Food",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/OSZQeYJG1Hx-fPlulTLFbQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/five-food-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "pizza",
+					"title": "Pizza"
+				},
+				{
+					"alias": "creperies",
+					"title": "Creperies"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 48.8688583,
+				"longitude": 2.3792
+			},
+			"transactions": [],
+			"location": {
+				"address1": "8 rue du Moulin Joly",
+				"address2": null,
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75011",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["8 rue du Moulin Joly", "75011 Paris", "France"]
+			},
+			"phone": "+33984571984",
+			"display_phone": "+33 9 84 57 19 84",
+			"distance": 2821.139515339081,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "N_etE9befO6C4NA6Vi5j-g",
+			"alias": "kebab-starlight-paris",
+			"name": "Kebab Starlight",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kebab-starlight-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 48.844131,
+				"longitude": 2.294821
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Rue Lakanal",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75015",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["Rue Lakanal", "75015 Paris", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 3983.498753681226,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "hlYoBZzddVii-d-1IjhTEw",
+			"alias": "fast-balard-paris",
+			"name": "fast balard",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/gVrOinZ7joc3SbBxclfJEQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/fast-balard-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 5,
+			"categories": [
+				{
+					"alias": "grocery",
+					"title": "Grocery"
+				},
+				{
+					"alias": "halal",
+					"title": "Halal"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "sandwiches",
+					"title": "Sandwiches"
+				}
+			],
+			"rating": 3.8,
+			"coordinates": {
+				"latitude": 48.8368665,
+				"longitude": 2.2787286
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "147 147 Avenue Félix Faure",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75015",
+				"country": "FR",
+				"state": "75",
+				"display_address": [
+					"147 147 Avenue Félix Faure",
+					"75015 Paris",
+					"France"
+				]
+			},
+			"phone": "+33145548103",
+			"display_phone": "+33 1 45 54 81 03",
+			"distance": 5414.636086775067,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "s8WX-lVvG9RUFtpTkkku4A",
+			"alias": "restaurant-ella-paris",
+			"name": "Restaurant Ella",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XHC5-kaUZ5xXGt4gX1sDIg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/restaurant-ella-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 13,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				}
+			],
+			"rating": 4.2,
+			"coordinates": {
+				"latitude": 48.87044,
+				"longitude": 2.3531399
+			},
+			"transactions": [],
+			"location": {
+				"address1": "14 rue du Faubourg Saint-Denis",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75010",
+				"country": "FR",
+				"state": "75",
+				"display_address": [
+					"14 rue du Faubourg Saint-Denis",
+					"75010 Paris",
+					"France"
+				]
+			},
+			"phone": "+33147702095",
+			"display_phone": "+33 1 47 70 20 95",
+			"distance": 1246.5786849679118,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "0uS7Z5ptKLrWq4B7FCP3oQ",
+			"alias": "marché-des-enfants-rouges-paris-2",
+			"name": "Marché des Enfants Rouges",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zl_HwSoCp4WI-F_eF2BuzQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/march%C3%A9-des-enfants-rouges-paris-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 181,
+			"categories": [
+				{
+					"alias": "farmersmarket",
+					"title": "Farmers Market"
+				}
+			],
+			"rating": 4.2,
+			"coordinates": {
+				"latitude": 48.86296,
+				"longitude": 2.36215
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "39 rue de Bretagne",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75003",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["39 rue de Bretagne", "75003 Paris", "France"]
+			},
+			"phone": "+33140112040",
+			"display_phone": "+33 1 40 11 20 40",
+			"distance": 1468.5182461880217,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0830",
+							"end": "1930",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0830",
+							"end": "1930",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0830",
+							"end": "1930",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0830",
+							"end": "1930",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "0830",
+							"end": "1930",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "ThwnY7bu3FEMXVR-QnaG_Q",
+			"alias": "nabab-kebab-paris-4",
+			"name": "Nabab Kebab",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IjQOoh7mm16OHZHbB6_89w/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/nabab-kebab-paris-4?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 15,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "burgers",
+					"title": "Burgers"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 2.3,
+			"coordinates": {
+				"latitude": 48.86213,
+				"longitude": 2.34981
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "72 rue Rambuteau",
+				"address2": "",
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75001",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["72 rue Rambuteau", "75001 Paris", "France"]
+			},
+			"phone": "+33668484339",
+			"display_phone": "+33 6 68 48 43 39",
+			"distance": 564.7822694582528,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1130",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "R0iCJKhoWev0DqsQxDHR5w",
+			"alias": "istanbul-ivry-sur-seine",
+			"name": "Istanbul",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/88W5wOBjDiFoqLUmEYqGAw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/istanbul-ivry-sur-seine?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 48.8140985273557,
+				"longitude": 2.38540649414062
+			},
+			"transactions": [],
+			"location": {
+				"address1": "4 Promenet Jeanne Hachette",
+				"address2": "",
+				"address3": "",
+				"city": "Ivry-sur-Seine",
+				"zip_code": "94200",
+				"country": "FR",
+				"state": "94",
+				"display_address": [
+					"4 Promenet Jeanne Hachette",
+					"94200 Ivry-sur-Seine",
+					"France"
+				]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 6192.328245792359,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "0900",
+							"end": "2300",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "2_UrWUW7y_1tUegcQWWKrQ",
+			"alias": "doner-king-paris",
+			"name": "Doner king",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xEl7vScVuyt_aA6gLbedzg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/doner-king-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 7,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 2.9,
+			"coordinates": {
+				"latitude": 48.85501,
+				"longitude": 2.26953
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "54 Avenue Mozart",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75016",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["54 Avenue Mozart", "75016 Paris", "France"]
+			},
+			"phone": "+33145203295",
+			"display_phone": "+33 1 45 20 32 95",
+			"distance": 5373.991329233219,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "0cG4l4CgdDUPzqDiPSs0TQ",
+			"alias": "sizin-paris",
+			"name": "Sizin",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4xLglHruHuTqtkR6MrNFNQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/sizin-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 15,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.2,
+			"coordinates": {
+				"latitude": 48.86907,
+				"longitude": 2.36833
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "36 rue du Faubourg du Temple",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75011",
+				"country": "FR",
+				"state": "75",
+				"display_address": [
+					"36 rue du Faubourg du Temple",
+					"75011 Paris",
+					"France"
+				]
+			},
+			"phone": "+33148065403",
+			"display_phone": "+33 1 48 06 54 03",
+			"distance": 2071.9768840902602,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1500",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2330",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1500",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2330",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1500",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2330",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1500",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2330",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1500",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2330",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "1500",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1900",
+							"end": "2330",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "lPnM4NizfEnViOYeI4eX7w",
+			"alias": "evangelista-paris-2",
+			"name": "Evangelista",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wBRGLVIdG6Hc7YJJjOKqCQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/evangelista-paris-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 18,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "cafes",
+					"title": "Cafes"
+				},
+				{
+					"alias": "coffee",
+					"title": "Coffee & Tea"
+				}
+			],
+			"rating": 2.7,
+			"coordinates": {
+				"latitude": 48.8595388,
+				"longitude": 2.3240061
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "10 Rue de Bellechasse",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75007",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["10 Rue de Bellechasse", "75007 Paris", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 1354.1431369074608,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "GCJ_oQ4aKzUYX9cGNNsK-Q",
+			"alias": "sürpriz-paris",
+			"name": "Sürpriz",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/jEiWprYUA2pgnKROYZOXWw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/s%C3%BCrpriz-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 4.5,
+			"coordinates": {
+				"latitude": 48.866003,
+				"longitude": 2.379091
+			},
+			"transactions": [],
+			"location": {
+				"address1": "110 rue Oberkampf",
+				"address2": "",
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75011",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["110 rue Oberkampf", "75011 Paris", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 2739.5341092323347,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "hjIKX9JSs2C8wk-VaUE9Ng",
+			"alias": "derya-paris-5",
+			"name": "Derya",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/pkGHbIsCMRaoXDd7bjkVgw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/derya-paris-5?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 16,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				},
+				{
+					"alias": "brasseries",
+					"title": "Brasseries"
+				}
+			],
+			"rating": 4.1,
+			"coordinates": {
+				"latitude": 48.8705819,
+				"longitude": 2.3532677
+			},
+			"transactions": [],
+			"price": "€€€",
+			"location": {
+				"address1": "16 rue du Faubourg Saint-Denis",
+				"address2": "",
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75010",
+				"country": "FR",
+				"state": "75",
+				"display_address": [
+					"16 rue du Faubourg Saint-Denis",
+					"75010 Paris",
+					"France"
+				]
+			},
+			"phone": "+33153346220",
+			"display_phone": "+33 1 53 34 62 20",
+			"distance": 1257.3785979446507,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "0000",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "http://www.restaurant-derya.com/menu.html",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "qv6TbqDZMBRwyVGWrZIs7g",
+			"alias": "restaurant-pera-paris",
+			"name": "Restaurant Pera",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/restaurant-pera-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "halal",
+					"title": "Halal"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 48.87239,
+				"longitude": 2.32455
+			},
+			"transactions": [],
+			"location": {
+				"address1": "15 rue Castellane",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75008",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["15 rue Castellane", "75008 Paris", "France"]
+			},
+			"phone": "+33144519372",
+			"display_phone": "+33 1 44 51 93 72",
+			"distance": 1726.84080665839,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "iW4nj4teOetO_-EALvseMw",
+			"alias": "l-escale-de-plaisance-paris",
+			"name": "L'escale de Plaisance",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tKCIZBBEgMCGLmXtYLQCVQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/l-escale-de-plaisance-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 48.8322155,
+				"longitude": 2.3129857
+			},
+			"transactions": [],
+			"location": {
+				"address1": "180 rue d'Alésia",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75014",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["180 rue d'Alésia", "75014 Paris", "France"]
+			},
+			"phone": "+33145416673",
+			"display_phone": "+33 1 45 41 66 73",
+			"distance": 3935.945976933226,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "http://www.ratp.fr/fr/",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "Thp-w7Fqdfzga2sqcFd-LQ",
+			"alias": "genç-urfa-dürüm-paris-2",
+			"name": "Genç Urfa Dürüm",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Is3NA7zWcZBYdmytu15YFQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/gen%C3%A7-urfa-d%C3%BCr%C3%BCm-paris-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 18,
+			"categories": [
+				{
+					"alias": "turkish",
+					"title": "Turkish"
+				}
+			],
+			"rating": 4.2,
+			"coordinates": {
+				"latitude": 48.87025,
+				"longitude": 2.3527999
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "11 rue du faubourg-Saint Denis",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75010",
+				"country": "FR",
+				"state": "75",
+				"display_address": [
+					"11 rue du faubourg-Saint Denis",
+					"75010 Paris",
+					"France"
+				]
+			},
+			"phone": "+33142461457",
+			"display_phone": "+33 1 42 46 14 57",
+			"distance": 1206.4285133609062,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2030",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2030",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2030",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2030",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2030",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "2030",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "Y8Sfj7R8Ri1ciIBnmhgz6Q",
+			"alias": "mcdonalds-paris-61",
+			"name": "McDonald's",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RURctJhOUWX8hXY898WteA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/mcdonalds-paris-61?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 96,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "burgers",
+					"title": "Burgers"
+				}
+			],
+			"rating": 2.8,
+			"coordinates": {
+				"latitude": 48.8727748,
+				"longitude": 2.298793
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "140 avenue des Champs Elysées",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75008",
+				"country": "FR",
+				"state": "75",
+				"display_address": [
+					"140 avenue des Champs Elysées",
+					"75008 Paris",
+					"France"
+				]
+			},
+			"phone": "+33153772100",
+			"display_phone": "+33 1 53 77 21 00",
+			"distance": 3391.5745380462463,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "0700",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "0700",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "0700",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "0700",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "0700",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "0700",
+							"end": "0200",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "0700",
+							"end": "0200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "https://www.mcdonalds.fr/produits",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "PlTu1eSCjzwQdAigrPmD1Q",
+			"alias": "saray-paris-2",
+			"name": "Saray",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/saray-paris-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 48.8615799,
+				"longitude": 2.3828101
+			},
+			"transactions": [],
+			"location": {
+				"address1": "110 rue du Chemin Vert",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75011",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["110 rue du Chemin Vert", "75011 Paris", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 2978.153430934294,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "8m8mDI2XGL5YzmnTXCEwbw",
+			"alias": "sibel-paris-3",
+			"name": "Sibel",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/x9-ShqlQmj9UfSOCLrt3CA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/sibel-paris-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.3,
+			"coordinates": {
+				"latitude": 48.8349113,
+				"longitude": 2.32008
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "49 Rue Raymond Losserand",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75014",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["49 Rue Raymond Losserand", "75014 Paris", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 3422.6114301736425,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "o8xZf0-LyM_8XAUPGbdZ8A",
+			"alias": "berliner-kebab-paris",
+			"name": "Berliner Kebab",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/berliner-kebab-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 48.8570054531644,
+				"longitude": 2.38104287534952
+			},
+			"transactions": [],
+			"location": {
+				"address1": "134 boulevard Voltaire",
+				"address2": "",
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75011",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["134 boulevard Voltaire", "75011 Paris", "France"]
+			},
+			"phone": "+33983047064",
+			"display_phone": "+33 9 83 04 70 64",
+			"distance": 2898.2178232834904,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2200",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2200",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2200",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2200",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2200",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1200",
+							"end": "2200",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "DUU0SnpB2whYmjov05ANFA",
+			"alias": "planet-food-paris",
+			"name": "Planet Food",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OfAo6a96-86MZ9uFGif7QA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/planet-food-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 5,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 3.4,
+			"coordinates": {
+				"latitude": 48.82356,
+				"longitude": 2.32554
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "138 ave Gén Leclerc",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75014",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["138 ave Gén Leclerc", "75014 Paris", "France"]
+			},
+			"phone": "+33145397148",
+			"display_phone": "+33 1 45 39 71 48",
+			"distance": 4439.332524500369,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "mU6F37Y0NiR13aNAHGvuNQ",
+			"alias": "asteria-paris",
+			"name": "Asteria",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5L83AT1q_gkhUTUd5_qJGg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/asteria-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "halal",
+					"title": "Halal"
+				}
+			],
+			"rating": 3.5,
+			"coordinates": {
+				"latitude": 48.85288,
+				"longitude": 2.3459
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "13 rue de la Huchette",
+				"address2": null,
+				"address3": null,
+				"city": "Paris",
+				"zip_code": "75005",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["13 rue de la Huchette", "75005 Paris", "France"]
+			},
+			"phone": "+33146334502",
+			"display_phone": "+33 1 46 33 45 02",
+			"distance": 1052.7179974337391,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1000",
+							"end": "0200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "RIHrL2zqY8I7DXHwVMEc4w",
+			"alias": "arda-kebab-courbevoie",
+			"name": "Arda Kebab",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/7_qSkFnDdv4jhPxhv9IwXA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/arda-kebab-courbevoie?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "donairs",
+					"title": "Donairs"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 48.8978791848856,
+				"longitude": 2.24067214876413
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "4 rue Gaultier",
+				"address2": "",
+				"address3": "",
+				"city": "Courbevoie",
+				"zip_code": "92400",
+				"country": "FR",
+				"state": "92",
+				"display_address": ["4 rue Gaultier", "92400 Courbevoie", "France"]
+			},
+			"phone": "+33141169382",
+			"display_phone": "+33 1 41 16 93 82",
+			"distance": 8427.191531390567,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "FxmUKcKHebP1xQ4-wdD6Yg",
+			"alias": "maison-du-kebab-paris",
+			"name": "Maison du Kebab",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/vSd8vsQvawGGxNfo_PY8VQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/maison-du-kebab-paris?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "greek",
+					"title": "Greek"
+				}
+			],
+			"rating": 3.5,
+			"coordinates": {
+				"latitude": 48.8804327689465,
+				"longitude": 2.35321797430515
+			},
+			"transactions": [],
+			"location": {
+				"address1": "27-31 rue du Dunkerque",
+				"address2": "",
+				"address3": "",
+				"city": "Paris",
+				"zip_code": "75010",
+				"country": "FR",
+				"state": "75",
+				"display_address": ["27-31 rue du Dunkerque", "75010 Paris", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 2208.0329840399995,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		}
+	],
+	"total": 286,
+	"region": {
+		"center": {
+			"longitude": 2.3421478271484375,
+			"latitude": 48.86195860677958
+		}
+	}
+}
