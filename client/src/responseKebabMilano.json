@@ -1,0 +1,4204 @@
+{
+    "businesses": [
+        {
+            "id": "V9dHCngBcAUkbpYAm625CA",
+            "alias": "istanbul-kebab-milano-2",
+            "name": "Istanbul Kebab",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/quwE5ea0zPe93BZG0GG2ng/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-kebab-milano-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 45.51589,
+                "longitude": 9.21168
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Piero e Alberto Pirelli 16",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20126",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Piero e Alberto Pirelli 16",
+                    "20126 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 35624.47743491368,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1600",
+                            "end": "0100",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1600",
+                            "end": "0100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "xXkey_Nil9bS1mhZVBLoeg",
+            "alias": "turkish-kebab-milano-2",
+            "name": "Turkish Kebab",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/VmmE0OsOhGptcMkykQSqzA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/turkish-kebab-milano-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 45.4620732983013,
+                "longitude": 9.2123868316412
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Corso XXII Marzo 22",
+                "address2": "",
+                "address3": null,
+                "city": "Milan",
+                "zip_code": "20135",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Corso XXII Marzo 22",
+                    "20135 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+390239540354",
+            "display_phone": "+39 02 3954 0354",
+            "distance": 35157.577553740506,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "z5G1sCzaIi_OgAYKjPUe2A",
+            "alias": "istanbul-kebab-casorate-primo",
+            "name": "Istanbul Kebab",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZutY3Nj6yvej3tmukfdUDA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-kebab-casorate-primo?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 45.312179,
+                "longitude": 9.02043
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Vittorio Emanuele II 16",
+                "address2": null,
+                "address3": "",
+                "city": "Casorate Primo",
+                "zip_code": "27022",
+                "country": "IT",
+                "state": "PV",
+                "display_address": [
+                    "Via Vittorio Emanuele II 16",
+                    "27022 Casorate Primo",
+                    "Italy"
+                ]
+            },
+            "phone": "+390290097347",
+            "display_phone": "+39 02 9009 7347",
+            "distance": 26124.699254257946,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "QHRFHIAz-viSA1HTf5fLrg",
+            "alias": "boom-boom-doner-kebab-cassina-rizzardi",
+            "name": "Boom Boom Doner Kebab",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8Y7Nhoi55ylaj5bFIEGODw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/boom-boom-doner-kebab-cassina-rizzardi?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 45.7509193,
+                "longitude": 9.0310698
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Corso Vittorio Emanuele 132",
+                "address2": "",
+                "address3": "",
+                "city": "Cassina Rizzardi",
+                "zip_code": "22070",
+                "country": "IT",
+                "state": "CO",
+                "display_address": [
+                    "Corso Vittorio Emanuele 132",
+                    "22070 Cassina Rizzardi",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 38457.20105777799,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "LKAw5dvZJ7yXJ2gZuz0v-w",
+            "alias": "magdy-2-sesto-san-giovanni",
+            "name": "Magdy 2",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/MX6fCRQyovOFlGZi74xq9g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/magdy-2-sesto-san-giovanni?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "rotisserie_chicken",
+                    "title": "Rotisserie Chicken"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 45.5359896,
+                "longitude": 9.2275976
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Giuseppe Rovani 102",
+                "address2": "",
+                "address3": "",
+                "city": "Sesto San Giovanni",
+                "zip_code": "20099",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Giuseppe Rovani 102",
+                    "20099 Sesto San Giovanni",
+                    "Italy"
+                ]
+            },
+            "phone": "+390222474699",
+            "display_phone": "+39 02 2247 4699",
+            "distance": 37264.195438252085,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "19nT4Igpn97s11_qgYmm-A",
+            "alias": "kebab-mekan-milano",
+            "name": "Kebab Mekan",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/a6GeTJIuZ71y0biNbq16GA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kebab-mekan-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 45.48224,
+                "longitude": 9.1822
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Piazzale Baiamonti 2",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20154",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Piazzale Baiamonti 2",
+                    "20154 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 32896.51545211524,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "gv715UfRD6UQQ70T_HS0rA",
+            "alias": "istanbul-milano-2",
+            "name": "Istanbul",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qA2s8zrQDHqmSocrSvYVDg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-milano-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.7,
+            "coordinates": {
+                "latitude": 45.48802,
+                "longitude": 9.15836
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Cenisio 78",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20154",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Cenisio 78",
+                    "20154 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+393246939651",
+            "display_phone": "+39 324 693 9651",
+            "distance": 31086.37375975337,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "0800",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0800",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0800",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0800",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0800",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0800",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0800",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "bOiHJFuwp8bGa3yDwsOPjg",
+            "alias": "doner-king-kebab-lecco",
+            "name": "Doner King Kebab",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xAlBKl5ZI87azjipNnfVUQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/doner-king-kebab-lecco?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 45.8508681797798,
+                "longitude": 9.38820999115705
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Leonardo da Vinci 36",
+                "address2": "",
+                "address3": "",
+                "city": "Lecco",
+                "zip_code": "23900",
+                "country": "IT",
+                "state": "LC",
+                "display_address": [
+                    "Via Leonardo da Vinci 36",
+                    "23900 Lecco",
+                    "Italy"
+                ]
+            },
+            "phone": "+3903411693876",
+            "display_phone": "+39 0341 169 3876",
+            "distance": 65198.82826393096,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0400",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0400",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "HJuhZ9PAbIrdhpP-L8BoBg",
+            "alias": "pizzeria-e-kebab-la-favola-bubbiano",
+            "name": "Pizzeria e Kebab La Favola",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rnhMp-xvP9tXJo9JBuM2EA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizzeria-e-kebab-la-favola-bubbiano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 45.3278618,
+                "longitude": 9.0101099
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Prato Vecchio 12",
+                "address2": "",
+                "address3": "",
+                "city": "Bubbiano",
+                "zip_code": "20080",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Prato Vecchio 12",
+                    "20080 Bubbiano",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 24401.133418719546,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "sIt5GWaDWoCD1Wiv6_JC_g",
+            "alias": "blu-istanbul-milano",
+            "name": "Blu Istanbul",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/HdqfBOIJUdNvS1ee8ynB4w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/blu-istanbul-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 45.48617,
+                "longitude": 9.1582899
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Corso Sempione 81",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20149",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Corso Sempione 81",
+                    "20149 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+393463541065",
+            "display_phone": "+39 346 354 1065",
+            "distance": 31053.546754847834,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "gxCd-fbk4XEmfRCQFp36TA",
+            "alias": "da-zizo-rho",
+            "name": "Da Zizo",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/da-zizo-rho?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 45.535759,
+                "longitude": 9.0424805
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Achille Ratti 51",
+                "address2": "",
+                "address3": "",
+                "city": "Rho",
+                "zip_code": "20017",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Achille Ratti 51",
+                    "20017 Rho",
+                    "Italy"
+                ]
+            },
+            "phone": "+39029305286",
+            "display_phone": "+39 02 930 5286",
+            "distance": 23410.689600244343,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "1aAg6fwdAkZwfO9GvFPKfw",
+            "alias": "istanbul-pizza-e-kebab-tortona",
+            "name": "Istanbul Pizza & Kebab",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/kytjKVxgO_1Bq-MHoIYoMg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-pizza-e-kebab-tortona?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 44.8926146477441,
+                "longitude": 8.86158461705307
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Corso Don Orione 19",
+                "address2": "",
+                "address3": "",
+                "city": "Tortona",
+                "zip_code": "15057",
+                "country": "IT",
+                "state": "AL",
+                "display_address": [
+                    "Corso Don Orione 19",
+                    "15057 Tortona",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 63687.948257062686,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "gX1G8h1UJ0kMtZiINCptTA",
+            "alias": "istanbul-firat-kebap-milano",
+            "name": "Istanbul Firat Kebap",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KT7U6fkKvIC0DmYtiUkUOA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-firat-kebap-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 45.4667310374454,
+                "longitude": 9.14595025982407
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Piazza Ghirlandaio 7",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20148",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Piazza Ghirlandaio 7",
+                    "20148 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+393286991476",
+            "display_phone": "+39 328 699 1476",
+            "distance": 29981.451601302502,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "d526whnjk8Rn3e9_J5g_Yg",
+            "alias": "istanbul-royal-arese",
+            "name": "Istanbul Royal",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LO5bdIeC8rQPjJUW4gWlNA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-royal-arese?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 45.5493713648351,
+                "longitude": 9.07847188335752
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Caduti 30",
+                "address2": "",
+                "address3": null,
+                "city": "Arese",
+                "zip_code": "20020",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Caduti 30",
+                    "20020 Arese",
+                    "Italy"
+                ]
+            },
+            "phone": "+393895769303",
+            "display_phone": "+39 389 576 9303",
+            "distance": 26576.543339520984,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Yf-frFT3wjHbu1yW2SJxSg",
+            "alias": "lezzet-istanbul-2-bareggio-2",
+            "name": "Lezzet Istanbul 2",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B_HNO3BcqOY9iOWVdfQwvA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lezzet-istanbul-2-bareggio-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 45.48605,
+                "longitude": 9.01041
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Milano 100",
+                "address2": null,
+                "address3": null,
+                "city": "Bareggio",
+                "zip_code": "20010",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Milano 100",
+                    "20010 Bareggio",
+                    "Italy"
+                ]
+            },
+            "phone": "+390299269490",
+            "display_phone": "+39 02 9926 9490",
+            "distance": 19599.57869551667,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0600",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0600",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "yk_8KitX47SorcDtb_QAUw",
+            "alias": "istanbul-deniz-cesano-maderno",
+            "name": "Istanbul Deniz",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-deniz-cesano-maderno?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 45.6275711600762,
+                "longitude": 9.14430088050726
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Corso Roma 2",
+                "address2": null,
+                "address3": null,
+                "city": "Cesano Maderno",
+                "zip_code": "20031",
+                "country": "IT",
+                "state": "MB",
+                "display_address": [
+                    "Corso Roma 2",
+                    "20031 Cesano Maderno",
+                    "Italy"
+                ]
+            },
+            "phone": "+390362528670",
+            "display_phone": "+39 0362 528670",
+            "distance": 35088.685316287,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "mRL5xqUO7DPsqHIAgPn7EA",
+            "alias": "marelli-turkish-sesto-san-giovanni",
+            "name": "Marelli Turkish",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tBvKiFYeR037O04bBWVfzQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/marelli-turkish-sesto-san-giovanni?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 45.523399311496,
+                "longitude": 9.22766048709052
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Viale Ercole Marelli 372",
+                "address2": "",
+                "address3": "",
+                "city": "Sesto San Giovanni",
+                "zip_code": "20099",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Viale Ercole Marelli 372",
+                    "20099 Sesto San Giovanni",
+                    "Italy"
+                ]
+            },
+            "phone": "+393420020965",
+            "display_phone": "+39 342 002 0965",
+            "distance": 36985.010158573095,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "_AHrF0c2ou7bMlaPZOFOIg",
+            "alias": "istanbul-ozlem-specialità-turche-milano",
+            "name": "Istanbul Ozlem - specialità turche",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-ozlem-specialit%C3%A0-turche-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 45.4754791,
+                "longitude": 9.1844301
+            },
+            "transactions": [],
+            "location": {
+                "address1": "via Palermo 16",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20121",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "via Palermo 16",
+                    "20121 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 33015.244576000456,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Y6lv7oOwqfDkUHNEnenuSA",
+            "alias": "istanbul-ayasofya-milano-2",
+            "name": "Istanbul Ayasofya",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/061lDf1iNJAfcNT7uP2E2A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-ayasofya-milano-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 45.5006447902096,
+                "longitude": 9.22123745083809
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Viale Monza 116",
+                "address2": "",
+                "address3": null,
+                "city": "Milan",
+                "zip_code": "20127",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Viale Monza 116",
+                    "20127 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+393283427893",
+            "display_phone": "+39 328 342 7893",
+            "distance": 36105.21210184377,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "_UCMbkUtoRQetCVoHMSxJA",
+            "alias": "anatolia-doner-kebab-milano",
+            "name": "Anatolia Doner Kebab",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/E6V9mOXQa9Hi4558gC9aSw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/anatolia-doner-kebab-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 25,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.1,
+            "coordinates": {
+                "latitude": 45.4513020996382,
+                "longitude": 9.15157498130984
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Giambellino 15",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20146",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Giambellino 15",
+                    "20146 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+39024235885",
+            "display_phone": "+39 02 423 5885",
+            "distance": 30436.740621354737,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "wPEotZmkSDK6WlJqtNCuiw",
+            "alias": "milano-kebap-house-milano",
+            "name": "Milano Kebap House",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bNWar4F7H4GuJO-01RiKuw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/milano-kebap-house-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 45.4601517,
+                "longitude": 9.0983496
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via delle Forze Armate 326",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20152",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via delle Forze Armate 326",
+                    "20152 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+390289776265",
+            "display_phone": "+39 02 8977 6265",
+            "distance": 26267.25135202907,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "XGcLrxj47dg3XlG931jcxA",
+            "alias": "turkish-kebab-milano",
+            "name": "Turkish Kebab",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RY56D3SwC6W9zgIca3J5gw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/turkish-kebab-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 45.51044852,
+                "longitude": 9.17609923
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Pellegrino Rossi 43",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20161",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Pellegrino Rossi 43",
+                    "20161 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 32773.58484767271,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "t7edYTXvb79Xc-2Dk1zMbg",
+            "alias": "nùn-milano-2",
+            "name": "Nùn",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PAUtZbRtvF6Kv-eDpIiWdw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/n%C3%B9n-milano-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 33,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 45.4775865,
+                "longitude": 9.2090995
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Lazzaro Spallanzani 36",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20129",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Lazzaro Spallanzani 36",
+                    "20129 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+390291637315",
+            "display_phone": "+39 02 9163 7315",
+            "distance": 34944.77850123856,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "http://www.nunmilano.com/menu.html",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "4pcI0ct5BY4QeI9vPFpQxw",
+            "alias": "halal-cotto-servito-morcote",
+            "name": "Halal Cotto Servito",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/rjsTSg657B5xrja0J9vQ1A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/halal-cotto-servito-morcote?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 45.9226303,
+                "longitude": 8.9155502
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Piazzetta di Fossati 1",
+                "address2": "",
+                "address3": "",
+                "city": "Morcote",
+                "zip_code": "6922",
+                "country": "CH",
+                "state": "TI",
+                "display_address": [
+                    "Piazzetta di Fossati 1",
+                    "6922 Morcote",
+                    "Switzerland"
+                ]
+            },
+            "phone": "+41919803773",
+            "display_phone": "+41 91 980 37 73",
+            "distance": 52684.848453962346,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "wP8iVlegjFKkeEVflzB4hQ",
+            "alias": "il-vero-kebab-milano",
+            "name": "Il Vero Kebab",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/b9yzvnjRHXf290pgN8JQhQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/il-vero-kebab-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "butcher",
+                    "title": "Butcher"
+                },
+                {
+                    "alias": "importedfood",
+                    "title": "Imported Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 45.4355578865219,
+                "longitude": 9.17817793786526
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Montegani 21",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20141",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Montegani 21",
+                    "20141 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 32620.171680179916,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "BCXCIvxCGWOwSzY22gQvxw",
+            "alias": "alì-babà-2-milano-2",
+            "name": "Alì Babà 2",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/E8gOW8TstPtx325qtPBwwA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/al%C3%AC-bab%C3%A0-2-milano-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 45.45272,
+                "longitude": 9.1733
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Corsico 1",
+                "address2": "Angolo Via Vigevano",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20144",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Corsico 1",
+                    "Angolo Via Vigevano",
+                    "20144 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 32160.049428041548,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2100",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "fpcx1jl57KjTkyFuKF6zHw",
+            "alias": "kebab-house-milano",
+            "name": "Kebab House",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kebab-house-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 45.4615784,
+                "longitude": 9.1908754
+            },
+            "transactions": [],
+            "price": "€€€€",
+            "location": {
+                "address1": "Via Flavio Baracchini 10",
+                "address2": null,
+                "address3": null,
+                "city": "Milan",
+                "zip_code": "20122",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Flavio Baracchini 10",
+                    "20122 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+39028055022",
+            "display_phone": "+39 02 805 5022",
+            "distance": 33479.9024073813,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "VkObevVFzrNpGlRQxae9rQ",
+            "alias": "istanbul-city-1-milano",
+            "name": "Istanbul City 1",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6yoTOuHsSFtvpIWjLu79yA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-city-1-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "piadina",
+                    "title": "Piadina"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 45.452753986054,
+                "longitude": 9.21486184000969
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Viale Umbria 50",
+                "address2": "",
+                "address3": null,
+                "city": "Milan",
+                "zip_code": "20137",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Viale Umbria 50",
+                    "20137 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 35365.28176046735,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0400",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0400",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "KCjOHYq1gv8n6TREvcQ0ZA",
+            "alias": "bovisa-kebab-milano",
+            "name": "Bovisa Kebab",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/dmemBOqmOGPjFW7I5W3fpw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bovisa-kebab-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 45.50122,
+                "longitude": 9.16266
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Giovanni Battista Varè",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20158",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Giovanni Battista Varè",
+                    "20158 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 31578.04392522421,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2230",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2230",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2230",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2230",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2230",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2230",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "YaKY3Cy7tZrisVa4m3X8eg",
+            "alias": "il-boss-del-kebap-saronno",
+            "name": "Il Boss del Kebap",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/SPGBdwHjG2C6sPf7iaeFgA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/il-boss-del-kebap-saronno?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 45.6287282,
+                "longitude": 9.033453
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via San Giuseppe 58",
+                "address2": null,
+                "address3": "",
+                "city": "Saronno",
+                "zip_code": "21047",
+                "country": "IT",
+                "state": "VA",
+                "display_address": [
+                    "Via San Giuseppe 58",
+                    "21047 Saronno",
+                    "Italy"
+                ]
+            },
+            "phone": "+393201119757",
+            "display_phone": "+39 320 111 9757",
+            "distance": 28218.42833888018,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "EEP-wGXEhGLUbIMJAcTAsw",
+            "alias": "la-favola-cerro-maggiore",
+            "name": "La Favola",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/L-14CrBT_p7KlsmAXtfl5w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-favola-cerro-maggiore?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 45.5908900329655,
+                "longitude": 8.94570015370846
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Cappuccini101",
+                "address2": "",
+                "address3": "",
+                "city": "Cerro Maggiore",
+                "zip_code": "20023",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Cappuccini101",
+                    "20023 Cerro Maggiore",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 20352.513066512074,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "8DzvBW9yGBi5dOHmvFETgQ",
+            "alias": "istanbul-turkish-kebap-milano",
+            "name": "Istanbul Turkish Kebap",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/QTtOsCE2qHjM2XryrHy6Ig/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-turkish-kebap-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.7,
+            "coordinates": {
+                "latitude": 45.44621,
+                "longitude": 9.17654
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Alzaia Naviglio Pavese",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20143",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Alzaia Naviglio Pavese",
+                    "20143 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+393281927269",
+            "display_phone": "+39 328 192 7269",
+            "distance": 32394.59934531641,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "S5GzPYwcZyzDsFPt2jXqtA",
+            "alias": "antic-istanbul-milano",
+            "name": "Antic Istanbul",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Tz3yVltCM_9PqSHCscFC7Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/antic-istanbul-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 45.5011482,
+                "longitude": 9.1276503
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Viale Certosa 246",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20156",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Viale Certosa 246",
+                    "20156 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 28899.627505286247,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "ojBlBuhN0A3JR_RyScxOsg",
+            "alias": "euro-döner-kebap-milano-2",
+            "name": "Euro Döner Kebap",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UQJ_dPVb6UannlBSJUYP6w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/euro-d%C3%B6ner-kebap-milano-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 15,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.1,
+            "coordinates": {
+                "latitude": 45.48875,
+                "longitude": 9.18917
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Borsieri 28",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20159",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Borsieri 28",
+                    "20159 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+39026688002",
+            "display_phone": "+39 02 668 8002",
+            "distance": 33478.35379147351,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "http://www.eurodonerkebap.it/IT/menu-2/",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "YaWBdBcH1-3pxXphwXDLOg",
+            "alias": "istanbul-maciachini-milano-2",
+            "name": "Istanbul Maciachini",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Wnm_zAmwUADg8rLWFvnE6g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-maciachini-milano-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 45.49747,
+                "longitude": 9.18277
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Viale Edoardo Jenner 14",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20159",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Viale Edoardo Jenner 14",
+                    "20159 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+393277669045",
+            "display_phone": "+39 327 766 9045",
+            "distance": 33084.83628131485,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0400",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0400",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "0k0fQ-RVZcdVj1dqa8md5g",
+            "alias": "istanbul-2-kebap-milano",
+            "name": "Istanbul 2 Kebap",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3wrNpZfPDdqzg4yb1RhOcQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-2-kebap-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 45.44294,
+                "longitude": 9.1305099
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Pzza Tirana",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20147",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Pzza Tirana",
+                    "20147 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 28756.0788448811,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "el6TObPPnfCxGRafKDosrw",
+            "alias": "halal-milano-2",
+            "name": "Halal",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Wz_ch_l7bgscpWqTTINeZQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/halal-milano-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 45.4860600238902,
+                "longitude": 9.22683790326118
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Viale Porpora",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20131",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Viale Porpora",
+                    "20131 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 36383.38842403415,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0130",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0130",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0130",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0130",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0130",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0130",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0130",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "qjzQQ78Lq11NjHzk1K31cQ",
+            "alias": "i-gemelli-milano-3",
+            "name": "I Gemelli",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LEVzVhFYAcdDWZkSyh5sKA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/i-gemelli-milano-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 45.46154,
+                "longitude": 9.19033
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Paolo da Cannobio 8",
+                "address2": null,
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20122",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Paolo da Cannobio 8",
+                    "20122 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+393451558335",
+            "display_phone": "+39 345 155 8335",
+            "distance": 33437.09801897357,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Hlb6CXHKxGs0FK9z6AasYQ",
+            "alias": "botan2-asti",
+            "name": "Botan2",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hu4bi6MFDZgHlTfyDbB6tA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/botan2-asti?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 44.89713,
+                "longitude": 8.2111
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Piazza Leonardo da Vinci 37",
+                "address2": "",
+                "address3": null,
+                "city": "Asti",
+                "zip_code": "14100",
+                "country": "IT",
+                "state": "AT",
+                "display_address": [
+                    "Piazza Leonardo da Vinci 37",
+                    "14100 Asti",
+                    "Italy"
+                ]
+            },
+            "phone": "+393881624847",
+            "display_phone": "+39 388 162 4847",
+            "distance": 76117.32700607568,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "ryQyC3K9mg6KM84OSzdMlQ",
+            "alias": "certosa-doner-kebab-milano",
+            "name": "Certosa Doner Kebab",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/certosa-doner-kebab-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 45.509,
+                "longitude": 9.13218
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Mambretti 17",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20157",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Mambretti 17",
+                    "20157 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+390289770156",
+            "display_phone": "+39 02 8977 0156",
+            "distance": 29377.425968788597,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "3jULDKWT1K76pFHhwgA_Uw",
+            "alias": "gran-fuoco-como",
+            "name": "Gran Fuoco",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gagGlutDvCKx5GgAmwyehQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/gran-fuoco-como?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 45.802794,
+                "longitude": 9.086019
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Milano 154",
+                "address2": "",
+                "address3": null,
+                "city": "Como",
+                "zip_code": "22100",
+                "country": "IT",
+                "state": "CO",
+                "display_address": [
+                    "Via Milano 154",
+                    "22100 Como",
+                    "Italy"
+                ]
+            },
+            "phone": "+39031270375",
+            "display_phone": "+39 031 270375",
+            "distance": 45613.181047684855,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "39tUCt6TW3oZ5RJK2eCmjw",
+            "alias": "la-saporita-san-vittore-olona",
+            "name": "La Saporita",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-saporita-san-vittore-olona?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 45.5860088174644,
+                "longitude": 8.94424203783274
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Giacomo Matteotti 13",
+                "address2": "",
+                "address3": "",
+                "city": "San Vittore Olona",
+                "zip_code": "20028",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Giacomo Matteotti 13",
+                    "20028 San Vittore Olona",
+                    "Italy"
+                ]
+            },
+            "phone": "+390331512974",
+            "display_phone": "+39 0331 512974",
+            "distance": 19890.094512603828,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "1430",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1730",
+                            "end": "2230",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "1430",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1730",
+                            "end": "2230",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "1430",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1730",
+                            "end": "2230",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "1430",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1730",
+                            "end": "2230",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "1430",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1730",
+                            "end": "2230",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "1430",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1730",
+                            "end": "2230",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1730",
+                            "end": "2230",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": false
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "c8k-qUckUA3AI1VzWxVxkA",
+            "alias": "kebab-pizzeria-varese",
+            "name": "Kebab Pizzeria",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kebab-pizzeria-varese?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 45.8190149,
+                "longitude": 8.8232639
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Via Luigi Sacco 12",
+                "address2": null,
+                "address3": null,
+                "city": "Varese",
+                "zip_code": "21100",
+                "country": "IT",
+                "state": "VA",
+                "display_address": [
+                    "Via Luigi Sacco 12",
+                    "21100 Varese",
+                    "Italy"
+                ]
+            },
+            "phone": "+390332282985",
+            "display_phone": "+39 0332 282985",
+            "distance": 40094.66004103656,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "S1ugRPZb5XSQw-Q7b597cA",
+            "alias": "imperator-milano",
+            "name": "Imperator",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/d2XFjMNhhH6-L2H3x0-ZYw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/imperator-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 45.47629,
+                "longitude": 9.20623
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Via Lazzaro Palazzi, 2",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20124",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Lazzaro Palazzi, 2",
+                    "20124 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+390239464918",
+            "display_phone": "+39 02 3946 4918",
+            "distance": 34702.20878975669,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0100",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "PMVR4lfv8IEEf0i7NvBghQ",
+            "alias": "pizzeria-e-kebab-luna-milano",
+            "name": "Pizzeria e Kebab Luna",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5xIiVnmf5f__AwG8z-fFfg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizzeria-e-kebab-luna-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 45.44608,
+                "longitude": 9.13399
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Giambellino 136",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20147",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Giambellino 136",
+                    "20147 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 29095.897881449495,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "ZIheh_yTqKT44qpb3A8n2g",
+            "alias": "turkuaz-milano",
+            "name": "Turkuaz",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/nGcbhiv6MGzXt_ovUG_Kyg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/turkuaz-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "rating": 4.1,
+            "coordinates": {
+                "latitude": 45.491162,
+                "longitude": 9.1618932
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Mac Mahon 40",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20155",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Mac Mahon 40",
+                    "20155 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+390236587552",
+            "display_phone": "+39 02 3658 7552",
+            "distance": 31390.732295442802,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "YSDSC28Po_YKb7sncTNSKw",
+            "alias": "babek-milano-3",
+            "name": "BabeK",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pkvx7l45UUU8u4QDL-bwBQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/babek-milano-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 45.46056,
+                "longitude": 9.18033
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via del Torchio 3",
+                "address2": null,
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20123",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via del Torchio 3",
+                    "20123 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+390272095714",
+            "display_phone": "+39 02 7209 5714",
+            "distance": 32651.557058413728,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "1500",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1900",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "1500",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1930",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "1500",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1930",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "1500",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1930",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "1500",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1930",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "1530",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1930",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "1530",
+                            "day": 6
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1930",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": false
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "vhKoJ9NA3xiwfDmTg1a4kQ",
+            "alias": "city-istanbul-milano",
+            "name": "City Istanbul",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ipwmhDNd68AFSx0rQVTfxA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/city-istanbul-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 45.4895706,
+                "longitude": 9.1830301
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Carlo Farini 35",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20159",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Carlo Farini 35",
+                    "20159 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+393891681165",
+            "display_phone": "+39 389 168 1165",
+            "distance": 33011.6229576044,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "tkWAh9lrWZZXEb16cj_gOg",
+            "alias": "istanbul-doner-kebab-milano",
+            "name": "Istanbul Doner Kebab",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tjRyv6ZKPNUF0NGgeuaQCA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-doner-kebab-milano?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 45.48223,
+                "longitude": 9.20721
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Vitruvio 30",
+                "address2": "",
+                "address3": "",
+                "city": "Milan",
+                "zip_code": "20124",
+                "country": "IT",
+                "state": "MI",
+                "display_address": [
+                    "Via Vitruvio 30",
+                    "20124 Milan",
+                    "Italy"
+                ]
+            },
+            "phone": "+39022043763",
+            "display_phone": "+39 02 204 3763",
+            "distance": 34839.96759355344,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "poICjGSAfZ4nxgoDLibLzA",
+            "alias": "istanbul-limbiate",
+            "name": "Istanbul",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-limbiate?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 45.6024569114559,
+                "longitude": 9.1234900300595
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Viale Piave 2",
+                "address2": "",
+                "address3": "",
+                "city": "Limbiate",
+                "zip_code": "20812",
+                "country": "IT",
+                "state": "MB",
+                "display_address": [
+                    "Viale Piave 2",
+                    "20812 Limbiate",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 32279.40222655783,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        }
+    ],
+    "total": 199,
+    "region": {
+        "center": {
+            "longitude": 8.7615966796875,
+            "latitude": 45.46102152031082
+        }
+    }
+}

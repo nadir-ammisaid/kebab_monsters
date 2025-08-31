@@ -1,0 +1,4250 @@
+{
+    "businesses": [
+        {
+            "id": "XSLuIu3_2Svkhq8LeNkH0A",
+            "alias": "beykebab-stuttgart",
+            "name": "Beykebab",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iYmy-GheLW5aL7_1h4hgiA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/beykebab-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 79,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.2,
+            "coordinates": {
+                "latitude": 48.77372,
+                "longitude": 9.17361
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Marienstr. 8",
+                "address2": null,
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70178",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Marienstr. 8",
+                    "70178 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+497116153115",
+            "display_phone": "+49 711 6153115",
+            "distance": 621.6758854477453,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0500",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0600",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "hLwzie3kvDyG6mARrv_f3g",
+            "alias": "alaturka-stuttgart-3",
+            "name": "ALATURKA - Das Stuttgarter Original",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/uEL1Xyuw4ub0jnmvfM7P6Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/alaturka-stuttgart-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 48.770697,
+                "longitude": 9.182001
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Olgastrasse 75",
+                "address2": "",
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70182",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Olgastrasse 75",
+                    "70182 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+4971140795672",
+            "display_phone": "+49 711 40795672",
+            "distance": 937.0660507435973,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "CVS4vhkO9oUH0oQ6iJucaw",
+            "alias": "baran-kebab-stuttgart-2",
+            "name": "Baran Kebab",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/waP_lIQkc9Tble-Jsz3MDQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/baran-kebab-stuttgart-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 26,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 48.813734,
+                "longitude": 9.114441
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Pforzheimer Str. 363",
+                "address2": null,
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70499",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Pforzheimer Str. 363",
+                    "70499 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+497118063688",
+            "display_phone": "+49 711 8063688",
+            "distance": 6058.533835753663,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "w6xQspMAyLi_KOTK61mRBw",
+            "alias": "neue-dönastie-stuttgart",
+            "name": "NEUE DÖNASTIE",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/fywJP24uw7X9c-dufGr2Ew/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/neue-d%C3%B6nastie-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.78266,
+                "longitude": 9.17813
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Kronenstr. 19",
+                "address2": "",
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70173",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Kronenstr. 19",
+                    "70173 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 445.24097878450783,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2030",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2030",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2030",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2030",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2030",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2030",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "https://www.neue-doenastie.de/speisekarte/",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "UaDRgpeJZyohVG0AkXo5Yw",
+            "alias": "saray-kebap-2-stuttgart",
+            "name": "Saray Kebap 2",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/XiAOJkIXUhRMXTaOkLZB2g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/saray-kebap-2-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 48.8049,
+                "longitude": 9.213672
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Marktstr. 48",
+                "address2": "",
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70372",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Marktstr. 48",
+                    "70372 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+497115504260",
+            "display_phone": "+49 711 5504260",
+            "distance": 3933.5007673308664,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "pAY97dUh6vNRGSS9-UpRNw",
+            "alias": "world-of-kebap-stuttgart",
+            "name": "World Of Kebap",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/EVGKH-2cOemuc-1mgl4nMg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/world-of-kebap-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 37,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 4.1,
+            "coordinates": {
+                "latitude": 48.77422,
+                "longitude": 9.17265
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Rotebühlplatz 15",
+                "address2": null,
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70178",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Rotebühlplatz 15",
+                    "70178 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+497116645111",
+            "display_phone": "+49 711 6645111",
+            "distance": 619.2135535355878,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "CVis_GSkrVlDwcoHfl3ILQ",
+            "alias": "regenbogen-imbiss-stuttgart",
+            "name": "Regenbogen Imbiss",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/K6Lb_VOlvBa0Wu2JWo7J2g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/regenbogen-imbiss-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "currysausage",
+                    "title": "Curry Sausage"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.8,
+            "coordinates": {
+                "latitude": 48.72896,
+                "longitude": 9.14621
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Filderbahnstr. 47",
+                "address2": "",
+                "address3": "",
+                "city": "Stuttgart",
+                "zip_code": "70567",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Filderbahnstr. 47",
+                    "70567 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+49711711125",
+            "display_phone": "+49 711 711125",
+            "distance": 5988.317193344355,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "J3lpkLPzoBxcltSusKtWGw",
+            "alias": "neue-dönastie-tübingen",
+            "name": "Neue Dönastie",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uXNPYg_0DKZtMSnyPAEUdw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/neue-d%C3%B6nastie-t%C3%BCbingen?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "salad",
+                    "title": "Salad"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.52681,
+                "longitude": 9.06091
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Keplerstr. 8",
+                "address2": null,
+                "address3": "",
+                "city": "Tübingen",
+                "zip_code": "72074",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Keplerstr. 8",
+                    "72074 Tübingen",
+                    "Germany"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 29281.839270801353,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2000",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "8Ncus6f3U3U4luRofVrnrQ",
+            "alias": "dost-kebabhaus-stuttgart",
+            "name": "Dost Kebabhaus",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NBGUHJEaYsyS9L68hCNiPg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dost-kebabhaus-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.730485,
+                "longitude": 9.109044
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Schwabenplatz 7",
+                "address2": "",
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70563",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Schwabenplatz 7",
+                    "70563 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 7374.23665101041,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "X4VUuwX2Hi219bNnrnLERQ",
+            "alias": "arslans-kebap-stuttgart-west-stuttgart-3",
+            "name": "Arslan's Kebap Stuttgart West",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8IRN5lrs8AOB1o685jK4wA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/arslans-kebap-stuttgart-west-stuttgart-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.771333,
+                "longitude": 9.160293
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Rotebühlstr. 86",
+                "address2": null,
+                "address3": "",
+                "city": "Stuttgart",
+                "zip_code": "70178",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Rotebühlstr. 86",
+                    "70178 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+4971150425587",
+            "display_phone": "+49 711 50425587",
+            "distance": 1512.2549799526273,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2100",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "https://arslans-kebap.business.site/",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "NIayYvo6k7QE2pNkYP2R8w",
+            "alias": "alaturka-kirchheim-unter-teck",
+            "name": "Alaturka",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/MFz-Syrup1tnByVVbCuyLg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/alaturka-kirchheim-unter-teck?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 48.6475815,
+                "longitude": 9.4522231
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Wellingstr. 8",
+                "address2": null,
+                "address3": null,
+                "city": "Kirchheim unter Teck",
+                "zip_code": "73230",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Wellingstr. 8",
+                    "73230 Kirchheim unter Teck",
+                    "Germany"
+                ]
+            },
+            "phone": "+497021484464",
+            "display_phone": "+49 7021 484464",
+            "distance": 24860.16878126181,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2000",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "https://alaturkakirchheim.business.site/#menu",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "GwRngYPEHt5ajheT5HFSjg",
+            "alias": "ützel-brützel-stuttgart-2",
+            "name": "Ützel Brützel",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6woYr--0A22cINlQjlVk3g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%C3%BCtzel-br%C3%BCtzel-stuttgart-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 35,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 48.7832,
+                "longitude": 9.17757
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Königstr. 10 a",
+                "address2": null,
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70174",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Königstr. 10 a",
+                    "70174 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+497118703374",
+            "display_phone": "+49 711 8703374",
+            "distance": 507.7906213932269,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Q17qDaWMgk72JBWAGJGZ5g",
+            "alias": "könig-kebap-stuttgart-2",
+            "name": "König Kebap",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/RHS5C9KLwn88WGl6JvMeHA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/k%C3%B6nig-kebap-stuttgart-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.4,
+            "coordinates": {
+                "latitude": 48.7828,
+                "longitude": 9.18998
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Urbanstr. 82",
+                "address2": null,
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70190",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Urbanstr. 82",
+                    "70190 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+497112848459",
+            "display_phone": "+49 711 2848459",
+            "distance": 1011.7532057146051,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "bF6DbIkKq_c7biUztIawQA",
+            "alias": "gülnaz-kebap-haus-stuttgart",
+            "name": "Gülnaz Kebap Haus",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PcxPLDxT9wABrVQ_LWe1MA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/g%C3%BClnaz-kebap-haus-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.9,
+            "coordinates": {
+                "latitude": 48.7294,
+                "longitude": 9.11277
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Herrenberger Str. 5",
+                "address2": null,
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70563",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Herrenberger Str. 5",
+                    "70563 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+497117878663",
+            "display_phone": "+49 711 7878663",
+            "distance": 7254.7579801372185,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "3pgPut26IUzS0kPZALMBtw",
+            "alias": "yüksel-pizza-dönerhaus-sachsenheim-2",
+            "name": "Yüksel Pizza Dönerhaus",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/N9-LplrBPQCLNozWDrmufQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/y%C3%BCksel-pizza-d%C3%B6nerhaus-sachsenheim-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.9586,
+                "longitude": 9.06357
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Oberriexinger Str. 21",
+                "address2": null,
+                "address3": null,
+                "city": "Sachsenheim",
+                "zip_code": "74343",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Oberriexinger Str. 21",
+                    "74343 Sachsenheim",
+                    "Germany"
+                ]
+            },
+            "phone": "+497147220493",
+            "display_phone": "+49 7147 220493",
+            "distance": 21682.7186909357,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "0_ITgw-BC2VrPKxEKBnTKA",
+            "alias": "möhringer-stuttgart-2",
+            "name": "Möhringer",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/5OE39pnPMb-13gVHTnD01w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/m%C3%B6hringer-stuttgart-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 48.72787,
+                "longitude": 9.14444
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Vaihinger Str. 56",
+                "address2": null,
+                "address3": "",
+                "city": "Stuttgart",
+                "zip_code": "70567",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Vaihinger Str. 56",
+                    "70567 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+4971121477782",
+            "display_phone": "+49 711 21477782",
+            "distance": 6145.787599429993,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "vn80H-rEci0hpzzNHxp1Cw",
+            "alias": "aslan-kebab-stuttgart",
+            "name": "Aslan Kebab",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/QGUVeGmVwD4tDUA851uv7Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/aslan-kebab-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 48.8301992312153,
+                "longitude": 9.16804588281032
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Burgunderstr. 28",
+                "address2": null,
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70435",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Burgunderstr. 28",
+                    "70435 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+497119120849",
+            "display_phone": "+49 711 9120849",
+            "distance": 5777.228499755842,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Vg1xyZuAt4ofyVTpvEhqeA",
+            "alias": "deniz-kebab-bietigheim-bissingen",
+            "name": "Deniz Kebab",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/oIokuAK9qBImQ_VOqYgX5g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/deniz-kebab-bietigheim-bissingen?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 48.9543079412872,
+                "longitude": 9.12268818836159
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Lise-Meitner-Str. 10",
+                "address2": "",
+                "address3": "",
+                "city": "Bietigheim-Bissingen",
+                "zip_code": "74321",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Lise-Meitner-Str. 10",
+                    "74321 Bietigheim-Bissingen",
+                    "Germany"
+                ]
+            },
+            "phone": "+4971427792440",
+            "display_phone": "+49 7142 7792440",
+            "distance": 19944.20592180472,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0030",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0030",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "qsL-9fhlRCtwH1siNyr5QA",
+            "alias": "öz-urfa-ocakbasi-stuttgart",
+            "name": "Öz Urfa Ocakbasi",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6yRwfKT8xpIFHe66Gz9nrg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/%C3%B6z-urfa-ocakbasi-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 48.7742211,
+                "longitude": 9.1796038
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Eberhardstr. 5",
+                "address2": "",
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70173",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Eberhardstr. 5",
+                    "70173 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+4971125995727",
+            "display_phone": "+49 711 25995727",
+            "distance": 510.07875484267123,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0000",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0000",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "JG9JH2_yHvLCGhSMyRRKUQ",
+            "alias": "ali-baba-stuttgart",
+            "name": "Ali Baba",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZqWnhwP7GnNf0dlnr43r7A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ali-baba-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 48.774068,
+                "longitude": 9.174909
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Königstr. 45",
+                "address2": null,
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70173",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Königstr. 45",
+                    "70173 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+49711293638",
+            "display_phone": "+49 711 293638",
+            "distance": 547.4831870992112,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "1700",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "1700",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "fup7x2DU_hGrQYhmCio1Cg",
+            "alias": "döner-am-eck-marbach",
+            "name": "Döner Am Eck",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/2vawTXLSx-VJGDMcmAV-Pg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/d%C3%B6ner-am-eck-marbach?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 4.7,
+            "coordinates": {
+                "latitude": 48.9399505,
+                "longitude": 9.2570887
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Strohgasse 8",
+                "address2": null,
+                "address3": null,
+                "city": "Marbach",
+                "zip_code": "71672",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Strohgasse 8",
+                    "71672 Marbach",
+                    "Germany"
+                ]
+            },
+            "phone": "+4971443346283",
+            "display_phone": "+49 7144 3346283",
+            "distance": 18854.233506212462,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "YSAEXexmcfV4bDag5XSwJQ",
+            "alias": "döner-express-stuttgart",
+            "name": "Döner Express",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oGK2QLjS8M54x4t72zBvrA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/d%C3%B6ner-express-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 48.802075,
+                "longitude": 9.2177
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Bahnhofstr. 30",
+                "address2": "",
+                "address3": "",
+                "city": "Stuttgart",
+                "zip_code": "70372",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Bahnhofstr. 30",
+                    "70372 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3882.78705931019,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "U9y_6HLv0sLemYMB135l_Q",
+            "alias": "plieninger-kebap-haus-stuttgart",
+            "name": "Plieninger Kebap Haus",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CR9A1p7r52aphMoauLkxpw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/plieninger-kebap-haus-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 2.3,
+            "coordinates": {
+                "latitude": 48.7176,
+                "longitude": 9.20789
+            },
+            "transactions": [],
+            "price": "€€€€",
+            "location": {
+                "address1": "Götzstr. 14",
+                "address2": null,
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70599",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Götzstr. 14",
+                    "70599 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+4971174059299",
+            "display_phone": "+49 711 74059299",
+            "distance": 7138.441204113547,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "n9IXD6121kIZ5OxRnpItEQ",
+            "alias": "sultan-kebab-böblingen",
+            "name": "Sultan Kebab",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/jeglYuEqAb0HNUgZocS6SA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sultan-kebab-b%C3%B6blingen?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.2,
+            "coordinates": {
+                "latitude": 48.6847,
+                "longitude": 9.0146
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Breite Gasse 3",
+                "address2": null,
+                "address3": null,
+                "city": "Böblingen",
+                "zip_code": "71032",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Breite Gasse 3",
+                    "71032 Böblingen",
+                    "Germany"
+                ]
+            },
+            "phone": "+4970314296761",
+            "display_phone": "+49 7031 4296761",
+            "distance": 15878.992051797237,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "http://www.sultans-kebab.de/menu",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "1Hy384j8ruORqJuO3hi1Gg",
+            "alias": "sultans-kebap-esslingen",
+            "name": "Sultan's Kebap",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/I2GkBaSH8OtiHRCc8_J8kA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sultans-kebap-esslingen?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 48.7375,
+                "longitude": 9.31426
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Katharinenstr. 30",
+                "address2": null,
+                "address3": null,
+                "city": "Esslingen",
+                "zip_code": "73728",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Katharinenstr. 30",
+                    "73728 Esslingen",
+                    "Germany"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 11005.592248380866,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "OxRePVv9au4WHU7QIGQVuw",
+            "alias": "ezom-kebap-stuttgart",
+            "name": "EZOM KEBAP",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/OTNNyDGCv7f5P43BhiuSNg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ezom-kebap-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.2,
+            "coordinates": {
+                "latitude": 48.730084,
+                "longitude": 9.110916
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Hauptstr. 10",
+                "address2": null,
+                "address3": "",
+                "city": "Stuttgart",
+                "zip_code": "70563",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Hauptstr. 10",
+                    "70563 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 7288.11971992591,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "2300",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "iZP11a3zkDkyk-ESmxmuKw",
+            "alias": "kervan-kebab-böblingen",
+            "name": "Kervan Kebab",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/qKIZ-5d3_v2A7wo_29oDQQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kervan-kebab-b%C3%B6blingen?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.6845937186192,
+                "longitude": 9.01081962688504
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Poststr. 11",
+                "address2": "",
+                "address3": "",
+                "city": "Böblingen",
+                "zip_code": "71032",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Poststr. 11",
+                    "71032 Böblingen",
+                    "Germany"
+                ]
+            },
+            "phone": "+497031765070",
+            "display_phone": "+49 7031 765070",
+            "distance": 16098.313378105782,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "wylNmRtGjcwecLWxBuvOSw",
+            "alias": "ali-baba-stuttgart-3",
+            "name": "Ali Baba",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-Sj2AN52TTfqG4HXbd68wA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ali-baba-stuttgart-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 2.7,
+            "coordinates": {
+                "latitude": 48.7299849,
+                "longitude": 9.1053453
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Haupt Str.62",
+                "address2": "",
+                "address3": "",
+                "city": "Stuttgart",
+                "zip_code": "70563",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Haupt Str.62",
+                    "70563 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+4971191284884",
+            "display_phone": "+49 711 91284884",
+            "distance": 7576.3893058467775,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "AfE_fKheWPq-C_X9GmX_4g",
+            "alias": "gül-kebap-stuttgart",
+            "name": "Gül-Kebap",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Z70M4qhlVpgtVu4QHDCPrA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/g%C3%BCl-kebap-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 39,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 3.7,
+            "coordinates": {
+                "latitude": 48.77391,
+                "longitude": 9.17786
+            },
+            "transactions": [],
+            "price": "€€€€",
+            "location": {
+                "address1": "Nadlerstr. 18",
+                "address2": null,
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70173",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Nadlerstr. 18",
+                    "70173 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+497112369234",
+            "display_phone": "+49 711 2369234",
+            "distance": 527.6414702974669,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0500",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0500",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0500",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0500",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "1900",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "1900",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0500",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "http://www.guelkebap.com/speisekarte/",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "5q8n_btjQu4nJOBvi_SVgw",
+            "alias": "stern-kebap-stuttgart-2",
+            "name": "Stern Kebap",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/L8wbCW8vkU3Jh3mSwRPddQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/stern-kebap-stuttgart-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 48.789,
+                "longitude": 9.19542
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Neckarstr. 154",
+                "address2": null,
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70190",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Neckarstr. 154",
+                    "70190 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+497118878690",
+            "display_phone": "+49 711 8878690",
+            "distance": 1735.8998304101358,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1030",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "HThgIjLEYZLiGkaV2FgwAA",
+            "alias": "anatolien-stuttgart",
+            "name": "Anatolien",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ivbmyOzbYiNbBcoKQ4BUcw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/anatolien-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 48.7776581,
+                "longitude": 9.1736153
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Büchsenstr. 22",
+                "address2": "",
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70174",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Büchsenstr. 22",
+                    "70174 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+497119979339",
+            "display_phone": "+49 711 9979339",
+            "distance": 318.64202887295227,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "GpcIsjR-3KSG3EO-3X2jCQ",
+            "alias": "alis-kebab-leinfelden-echterdingen",
+            "name": "Ali's Kebab",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Te6pH0I7hxn2YbKIpUfEaw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/alis-kebab-leinfelden-echterdingen?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 48.68765,
+                "longitude": 9.1666399
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Hauptstr. 59",
+                "address2": null,
+                "address3": null,
+                "city": "Leinfelden-Echterdingen",
+                "zip_code": "70771",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Hauptstr. 59",
+                    "70771 Leinfelden-Echterdingen",
+                    "Germany"
+                ]
+            },
+            "phone": "+497119078255",
+            "display_phone": "+49 711 9078255",
+            "distance": 10150.477609368516,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Hd8gXwifhdiluUCJJIAoXQ",
+            "alias": "anatolia-döner-stuttgart",
+            "name": "Anatolia Döner",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1orsEo9_cWMehFeJm8XFow/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/anatolia-d%C3%B6ner-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.8466,
+                "longitude": 9.15732
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Freihofstr.  37",
+                "address2": null,
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70439",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Freihofstr.  37",
+                    "70439 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 7703.430298647939,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "LxUoPXKosJNBgD5b9Geeew",
+            "alias": "city-pizza-und-kebap-stuttgart-2",
+            "name": "City - Pizza & Kebap",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JZhB7cpygD9MwGqbeC2n9Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/city-pizza-und-kebap-stuttgart-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.8092371406804,
+                "longitude": 9.15971294045448
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Stuttgarter Str. 65",
+                "address2": "",
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70469",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Stuttgarter Str. 65",
+                    "70469 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+4971150424347",
+            "display_phone": "+49 711 50424347",
+            "distance": 3649.168844751001,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "a5GYLvIuDe-lIYrsiacU7w",
+            "alias": "feuerbacher-stuttgart",
+            "name": "Feuerbacher",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NFMerUa1XS4M_8y77sV1RQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/feuerbacher-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 48.8111,
+                "longitude": 9.16583
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Stuttgarter Str. 34",
+                "address2": null,
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70469",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Stuttgarter Str. 34",
+                    "70469 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+4971113149801",
+            "display_phone": "+49 711 13149801",
+            "distance": 3713.329049132134,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "ZJBSn_e_VE8boEgmziL68g",
+            "alias": "cannstatter-kebap-haus-stuttgart",
+            "name": "Cannstatter Kebap Haus",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/cannstatter-kebap-haus-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.8060979,
+                "longitude": 9.2162963
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Wilhelmstr. 33",
+                "address2": null,
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70372",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Wilhelmstr. 33",
+                    "70372 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+497114104991",
+            "display_phone": "+49 711 4104991",
+            "distance": 4161.496203749419,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "LVWeU3gu1OuPrbSCCOBQWw",
+            "alias": "kebap-imbiss-schönaich",
+            "name": "Kebap Imbiss",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kebap-imbiss-sch%C3%B6naich?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.6575599,
+                "longitude": 9.05945
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Rosenstr. 29",
+                "address2": null,
+                "address3": "",
+                "city": "Schönaich",
+                "zip_code": "71101",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Rosenstr. 29",
+                    "71101 Schönaich",
+                    "Germany"
+                ]
+            },
+            "phone": "+4970314920941",
+            "display_phone": "+49 7031 4920941",
+            "distance": 16018.38338116288,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Tfa923GEdXF9zH_5oQTv_A",
+            "alias": "serhat-döner-kebap-stuttgart",
+            "name": "Serhat Döner Kebap",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/serhat-d%C3%B6ner-kebap-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 48.8032611021875,
+                "longitude": 9.21565500551299
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Badstr. 9",
+                "address2": null,
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70372",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Badstr. 9",
+                    "70372 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+49115590826",
+            "display_phone": "+49 115590826",
+            "distance": 3902.3072178559955,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "vU-HQvhoRpIczAwM6IQIJQ",
+            "alias": "konuk-kebab-esslingen",
+            "name": "Konuk Kebab",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2W858hMqZfREZdo60JsG_g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/konuk-kebab-esslingen?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "food",
+                    "title": "Food"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.3,
+            "coordinates": {
+                "latitude": 48.7407246,
+                "longitude": 9.3031778
+            },
+            "transactions": [],
+            "price": "€€€",
+            "location": {
+                "address1": "Bahnhofstr. 23",
+                "address2": null,
+                "address3": null,
+                "city": "Esslingen",
+                "zip_code": "73728",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Bahnhofstr. 23",
+                    "73728 Esslingen",
+                    "Germany"
+                ]
+            },
+            "phone": "+49711353488",
+            "display_phone": "+49 711 353488",
+            "distance": 10117.424547336115,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "qWLdOio0yFdeBAt9UbR5sw",
+            "alias": "birkan-kebab-stuttgart",
+            "name": "Birkan Kebab",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ir9dT6ryx7fi0UOCGhZVzQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/birkan-kebab-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 2.0,
+            "coordinates": {
+                "latitude": 48.7739018699632,
+                "longitude": 9.17468670755625
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Königstr. 82",
+                "address2": "",
+                "address3": "",
+                "city": "Stuttgart",
+                "zip_code": "70173",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Königstr. 82",
+                    "70173 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 570.7671338381344,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "okUEbDifxRdtWifq7i4l9Q",
+            "alias": "istanbul-kebap-und-pizza-haus-schwaikheim",
+            "name": "Istanbul Kebap & Pizza Haus",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1Vi-nqAFQhFNdzA2WPT1aw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-kebap-und-pizza-haus-schwaikheim?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.8741,
+                "longitude": 9.35218
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Bahnhofstr. 31 A",
+                "address2": "",
+                "address3": null,
+                "city": "Schwaikheim",
+                "zip_code": "71409",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Bahnhofstr. 31 A",
+                    "71409 Schwaikheim",
+                    "Germany"
+                ]
+            },
+            "phone": "+4971057042039",
+            "display_phone": "+49 7105 7042039",
+            "distance": 16610.573492165906,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "d0RZsyjSboxqvwEYPPYVKw",
+            "alias": "anatolia-ostfildern",
+            "name": "Anatolia",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/anatolia-ostfildern?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.8,
+            "coordinates": {
+                "latitude": 48.7295035,
+                "longitude": 9.2506798
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Kirchheimer Str. 7",
+                "address2": null,
+                "address3": null,
+                "city": "Ostfildern",
+                "zip_code": "73760",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Kirchheimer Str. 7",
+                    "73760 Ostfildern",
+                    "Germany"
+                ]
+            },
+            "phone": "+497113101962",
+            "display_phone": "+49 711 3101962",
+            "distance": 7646.317550124639,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "lnDFAw5s0Foi7EFYF6o3sA",
+            "alias": "sindelfinger-tor-sindelfingen",
+            "name": "Sindelfinger Tor",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/StchOPyEuzHYm--pU0muZQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sindelfinger-tor-sindelfingen?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.8,
+            "coordinates": {
+                "latitude": 48.7075827,
+                "longitude": 9.0014216
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Untere Vorstadt 3",
+                "address2": null,
+                "address3": null,
+                "city": "Sindelfingen",
+                "zip_code": "71063",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Untere Vorstadt 3",
+                    "71063 Sindelfingen",
+                    "Germany"
+                ]
+            },
+            "phone": "+497031810714",
+            "display_phone": "+49 7031 810714",
+            "distance": 15149.304092972729,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "sWfILZrNJC7glIS-9yPpmA",
+            "alias": "hasan-usta-ocakbasi-ludwigsburg",
+            "name": "Hasan usta Ocakbasi",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/VdLyHsC8NkT1wykUhauUzw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hasan-usta-ocakbasi-ludwigsburg?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "cheekufta",
+                    "title": "Chee Kufta"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 48.893246,
+                "longitude": 9.188692
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Allenstr. 11",
+                "address2": null,
+                "address3": "",
+                "city": "Ludwigsburg",
+                "zip_code": "71634",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Allenstr. 11",
+                    "71634 Ludwigsburg",
+                    "Germany"
+                ]
+            },
+            "phone": "+4971419568486",
+            "display_phone": "+49 7141 9568486",
+            "distance": 14317.34637148945,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "hgFRvLRjHeHbHZl1JNFbFw",
+            "alias": "kerkuk-leinfelden-echterdingen",
+            "name": "Kerkuk",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NrpGd8p3Rgi_e-tHeoeDyQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kerkuk-leinfelden-echterdingen?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 48.7042846789621,
+                "longitude": 9.14372462779284
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Hohenheimer Str. 7",
+                "address2": "",
+                "address3": null,
+                "city": "Leinfelden-Echterdingen",
+                "zip_code": "70771",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Hohenheimer Str. 7",
+                    "70771 Leinfelden-Echterdingen",
+                    "Germany"
+                ]
+            },
+            "phone": "+497117457369",
+            "display_phone": "+49 711 7457369",
+            "distance": 8634.58974562533,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2100",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "http://www.kepabhaus-leinfelden.de/images/Speisekarte1.pdf",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "GpHVs78iHbkM0-F5KD1V3w",
+            "alias": "westkebap-stuttgart",
+            "name": "Westkebap",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/F-PslOq9S_8OGuPQxBit2w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/westkebap-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 48.7747606873528,
+                "longitude": 9.15247966507203
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Seyfferstr. 82",
+                "address2": "",
+                "address3": "",
+                "city": "Stuttgart",
+                "zip_code": "70197",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Seyfferstr. 82",
+                    "70197 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+497116209783",
+            "display_phone": "+49 711 6209783",
+            "distance": 1897.8697169188702,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "I1JSzGxZHq1hIM1gRxW7_Q",
+            "alias": "burra-kebap-haus-deizisau",
+            "name": "Burra Kebap Haus",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/05DP3HdGsuExuQ8oTTi66A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/burra-kebap-haus-deizisau?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 48.7130508,
+                "longitude": 9.3854904
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Neuestr. 2",
+                "address2": "",
+                "address3": "",
+                "city": "Deizisau",
+                "zip_code": "73779",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Neuestr. 2",
+                    "73779 Deizisau",
+                    "Germany"
+                ]
+            },
+            "phone": "+4971539999737",
+            "display_phone": "+49 7153 9999737",
+            "distance": 16895.50533798558,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "06xD0VxOiXHixuWNPzopNQ",
+            "alias": "yaprak-grillhaus-kornwestheim",
+            "name": "Yaprak Grillhaus",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/uF9Cq3TzU3WRBD-_Qz7O5Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/yaprak-grillhaus-kornwestheim?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                }
+            ],
+            "rating": 4.8,
+            "coordinates": {
+                "latitude": 48.8619,
+                "longitude": 9.18108
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Bahnhofsplatz 14",
+                "address2": "",
+                "address3": "",
+                "city": "Kornwestheim",
+                "zip_code": "70806",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Bahnhofsplatz 14",
+                    "70806 Kornwestheim",
+                    "Germany"
+                ]
+            },
+            "phone": "+4971548050220",
+            "display_phone": "+49 7154 8050220",
+            "distance": 9256.855030097486,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "ntC5jpPhVGKc6gPBBwud2Q",
+            "alias": "durgun-pizza-kebab-stuttgart",
+            "name": "Durgun Pizza Kebab",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/QQoAB1wkpsTk9z03sJdb0Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/durgun-pizza-kebab-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.4,
+            "coordinates": {
+                "latitude": 48.7888,
+                "longitude": 9.20606
+            },
+            "transactions": [],
+            "price": "€€€",
+            "location": {
+                "address1": "Hackstr. 78",
+                "address2": null,
+                "address3": null,
+                "city": "Stuttgart",
+                "zip_code": "70190",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Hackstr. 78",
+                    "70190 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+497112804775",
+            "display_phone": "+49 711 2804775",
+            "distance": 2365.168977212337,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2130",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2130",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2130",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2130",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2130",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2130",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2130",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "2m_dOeBBfiNp5plTtT_NBw",
+            "alias": "antep-haus-stuttgart",
+            "name": "Antep Haus",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/e4xF4RF0dBUI_7-mwD0e3w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/antep-haus-stuttgart?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "flatbread",
+                    "title": "Flatbread"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 48.7939067105917,
+                "longitude": 9.19241040945053
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Rosensteinstr. 22",
+                "address2": "",
+                "address3": "",
+                "city": "Stuttgart",
+                "zip_code": "70191",
+                "country": "DE",
+                "state": "BW",
+                "display_address": [
+                    "Rosensteinstr. 22",
+                    "70191 Stuttgart",
+                    "Germany"
+                ]
+            },
+            "phone": "+4971128443141",
+            "display_phone": "+49 711 28443141",
+            "distance": 2011.1836837527505,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "http://www.antephaus.de/speisekarte.html",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        }
+    ],
+    "total": 198,
+    "region": {
+        "center": {
+            "longitude": 9.177703857421875,
+            "latitude": 48.77863417606093
+        }
+    }
+}

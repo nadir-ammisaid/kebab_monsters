@@ -1,0 +1,4058 @@
+{
+    "businesses": [
+        {
+            "id": "UGCnyBCxwjy7oJ5jHJUQKA",
+            "alias": "berliner-döner-wien",
+            "name": "Berliner Döner",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ZZ9LrQLnOVahzv8V5qZcmA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/berliner-d%C3%B6ner-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 53,
+            "categories": [
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.8,
+            "coordinates": {
+                "latitude": 48.2017386727885,
+                "longitude": 16.3449452072382
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Zieglergasse 33 a",
+                "address2": "",
+                "address3": null,
+                "city": "Vienna",
+                "zip_code": "1070",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Zieglergasse 33 a",
+                    "1070 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 4831.352553973014,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "4smqDHfJX5RoNdeM1dHdyQ",
+            "alias": "die-döneria-wien",
+            "name": "Die Döneria",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/PHc7DGyDmmfoep9RHMispQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/die-d%C3%B6neria-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.8,
+            "coordinates": {
+                "latitude": 48.2170037,
+                "longitude": 16.3589846
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Schwarzspanierstr. 22",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1090",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Schwarzspanierstr. 22",
+                    "1090 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3870.833404435356,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "WJxQTTMj9HUIHKwfMDGU-A",
+            "alias": "alis-grill-wien",
+            "name": "Ali's Grill",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qd-wYE7K8gYbQ5fUWM9v1A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/alis-grill-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 4.2,
+            "coordinates": {
+                "latitude": 48.2019496416759,
+                "longitude": 16.3674155220901
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Operngasse 14",
+                "address2": null,
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1010",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Operngasse 14",
+                    "1010 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4315811567",
+            "display_phone": "+43 1 5811567",
+            "distance": 3187.6338990446493,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "https://www.alisgrill.at/menus",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Igq3XEcAZLKflczRmc2Gjw",
+            "alias": "kebabkönig-wien",
+            "name": "Kebabkönig",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/G4WQCHVzuksB0pwLVmSXIg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kebabk%C3%B6nig-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 48.21571,
+                "longitude": 16.37959
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Karmeliterplatz",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1020",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Karmeliterplatz",
+                    "1020 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2336.538787377883,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "nlppq4ewfp_DyRBzvNqpxQ",
+            "alias": "türkis-wien-22",
+            "name": "Türkis",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Thv2SOKkAf3CRNwW7VQmhw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/t%C3%BCrkis-wien-22?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 18,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "falafel",
+                    "title": "Falafel"
+                }
+            ],
+            "rating": 3.8,
+            "coordinates": {
+                "latitude": 48.20868,
+                "longitude": 16.37149
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Goldschmiedgasse 4",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1010",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Goldschmiedgasse 4",
+                    "1010 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4315353457",
+            "display_phone": "+43 1 5353457",
+            "distance": 2806.8270815820733,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "fhp78vp6cdwVo_o_bJuBNw",
+            "alias": "sahane-lahmacun-und-burger-wien",
+            "name": "Sahane Lahmacun & Burger",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eRu2Jiom9YUvvtXM7CcRhw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sahane-lahmacun-und-burger-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.17817,
+                "longitude": 16.41189
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Simmeringerhauptstr. 54",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1110",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Simmeringerhauptstr. 54",
+                    "1110 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4367761385900",
+            "display_phone": "+43 677 61385900",
+            "distance": 3326.3705091076795,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "gUyCA9G7pRkY8ByhENGa7A",
+            "alias": "mangalet-wien",
+            "name": "Mangalet",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NTWH8IDr5Uncyr1av_MqFA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mangalet-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.211141,
+                "longitude": 16.339073
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Josefstädter Straße",
+                "address2": "",
+                "address3": null,
+                "city": "Vienna",
+                "zip_code": "1090",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Josefstädter Straße",
+                    "1090 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 5226.884071639129,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0400",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0400",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "WulROsxVP322hRO2rDQQ6Q",
+            "alias": "ali-baba-wien-2",
+            "name": "ALI BABA",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/HoUOw-8Q9-FpVri-6YMCPg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ali-baba-wien-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.19893,
+                "longitude": 16.31623
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Hütteldorfer Str. 97",
+                "address2": null,
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1150",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Hütteldorfer Str. 97",
+                    "1150 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4366475409447",
+            "display_phone": "+43 664 75409447",
+            "distance": 6982.232833396043,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "https://ali-baba.wien/speisekarte/",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "e03x7-4Zjtzn8Iw8zFEntg",
+            "alias": "nefis-kebap-wien",
+            "name": "Nefis Kebap",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ug07tHzV04eu4MC1dzJHeA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nefis-kebap-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 48.27268,
+                "longitude": 16.44689
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Kürschnergasse 9",
+                "address2": null,
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1210",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Kürschnergasse 9",
+                    "1210 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4368181110090",
+            "display_phone": "+43 681 81110090",
+            "distance": 7650.324604199607,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "ULzknWebEPRAKF6SN3dJ5g",
+            "alias": "pars-wien",
+            "name": "Pars",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/hUpQ3mPBjxxZ1CCwppuSyA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pars-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 58,
+            "categories": [
+                {
+                    "alias": "persian",
+                    "title": "Persian/Iranian"
+                }
+            ],
+            "rating": 4.6,
+            "coordinates": {
+                "latitude": 48.20824,
+                "longitude": 16.34073
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Lerchenfelder Str. 148",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1080",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Lerchenfelder Str. 148",
+                    "1080 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4314058245",
+            "display_phone": "+43 1 4058245",
+            "distance": 5086.661088372304,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "6BQWwRN2a8wOhNqc81gWHw",
+            "alias": "pizza-büfe-und-kebab-wien",
+            "name": "Pizza Büfe und Kebab",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/pRVmdFuNKcEh9OTjKogzVg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizza-b%C3%BCfe-und-kebab-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 2.5,
+            "coordinates": {
+                "latitude": 48.2116376481444,
+                "longitude": 16.3768507309235
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Schwedenplatz",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1010",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Schwedenplatz",
+                    "1010 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2449.252415241755,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "tL1UdEfl_nKR4IownL-wcw",
+            "alias": "alaturka-vienna",
+            "name": "Alaturka",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/bi6ZG7Hv4Fyqo0mJyf6COA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/alaturka-vienna?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.1,
+            "coordinates": {
+                "latitude": 48.1508926333499,
+                "longitude": 16.3166252631362
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "In Wien Alterlaa 23",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1230",
+                "country": "AT",
+                "state": "3",
+                "display_address": [
+                    "In Wien Alterlaa 23",
+                    "1230 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4369919671499",
+            "display_phone": "+43 699 19671499",
+            "distance": 9365.937907575248,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Z9yXrvQsRaW0dYze5ODRSg",
+            "alias": "pizza-kebap-di-rdamo-wien",
+            "name": "Pizza Kebap Di@rdamo",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizza-kebap-di-rdamo-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.2055141,
+                "longitude": 16.3868744
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Landstrasser Hauptstraße",
+                "address2": null,
+                "address3": null,
+                "city": "Vienna",
+                "zip_code": "1030",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Landstrasser Hauptstraße",
+                    "1030 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1696.2914833819382,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "r55lXuqJu_Y56xGf1ZHWYQ",
+            "alias": "safran-pizza-kebap-wien",
+            "name": "Safran pizza kebap",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/t9KqcHZd5dq0SzoIZ84wXA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/safran-pizza-kebap-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 48.2489232034106,
+                "longitude": 16.4396020714416
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Wagramer Str. 97 - 103",
+                "address2": null,
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1220",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Wagramer Str. 97 - 103",
+                    "1220 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4319538107",
+            "display_phone": "+43 1 9538107",
+            "distance": 5067.106947771822,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Gvjyrn7aH31rFkhEQpLEDw",
+            "alias": "aspern-imbiss-wien",
+            "name": "Aspern Imbiss",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/ucChjd-I-qKkgiDybrMC7g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/aspern-imbiss-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 48.2234635385209,
+                "longitude": 16.4754407601622
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "U2-Station Aspernstr.",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1220",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "U2-Station Aspernstr.",
+                    "1220 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 5181.97235852303,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "kuO7O6R_naWUgdoaHBEETA",
+            "alias": "lamm-wien",
+            "name": "Lamm",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/y306w5dmkA-oMPEFHVPA1A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lamm-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 48.1883,
+                "longitude": 16.333
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Sechshauserstr. 40",
+                "address2": null,
+                "address3": null,
+                "city": "Vienna",
+                "zip_code": "1150",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Sechshauserstr. 40",
+                    "1150 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 6075.987160021253,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "kbS_ur2UpVvYe5SnpUmvFw",
+            "alias": "willys-snackbar-wien",
+            "name": "Willy's Snackbar",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/egl8KU28DfAgaCsq2eftPA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/willys-snackbar-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 48.2179310521485,
+                "longitude": 16.3928207511176
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "U-bahn Station",
+                "address2": "Praterstern",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1020",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "U-bahn Station",
+                    "Praterstern",
+                    "1020 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1653.5107987199426,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "ru-A9xiDRU9J4wTdkGbP-w",
+            "alias": "sen-grill-wien-2",
+            "name": "Sen Grill",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/22sRQbTwGELDcqcP5jTgPQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sen-grill-wien-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "oriental",
+                    "title": "Oriental"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 48.2164714,
+                "longitude": 16.3810392
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Taborstr. 22",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1020",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Taborstr. 22",
+                    "1020 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4369911425842",
+            "display_phone": "+43 699 11425842",
+            "distance": 2305.7884179349508,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "R5JRXjSgDuIMmtaoHLNYxg",
+            "alias": "döner-wow-wien",
+            "name": "Döner Wow",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/d%C3%B6ner-wow-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 48.2498375,
+                "longitude": 16.4430318
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Wagramer Str. 139",
+                "address2": "",
+                "address3": null,
+                "city": "Vienna",
+                "zip_code": "1220",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Wagramer Str. 139",
+                    "1220 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+436609871453",
+            "display_phone": "+43 660 9871453",
+            "distance": 5273.505509598391,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "ALcbtJd3lZN_pu8EkmwxxQ",
+            "alias": "ulis-kebabhaus-wien",
+            "name": "Uli's Kebabhaus",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/JaNnokcxWw_fQqm1RB_6Bw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ulis-kebabhaus-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 48.2316,
+                "longitude": 16.35453
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Nußdorferstr. 94",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1090",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Nußdorferstr. 94",
+                    "1090 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+43436509907979",
+            "display_phone": "+43 4365 09907979",
+            "distance": 4840.843469074937,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "V473DYFqywfjueJXyixViA",
+            "alias": "neni-wien",
+            "name": "Neni",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qRDTGCb7aSLjEkS9JZCMGQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/neni-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 128,
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "breakfast_brunch",
+                    "title": "Breakfast & Brunch"
+                }
+            ],
+            "rating": 3.7,
+            "coordinates": {
+                "latitude": 48.197873,
+                "longitude": 16.362142
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Naschmarkt 510",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1060",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Naschmarkt 510",
+                    "1060 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4315852020",
+            "display_phone": "+43 1 5852020",
+            "distance": 3683.3381513787376,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2300",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "https://neni.at/wp-content/themes/neni/gfx/NENI_herbst_2019_A5_lowres.pdf",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "WmceLAxLCDjIAIRsRmp7og",
+            "alias": "pita-box-wien",
+            "name": "Pita Box",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KHSlFHbdMwGx0C43For3Cw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pita-box-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "falafel",
+                    "title": "Falafel"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "vegan",
+                    "title": "Vegan"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.2188869515547,
+                "longitude": 16.3808455690742
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Taborstr. 38",
+                "address2": "",
+                "address3": null,
+                "city": "Vienna",
+                "zip_code": "1020",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Taborstr. 38",
+                    "1020 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+436604822332",
+            "display_phone": "+43 660 4822332",
+            "distance": 2440.1182187894638,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "fesOe5lpUKIL_-O09eLrlw",
+            "alias": "ali-ocakbaşı-wien",
+            "name": "Ali Ocakbaşı",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lOC8uBIsESCGfuIxfVfZTg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ali-ocakba%C5%9F%C4%B1-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 48.2018102,
+                "longitude": 16.3673887
+            },
+            "transactions": [],
+            "price": "€€€",
+            "location": {
+                "address1": "Vienna Opera",
+                "address2": "Operngasse 14",
+                "address3": null,
+                "city": "Vienna",
+                "zip_code": "1010",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Vienna Opera",
+                    "Operngasse 14",
+                    "1010 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4315811567",
+            "display_phone": "+43 1 5811567",
+            "distance": 3192.896787452751,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "http://www.aliocakbasi.at/page/menu",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "KV2UUnvswJmSrjUZ1Rt0Mw",
+            "alias": "le-petit-maroc-wien",
+            "name": "Le petit Maroc",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lHb_B7y8D1Ob9ekWK_8--g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/le-petit-maroc-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 13,
+            "categories": [
+                {
+                    "alias": "moroccan",
+                    "title": "Moroccan"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 48.20569,
+                "longitude": 16.34934
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Neubaugasse 84",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1070",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Neubaugasse 84",
+                    "1070 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4319445566",
+            "display_phone": "+43 1 9445566",
+            "distance": 4458.7220163702295,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1700",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1700",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1700",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1700",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1700",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1700",
+                            "end": "0000",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": false
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "wRPHBSvH4orhSXBKhG-_jg",
+            "alias": "schönbrunn-kebab-schnitzel-wien",
+            "name": "Schönbrunn Kebab Schnitzel",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lVDhT7TayZUr6jHPR9xEBA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sch%C3%B6nbrunn-kebab-schnitzel-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "schnitzel",
+                    "title": "Schnitzel"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 48.1829089345978,
+                "longitude": 16.3253046791822
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Schönbrunnerstr. 283",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1120",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Schönbrunnerstr. 283",
+                    "1120 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+436643673191",
+            "display_phone": "+43 664 3673191",
+            "distance": 6833.667950191482,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "yIOsrwACdAvFZA6ut80Y8w",
+            "alias": "pizza-und-grill-wien-2",
+            "name": "Pizza & Grill",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/TaGurQsscyX2OtM_hnyVlA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizza-und-grill-wien-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "icecream",
+                    "title": "Ice Cream & Frozen Yogurt"
+                }
+            ],
+            "rating": 2.4,
+            "coordinates": {
+                "latitude": 48.257227427506,
+                "longitude": 16.3993098306885
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Franz-Jonas-Platz Bahnhof",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1210",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Franz-Jonas-Platz Bahnhof",
+                    "1210 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4312716640",
+            "display_phone": "+43 1 2716640",
+            "distance": 5523.205928629176,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "http://www.pizza-grill.at/de/speisekarte/",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "EhEm2ZiDCs0db644GErBXA",
+            "alias": "kebap-buhara-hasan-bayar-wien",
+            "name": "Kebap Buhara - Hasan Bayar",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/z4_xsvZBkH-Ztcur-jb6QQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kebap-buhara-hasan-bayar-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 48.237443438434,
+                "longitude": 16.380933307929
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Hellwagstr. 14/1",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1200",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Hellwagstr. 14/1",
+                    "1200 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4318904203",
+            "display_phone": "+43 1 8904203",
+            "distance": 3894.8934320727153,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "O7FfRdCX7aDVac1LnCtK5w",
+            "alias": "xtanbul-restaurant-wien",
+            "name": "Xtanbul Restaurant",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/07fgSMCNRa_6tW-uyY4jZw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/xtanbul-restaurant-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.7,
+            "coordinates": {
+                "latitude": 48.2375412,
+                "longitude": 16.3810997
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Hellwagstr. 16",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1200",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Hellwagstr. 16",
+                    "1200 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4319523062",
+            "display_phone": "+43 1 9523062",
+            "distance": 3906.149739916823,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "BU1496IkDKxY4X7Bbd8OBQ",
+            "alias": "sultan-kebab-wien",
+            "name": "Sultan-Kebab",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/V8U0eq_1j_q5oTLIoFOloQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/sultan-kebab-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                }
+            ],
+            "rating": 1.3,
+            "coordinates": {
+                "latitude": 48.2570907243148,
+                "longitude": 16.4012082690643
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Franz-Jonas Platz",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1210",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Franz-Jonas Platz",
+                    "1210 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 5490.732910132001,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "cUhWfBLQYlGZQPZjO9ZD5Q",
+            "alias": "hernals-kebap-pizza-wien-2",
+            "name": "Hernals. Kebap Pizza",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/1Ed2hTz4qANN8mTW_ZntZg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/hernals-kebap-pizza-wien-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.7,
+            "coordinates": {
+                "latitude": 48.21843,
+                "longitude": 16.33073
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Elterleinplatz 8",
+                "address2": null,
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1170",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Elterleinplatz 8",
+                    "1170 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4319713656",
+            "display_phone": "+43 1 9713656",
+            "distance": 5944.498125067318,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "77teLyVB1hzJxQdGofRb7A",
+            "alias": "side-kebap-und-pizza-wien",
+            "name": "Side Kebap & Pizza",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HUh3l6p2uYlEPdKADhb2UA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/side-kebap-und-pizza-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "fooddeliveryservices",
+                    "title": "Food Delivery Services"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 48.1928275,
+                "longitude": 16.355307
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Pilgramgasse 24",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1050",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Pilgramgasse 24",
+                    "1050 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4369910764138",
+            "display_phone": "+43 699 10764138",
+            "distance": 4354.068840914654,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "2YUn6esA0ZwiY_sedEPzjw",
+            "alias": "doy-doy-wien",
+            "name": "Doy Doy",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/doy-doy-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 48.2569,
+                "longitude": 16.4014
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Schloßhofer Str. 20",
+                "address2": null,
+                "address3": null,
+                "city": "Vienna",
+                "zip_code": "1210",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Schloßhofer Str. 20",
+                    "1210 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 5468.090048565658,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Jmhyv-MybiWHfx1nVKXHKw",
+            "alias": "kebab-haus-wien",
+            "name": "Kebab-Haus",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_inIcy4ijQWG-n7vf0YBpw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kebab-haus-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 27,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.7,
+            "coordinates": {
+                "latitude": 48.19831,
+                "longitude": 16.36601
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Operngasse 26",
+                "address2": null,
+                "address3": null,
+                "city": "Vienna",
+                "zip_code": "1040",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Operngasse 26",
+                    "1040 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4315875308",
+            "display_phone": "+43 1 5875308",
+            "distance": 3397.3523542151847,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1130",
+                            "end": "0400",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1130",
+                            "end": "0400",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "-b6D3TQnjo7RP0OVX17-qw",
+            "alias": "ilkim-wien",
+            "name": "Ilkim",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_1vJR6rVlsJH33XGB5m9iA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ilkim-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 48.2175348963437,
+                "longitude": 16.3899830414595
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Praterstr. 78",
+                "address2": "",
+                "address3": null,
+                "city": "Vienna",
+                "zip_code": "1020",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Praterstr. 78",
+                    "1020 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4369910651381",
+            "display_phone": "+43 699 10651381",
+            "distance": 1789.2580678685256,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "2vfZu-ipx_5oNq3rAf6awA",
+            "alias": "bahur-tov-wien-2",
+            "name": "Bahur Tov",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gYBlQTaoVHrlrN_bf0WIaA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bahur-tov-wien-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "kosher",
+                    "title": "Kosher"
+                },
+                {
+                    "alias": "panasian",
+                    "title": "Pan Asian"
+                }
+            ],
+            "rating": 4.9,
+            "coordinates": {
+                "latitude": 48.216555,
+                "longitude": 16.380561
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Taborstraße 19",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1020",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Taborstraße 19",
+                    "1020 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+43676847761200",
+            "display_phone": "+43 676 847761200",
+            "distance": 2341.9392333851392,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": false
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "http://bahur-tov.com/speisekarte",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "tYu7mdXQhZDwDyWCO7SlMg",
+            "alias": "mcdöners-wien",
+            "name": "McDöner's",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/rgoS-5vghq3g8oVhuW26Ow/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mcd%C3%B6ners-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.9,
+            "coordinates": {
+                "latitude": 48.21937,
+                "longitude": 16.3713
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Untere Augartenstr. 2",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1020",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Untere Augartenstr. 2",
+                    "1020 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4312121940",
+            "display_phone": "+43 1 2121940",
+            "distance": 3094.543429904996,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1500",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "s15-D26oRrSEfaC8FG31dA",
+            "alias": "nar-wien-2",
+            "name": "NAR",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/eIWTgpBV6LaKGkb01nkWaw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/nar-wien-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 4.8,
+            "coordinates": {
+                "latitude": 48.1991299,
+                "longitude": 16.31213
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Hütteldorfer Str. 102",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1140",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Hütteldorfer Str. 102",
+                    "1140 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4317866254",
+            "display_phone": "+43 1 7866254",
+            "distance": 7270.475321707538,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "https://www.restaurant-nar.at/uploads/media/5a15951a787a1/speisekarte-fur-hp.pdf",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "KNnlkm6JzUpmUz_65aulIg",
+            "alias": "duru-kebap-wien",
+            "name": "Duru Kebap",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/5AIvuJQYgnuxdYFbXTvxwg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/duru-kebap-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.3,
+            "coordinates": {
+                "latitude": 48.20904415,
+                "longitude": 16.33445428
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Thaliastr. 23",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1160",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Thaliastr. 23",
+                    "1160 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+436606040545",
+            "display_phone": "+43 660 6040545",
+            "distance": 5558.871630484907,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "LABmIFR358jLOmbuhg7qGQ",
+            "alias": "antalya-kebap-pressbaum",
+            "name": "antalya kebap",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/antalya-kebap-pressbaum?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 48.1790085,
+                "longitude": 16.0221596
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Neulengbacher Str. 52",
+                "address2": "",
+                "address3": "",
+                "city": "Pressbaum",
+                "zip_code": "3031",
+                "country": "AT",
+                "state": "3",
+                "display_address": [
+                    "Neulengbacher Str. 52",
+                    "3031 Pressbaum",
+                    "Austria"
+                ]
+            },
+            "phone": "+4369917847771",
+            "display_phone": "+43 699 17847771",
+            "distance": 29388.973404848624,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0830",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0830",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0830",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0830",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0830",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0830",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Lfdyv6Bw3n1DABsc7vbV5g",
+            "alias": "miznon-wien-2",
+            "name": "Miznon",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/lTP0eqM93Goh0BxJRZ9mfg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/miznon-wien-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 54,
+            "categories": [
+                {
+                    "alias": "israeli",
+                    "title": "Israeli"
+                }
+            ],
+            "rating": 4.4,
+            "coordinates": {
+                "latitude": 48.2084182717099,
+                "longitude": 16.3746359199286
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Schulerstr. 4",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1010",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Schulerstr. 4",
+                    "1010 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4315120302",
+            "display_phone": "+43 1 5120302",
+            "distance": 2580.536053761222,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2230",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2230",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2230",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2230",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2230",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2230",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1300",
+                            "end": "1700",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "XZT4ygXc1R2z5SQGSon2Jg",
+            "alias": "türkis-imbiss-wien-3",
+            "name": "Türkis Imbiss",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/9-M_vr0BiQA_2m6drznbNA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/t%C3%BCrkis-imbiss-wien-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "falafel",
+                    "title": "Falafel"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 48.1969788,
+                "longitude": 16.3446458
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Mariahilfer Str. 100",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1070",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Mariahilfer Str. 100",
+                    "1070 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 4957.414980155986,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "EATqN9sEDXm_KqxhZ_iSXw",
+            "alias": "milos-grillinsel-wien",
+            "name": "Milos Grillinsel",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/milos-grillinsel-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "bbq",
+                    "title": "Barbeque"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.1840501653786,
+                "longitude": 16.3554299622774
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Reinprechtsdorfer Str. 11",
+                "address2": "",
+                "address3": null,
+                "city": "Vienna",
+                "zip_code": "1050",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Reinprechtsdorfer Str. 11",
+                    "1050 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+436605275221",
+            "display_phone": "+43 660 5275221",
+            "distance": 4810.1171199861465,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Vwd3p8-MH5rLisuJFzdBZw",
+            "alias": "kebap-house-izi-mannersdorf-am-leithagebirge-2",
+            "name": "Kebap House IZI",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/p8-6fJ8VJKaFYet_9zxAGQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kebap-house-izi-mannersdorf-am-leithagebirge-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 47.9758976621498,
+                "longitude": 16.6111655494114
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Sommereinerstr. 11",
+                "address2": "",
+                "address3": "",
+                "city": "Mannersdorf am Leithagebirge",
+                "zip_code": "2452",
+                "country": "AT",
+                "state": "3",
+                "display_address": [
+                    "Sommereinerstr. 11",
+                    "2452 Mannersdorf am Leithagebirge",
+                    "Austria"
+                ]
+            },
+            "phone": "+43216867035",
+            "display_phone": "+43 2168 67035",
+            "distance": 29843.304174707508,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2130",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2130",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2130",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2130",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2100",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "aqKv3Bp_difVpUqBh-IQ6Q",
+            "alias": "u-box-wien",
+            "name": "U BOX",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/-k8JkUvOWovsY7d3SWo2zw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/u-box-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 25,
+            "categories": [
+                {
+                    "alias": "foodstands",
+                    "title": "Food Stands"
+                },
+                {
+                    "alias": "currysausage",
+                    "title": "Curry Sausage"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 2.8,
+            "coordinates": {
+                "latitude": 48.2112399,
+                "longitude": 16.37817
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Schwedenplatz  2",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1010",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Schwedenplatz  2",
+                    "1010 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2329.3271680553207,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "0000",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0000",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0000",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0000",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0000",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0000",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0000",
+                            "end": "0000",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "056uzJNFUVaadWbxTocQ5A",
+            "alias": "adams-kebab-wien",
+            "name": "Adam's Kebab",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Jv424_nMyzDY1ISx3MuTHw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/adams-kebab-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 48.219112,
+                "longitude": 16.327654
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Hernalser Hauptstr. 98",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1170",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Hernalser Hauptstr. 98",
+                    "1170 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 6185.29002336882,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "xSKteWsm6jVuyqZkl8iumQ",
+            "alias": "hühnerpalast-wien",
+            "name": "Hühnerpalast",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/nQu7obUYmewlVQewoKeBsg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/h%C3%BChnerpalast-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 48.2133232852887,
+                "longitude": 16.31433123312
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Ottakringerstr.159",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1160",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Ottakringerstr.159",
+                    "1160 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+436803324015",
+            "display_phone": "+43 680 3324015",
+            "distance": 7073.2206684169605,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0700",
+                            "end": "2200",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "8CQ4RvPutNy4kCzC_FU31w",
+            "alias": "mis-kebap-wien",
+            "name": "mis kebap",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/STHrpWjQ77MGx6mefkuwIA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mis-kebap-wien?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 48.1753993,
+                "longitude": 16.3567642
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Davidgasse 92",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1100",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Davidgasse 92",
+                    "1100 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4369910000319",
+            "display_phone": "+43 699 10000319",
+            "distance": 5305.120895806438,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Kuid6NAvy_9Ju7NUBu4n-A",
+            "alias": "könig-wien-2",
+            "name": "König",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/SGS3cmb64UXVucFHXJtzpg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/k%C3%B6nig-wien-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "schnitzel",
+                    "title": "Schnitzel"
+                },
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 48.1929333,
+                "longitude": 16.3547597
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Pilgrambrücke",
+                "address2": "",
+                "address3": null,
+                "city": "Vienna",
+                "zip_code": "",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Pilgrambrücke",
+                    "Vienna, Wien",
+                    "Austria"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 4386.967940422819,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "KAFZucjUhWgZJrEVMnd9bQ",
+            "alias": "firato-wien-2",
+            "name": "Firato",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/w8bnrjUv1_To0VPaMJQdug/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/firato-wien-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 48.1916,
+                "longitude": 16.33202
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Mariahilfer Str. 183",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1150",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "Mariahilfer Str. 183",
+                    "1150 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "+4319134727",
+            "display_phone": "+43 1 9134727",
+            "distance": 6014.823005025913,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0800",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "BBPReKeb6FndoiIP_A73eQ",
+            "alias": "ginza-point-wien-2",
+            "name": "Ginza Point",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/6ikRVWHYVwWKvQA8rfYR5Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ginza-point-wien-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "asianfusion",
+                    "title": "Asian Fusion"
+                }
+            ],
+            "rating": 1.5,
+            "coordinates": {
+                "latitude": 48.2088223983033,
+                "longitude": 16.3717021851807
+            },
+            "transactions": [],
+            "location": {
+                "address1": "U-Bahnhof Stephansplatz",
+                "address2": "",
+                "address3": "",
+                "city": "Vienna",
+                "zip_code": "1010",
+                "country": "AT",
+                "state": "9",
+                "display_address": [
+                    "U-Bahnhof Stephansplatz",
+                    "1010 Vienna",
+                    "Austria"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2798.969769943861,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        }
+    ],
+    "total": 123,
+    "region": {
+        "center": {
+            "longitude": 16.409454345703125,
+            "latitude": 48.20801777160922
+        }
+    }
+}
