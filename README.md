@@ -14,9 +14,9 @@
 ![React](https://img.shields.io/badge/React-18-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-18-green)
-![API REST](https://img.shields.io/badge/API%20REST-REST-orange)
-![Yelp API](https://img.shields.io/badge/Yelp%20API-Fusion-red)
-![Leaflet](https://img.shields.io/badge/Leaflet-cartes-green)
+![REST API](https://img.shields.io/badge/REST%20API-REST-orange)
+![Yelp Fusion API](https://img.shields.io/badge/Yelp%20Fusion%20API-Fusion-red)
+![Leaflet](https://img.shields.io/badge/Leaflet-maps-green)
 
 **Kebab Monsters** est une application web responsive développée en **48h lors d'un hackathon**. Elle permet aux utilisateurs de localiser les meilleurs kebabs autour d'eux grâce à l'API Yelp.
 
@@ -130,9 +130,9 @@ Pour contribuer au projet :
 ![React](https://img.shields.io/badge/React-18-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-18-green)
-![API REST](https://img.shields.io/badge/API%20REST-REST-orange)
-![Yelp API](https://img.shields.io/badge/Yelp%20API-Fusion-red)
-![Leaflet](https://img.shields.io/badge/Leaflet-cartes-green)
+![REST API](https://img.shields.io/badge/REST%20API-REST-orange)
+![Yelp Fusion API](https://img.shields.io/badge/Yelp%20Fusion%20API-Fusion-red)
+![Leaflet](https://img.shields.io/badge/Leaflet-maps-green)
 
 **Kebab Monsters** is a responsive web application built in **48 hours during a hackathon**. It helps users locate the best kebab spots nearby using the Yelp API.
 
