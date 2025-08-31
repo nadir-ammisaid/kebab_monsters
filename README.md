@@ -216,7 +216,7 @@ Your feedback is valuable. If you find this project useful or have suggestions f
 
 **💬 Your feedback matters - feel free to share your thoughts or suggestions!**
 <br/>
-📩 You can contact me directly on LinkedIn: [**https://www.linkedin.com/in/nadir-ammisaid/**](https://www.linkedin.com/in/nadir-ammisaid/)
+📩 You can contact me directly on LinkedIn: **[https://www.linkedin.com/in/nadir-ammisaid/](https://www.linkedin.com/in/nadir-ammisaid/)**
 
 Your input is appreciated.
 
