@@ -90,6 +90,7 @@ Ce projet a été développé dans le cadre d'un **hackathon de 48h** avec les c
 
 Projet développé par [**Nadir AMMI SAID**](https://www.linkedin.com/in/nadir-ammisaid/) avec trois autres développeurs lors d'un **hackathon de 2 jours** dans le cadre de la formation Développeur Web et Web Mobile à la Wild Code School (promotion 2025).
 
+<br>
 
 ## Retours et Support
 
@@ -207,6 +208,7 @@ This project was developed during a **48-hour hackathon** with the following con
 
 Project developed by [**Nadir AMMI SAID**](https://www.linkedin.com/in/nadir-ammisaid/) with three other developers during a **2-day hackathon** as part of the Web and Mobile Web Developer training at Wild Code School (2025 cohort).
 
+<br>
 
 ## Feedback & Support
 
