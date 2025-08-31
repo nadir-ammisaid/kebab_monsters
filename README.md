@@ -90,15 +90,16 @@ Ce projet a été développé dans le cadre d'un **hackathon de 48h** avec les c
 
 Projet développé par [**Nadir AMMI SAID**](https://www.linkedin.com/in/nadir-ammisaid/) avec trois autres développeurs lors d'un **hackathon de 2 jours** dans le cadre de la formation Développeur Web et Web Mobile à la Wild Code School (promotion 2025).
 
-**💬 Vos avis nous intéressent - n'hésitez pas à nous faire part de vos retours ou suggestions !**
-<br/>
-📩 Vous pouvez me contacter directement sur LinkedIn : [https://www.linkedin.com/in/nadir-ammisaid/](https://www.linkedin.com/in/nadir-ammisaid/)
 
 ## 📬 Retours et Support
 
 Vos retours sont précieux. Si vous trouvez ce projet utile ou avez des suggestions d'amélioration :
 - 🚩 **Signalez des problèmes** ou demandez de nouvelles fonctionnalités via GitHub Issues  
 - 💡 **Partagez vos idées** pour de nouvelles fonctionnalités ou améliorations
+
+**💬 Vos avis nous intéressent - n'hésitez pas à nous faire part de vos retours ou suggestions !**
+<br/>
+📩 Vous pouvez me contacter directement sur LinkedIn : [https://www.linkedin.com/in/nadir-ammisaid/](https://www.linkedin.com/in/nadir-ammisaid/)
 
 Vos contributions sont appréciées.
 
@@ -206,15 +207,16 @@ This project was developed during a **48-hour hackathon** with the following con
 
 Project developed by [**Nadir AMMI SAID**](https://www.linkedin.com/in/nadir-ammisaid/) with three other developers during a **2-day hackathon** as part of the Web and Mobile Web Developer training at Wild Code School (2025 cohort).
 
-**💬 Your feedback matters - feel free to share your thoughts or suggestions!**
-<br/>
-📩 You can contact me directly on LinkedIn: [https://www.linkedin.com/in/nadir-ammisaid/](https://www.linkedin.com/in/nadir-ammisaid/)
 
 ## 📬 Feedback & Support
 
 Your feedback is valuable. If you find this project useful or have suggestions for improvement:
 - 🚩 **Report issues** or request features via GitHub Issues  
 - 💡 **Share your ideas** for new features or improvements
+
+**💬 Your feedback matters - feel free to share your thoughts or suggestions!**
+<br/>
+📩 You can contact me directly on LinkedIn: [https://www.linkedin.com/in/nadir-ammisaid/](https://www.linkedin.com/in/nadir-ammisaid/)
 
 Your input is appreciated.
 
