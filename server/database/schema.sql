@@ -11,11 +11,11 @@ CREATE TABLE IF NOT EXISTS item (
   FOREIGN KEY (user_id) REFERENCES user(id)
 );
 
-insert into user(id, email, password)
-values
-  (1, "jdoe@mail.com", "123456");
+-- insert into user(id, email, password)
+-- values
+--   (1, "jdoe@mail.com", "123456");
 
-insert into item(id, title, user_id)
-values
-  (1, "Stuff", 1),
-  (2, "Doodads", 1);
+-- insert into item(id, title, user_id)
+-- values
+--   (1, "Stuff", 1),
+--   (2, "Doodads", 1);
