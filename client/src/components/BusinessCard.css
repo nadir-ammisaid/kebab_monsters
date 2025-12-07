@@ -1,0 +1,75 @@
+/* .businessCard {
+	margin: 0;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+	padding: 0.5em;
+	border-radius: 1em;
+}
+
+.businessCard img {
+	width: 15em;
+	border-radius: 5%;
+} */
+
+/* Container qui englobe les cartes */
+section {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between; /* Espacement entre les cartes */
+	gap: 1em; /* Espacement entre les éléments */
+	padding-top: 1em;
+}
+
+/* Style des cartes individuelles */
+.businessCard {
+	background-color: #faedcd;
+	margin: 0 2em 0 2em;
+	display: flex;
+	flex-direction: column; /* Aligner l'image et le titre horizontalement */
+	align-items: center;
+	justify-content: center;
+	padding: 1em;
+	border-radius: 1em;
+	width: 100%; /* Par défaut, les cartes prennent toute la largeur de l'écran sur mobile */
+	min-height: 70vh;
+	font-family: "Jaro", sans-serif;
+	font-size: medium;
+}
+
+.businessCard img {
+	width: 70vw; /* Ajuste la largeur de l'image */
+	height: auto; /* Conserver la proportion de l'image */
+	max-height: 50vh;
+	border-radius: 1em;
+}
+
+/* Sur les tablettes (max-width: 768px) */
+@media (min-width: 768) {
+	.section {
+		max-width: 15vw;
+	}
+	.businessCard {
+		width: 15vw;
+		max-width: 15vw;
+	}
+	.businessCard img {
+		width: 15vw; /* Ajuste la largeur de l'image */
+		height: auto; /* Conserver la proportion de l'image */
+		border-radius: 1em;
+	}
+}
+
+/* Sur les écrans de bureau (max-width: 1024px) */
+@media (min-width: 1024px) {
+	.businessCard {
+		width: 15vw;
+	}
+	.businessCard img {
+		width: 15vw; /* Ajuste la largeur de l'image */
+		height: auto; /* Conserver la proportion de l'image */
+		border-radius: 1em;
+	}
+}

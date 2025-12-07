@@ -11,7 +11,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
-	background-color: #faedcd;
+	background-color: #e63946;
 	min-height: 100vh;
 }
 
@@ -19,6 +19,7 @@ body {
 	color: aliceblue;
 	font-size: 26px;
 	font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	text-align: center;
 }
 
 .welcome_center button {
@@ -51,6 +52,7 @@ body {
 
 	.welcome_center p {
 		font-size: 30px;
+		text-align: center;
 	}
 
 	.welcome_center button {
@@ -66,12 +68,14 @@ body {
 @media (min-width: 1025px) {
 	.welcome_center {
 		flex-direction: column;
-		padding: 50px;
+		justify-content: space-around;
+		padding-bottom: 50px;
 		background-color: #e63946;
 	}
 
 	.welcome_center p {
 		font-size: 36px;
+		text-align: center;
 	}
 
 	.welcome_center button {
@@ -81,7 +85,7 @@ body {
 	}
 
 	.welcome_center img {
-		width: 40%;
+		width: 20%;
 		margin-right: 20px;
 	}
 }

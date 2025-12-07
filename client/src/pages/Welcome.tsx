@@ -18,7 +18,7 @@ export default function Welcome() {
     return (
         <div className="welcome_center">
             <img src={logo} alt="logo" />
-            <p>Hello, Hello, Kebab-enjoyers</p>
+            <p>Hello, Hello !<br />Kebab-enjoyers</p>
             <button type="button" onClick={handleClick} disabled={loading}>
                 {loading ? "Loading..." : "🥙 Start"}
             </button>

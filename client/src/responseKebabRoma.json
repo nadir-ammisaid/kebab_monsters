@@ -1,0 +1,3880 @@
+{
+    "businesses": [
+        {
+            "id": "m6ZBc0ZnXwpWAHml2SM3fg",
+            "alias": "ciro-kebab-roma",
+            "name": "Ciro Kebab",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/H_6N4V8OCOwRkRTz1j3iMQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ciro-kebab-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.8,
+            "coordinates": {
+                "latitude": 41.9254150390625,
+                "longitude": 12.5159378051758
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Viale Eritrea 24",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00199",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Viale Eritrea 24",
+                    "00199 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390696526981",
+            "display_phone": "+39 06 9652 6981",
+            "distance": 2604.2428550004224,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Qg1o_zPBALXxbvuPQrtD2w",
+            "alias": "ciro-kebab-pizza-roma",
+            "name": "Ciro Kebab Pizza",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/F9Qx2PZi-__UuPbr4CX-wA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ciro-kebab-pizza-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.9,
+            "coordinates": {
+                "latitude": 41.88736,
+                "longitude": 12.56565
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via dei Castani 251A",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00171",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via dei Castani 251A",
+                    "00171 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+393409113093",
+            "display_phone": "+39 340 911 3093",
+            "distance": 3576.474791145742,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "65oxs8sZayMbAJ1nYwKUVw",
+            "alias": "al-basha-yaser-kebabbaro-roma",
+            "name": "Al Basha Yaser Kebabbaro",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/KFdV2zwhxzl1fi42FwUXxA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/al-basha-yaser-kebabbaro-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 9,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.2,
+            "coordinates": {
+                "latitude": 41.93977,
+                "longitude": 12.52768
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Val di Cogne 46",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00141",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Val di Cogne 46",
+                    "00141 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+393494587650",
+            "display_phone": "+39 349 458 7650",
+            "distance": 3345.0928964638083,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0330",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0330",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "gA24FIsGjGkPP56ahvvsrA",
+            "alias": "planet-kebab-roma-2",
+            "name": "Planet kebab",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/WUlLY_I0CXpkAKWSShgw4Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/planet-kebab-roma-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.89578563,
+                "longitude": 12.49911547
+            },
+            "transactions": [],
+            "location": {
+                "address1": "via san martino ai monti 29",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00184",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "via san martino ai monti 29",
+                    "00184 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+3906484674",
+            "display_phone": "+39 06 484674",
+            "distance": 3401.578641271775,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "KAOtDIcH2Xyf8v7IIKplBA",
+            "alias": "istanbul-doner-kebab-roma",
+            "name": "Istanbul Doner Kebab",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_tAIsyOryVrKNQOm0cArng/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-doner-kebab-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 41.90826,
+                "longitude": 12.45552
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Leone IV 59",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00192",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Leone IV 59",
+                    "00192 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 6600.689322525441,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "ZtfkuQPo2FcUjrzZksJOFA",
+            "alias": "flaminio-istanbul-kebab-roma",
+            "name": "Flaminio Istanbul Kebab",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CnSJAR3c6_Br-Ku0eskwwA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/flaminio-istanbul-kebab-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "piadina",
+                    "title": "Piadina"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 41.8796158,
+                "longitude": 12.4859629
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Flamino 17",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00153",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Flamino 17",
+                    "00153 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+393482413316",
+            "display_phone": "+39 348 241 3316",
+            "distance": 5406.868886298719,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "6rlo2wrh6qEUSeoddcp-oQ",
+            "alias": "kebabone-roma-2",
+            "name": "Kebabone",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Q7M-u1OFqQlR3jtaj1jBEw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kebabone-roma-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 41.88778,
+                "longitude": 12.54251
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via di Acqua Bullicante 245A",
+                "address2": null,
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00177",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via di Acqua Bullicante 245A",
+                    "00177 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+393335700030",
+            "display_phone": "+39 333 570 0030",
+            "distance": 2561.4246885685857,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "mmhmS0JvB2Im4Cr-iD85Xw",
+            "alias": "shawarma-station-roma",
+            "name": "Shawarma Station",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/UF8mZ94QA5e_pFJQchI0qw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shawarma-station-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 22,
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.9,
+            "coordinates": {
+                "latitude": 41.89618,
+                "longitude": 12.49943
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Merulana 271",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00185",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Merulana 271",
+                    "00185 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+39064881216",
+            "display_phone": "+39 06 488 1216",
+            "distance": 3366.7150303622916,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "a0-GoymgxysczjDSAbjZqA",
+            "alias": "instanbul-kebab-roma",
+            "name": "Instanbul Kebab",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1ybwhhM5n5coR73K-i9FTg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/instanbul-kebab-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.7,
+            "coordinates": {
+                "latitude": 41.9391449,
+                "longitude": 12.532671
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Via Nomentana Nuova 43",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00141",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Nomentana Nuova 43",
+                    "00141 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390688973688",
+            "display_phone": "+39 06 8897 3688",
+            "distance": 3218.735670027322,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "D_CylKyn2pioGjh5BTYPlg",
+            "alias": "the-best-kumpir-roma-2",
+            "name": "The Best Kumpir",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LeCyTSNuMCURUg2KOeUWow/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-best-kumpir-roma-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 3.3,
+            "coordinates": {
+                "latitude": 41.8988647408538,
+                "longitude": 12.5155672886831
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Tiburtina 160",
+                "address2": null,
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00185",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Tiburtina 160",
+                    "00185 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390645424601",
+            "display_phone": "+39 06 4542 4601",
+            "distance": 2074.1690092829635,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0500",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0500",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0500",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0500",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "sAmAqcTph9nt-SU3PYs-YQ",
+            "alias": "kebab-roma-4",
+            "name": "Kebab",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/P2vyAYSf5QvW7PB3gV65UA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kebab-roma-4?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 37,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "arabian",
+                    "title": "Arabic"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.91016,
+                "longitude": 12.49903
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Via Augusto Valenziani 14",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00187",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Augusto Valenziani 14",
+                    "00187 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+39064745296",
+            "display_phone": "+39 06 474 5296",
+            "distance": 3005.4190747630896,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1230",
+                            "end": "1500",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1930",
+                            "end": "2330",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1230",
+                            "end": "1500",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1930",
+                            "end": "2330",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1230",
+                            "end": "1500",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1930",
+                            "end": "2330",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1230",
+                            "end": "1500",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1930",
+                            "end": "2330",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1230",
+                            "end": "1500",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1930",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1930",
+                            "end": "0000",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1930",
+                            "end": "2330",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": false
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "nMjPZps2H5TWV1RRFdmVwg",
+            "alias": "ciro-kebab-pizza-istanbul-2-roma",
+            "name": "Ciro Kebab Pizza Istanbul 2",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/AUyLPrK9c0SLlaDGEAnPfg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ciro-kebab-pizza-istanbul-2-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.9085431137418,
+                "longitude": 12.5377537378236
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Tiburtina 419",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00159",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Tiburtina 419",
+                    "00159 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+393409113093",
+            "display_phone": "+39 340 911 3093",
+            "distance": 273.44321169093934,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "JnPc56lwJ9Anr1EF2Fxm5Q",
+            "alias": "ali-babà-kebab-roma-2",
+            "name": "Ali Babà Kebab",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xQ1pZdr2nc4LGcNG_tZP1g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ali-bab%C3%A0-kebab-roma-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 37,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "arabian",
+                    "title": "Arabic"
+                }
+            ],
+            "rating": 4.2,
+            "coordinates": {
+                "latitude": 41.8670297474711,
+                "longitude": 12.5372564485737
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Carroceto 96",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00178",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Carroceto 96",
+                    "00178 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390692080981",
+            "display_phone": "+39 06 9208 0981",
+            "distance": 4810.47909648811,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0400",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0400",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0400",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "mbv_fswXX4OBlclPMducaA",
+            "alias": "specialità-pizza-il-kebabbaro-roma",
+            "name": "Specialità Pizza Il Kebabbaro",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pOgnQkWFfyRSCSTJIRJikw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/specialit%C3%A0-pizza-il-kebabbaro-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                },
+                {
+                    "alias": "importedfood",
+                    "title": "Imported Food"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 41.9090118,
+                "longitude": 12.4556904
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Viale Giulio Cesare 126",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00192",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Viale Giulio Cesare 126",
+                    "00192 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+393287640359",
+            "display_phone": "+39 328 764 0359",
+            "distance": 6453.20350416171,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "DP6Sq3Kw_bbW95cZIq6wcw",
+            "alias": "kiosco-kebab-roma",
+            "name": "Kiosco Kebab",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kiosco-kebab-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 41.9300802363344,
+                "longitude": 12.473526809787
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Viale P de Coubertin",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00196",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Viale P de Coubertin",
+                    "00196 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+39334259943",
+            "display_phone": "+39 334 259 943",
+            "distance": 5573.098543962184,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "uNZC_0_utC2wK31cfkS7Bg",
+            "alias": "istanbul-superkebab-roma",
+            "name": "Istanbul Superkebab",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eh56RxM0Iqr7ehRjKg6GdA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-superkebab-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                }
+            ],
+            "rating": 2.8,
+            "coordinates": {
+                "latitude": 41.894564131381,
+                "longitude": 12.4762620734183
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Largo Arenula 21",
+                "address2": "",
+                "address3": null,
+                "city": "Rome",
+                "zip_code": "00186",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Largo Arenula 21",
+                    "00186 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 5196.53932814911,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "D6KppwIG-sSlZv16BA5RvA",
+            "alias": "top-kebab-roma",
+            "name": "Top Kebab",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ywBXXMn-xDxHAErCzB8aaQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/top-kebab-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.8,
+            "coordinates": {
+                "latitude": 41.8971,
+                "longitude": 12.51192
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Tiburtina 16",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00185",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Tiburtina 16",
+                    "00185 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2429.3901263750295,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "AfNbspJdwBIHKWYMP_JKqQ",
+            "alias": "old-bear-roma",
+            "name": "Old Bear",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/1wdv1fpHSTVT7wUayj-fgw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/old-bear-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 112,
+            "categories": [
+                {
+                    "alias": "mediterranean",
+                    "title": "Mediterranean"
+                }
+            ],
+            "rating": 4.4,
+            "coordinates": {
+                "latitude": 41.9017420228301,
+                "longitude": 12.4723470211029
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Via Gigli d'Oro 3",
+                "address2": null,
+                "address3": null,
+                "city": "Rome",
+                "zip_code": "00186",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Gigli d'Oro 3",
+                    "00186 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390668210009",
+            "display_phone": "+39 06 6821 0009",
+            "distance": 5303.483312127878,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1700",
+                            "end": "0030",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1700",
+                            "end": "0030",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1700",
+                            "end": "0030",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1700",
+                            "end": "0030",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1700",
+                            "end": "0030",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1700",
+                            "end": "0030",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": false
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "zooTFOXUMlP-5zCx2HotzA",
+            "alias": "mr-kebab-turco-roma-3",
+            "name": "Mr Kebab Turco",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/hsDjCyP4vBtnJvcmQ-NwYQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mr-kebab-turco-roma-3?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "burgers",
+                    "title": "Burgers"
+                }
+            ],
+            "rating": 3.7,
+            "coordinates": {
+                "latitude": 41.88834,
+                "longitude": 12.47368
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Viale di Trastevere 51",
+                "address2": null,
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00153",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Viale di Trastevere 51",
+                    "00153 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+393801568057",
+            "display_phone": "+39 380 156 8057",
+            "distance": 5652.125372882643,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0100",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1130",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "https://mrkebabturco.it/menu/",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Syqdna2GP1TB6GsqIrhYAw",
+            "alias": "istanbul-kebap-roma",
+            "name": "Istanbul Kebap",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/T05QVAWTw-dUcmcMSCRIGA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-kebap-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 41.9090881,
+                "longitude": 12.5203104
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Viale Ippocrate 32a",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00161",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Viale Ippocrate 32a",
+                    "00161 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 1265.5201385646517,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "fy72DPmbwYM_kzAQHbViCQ",
+            "alias": "super-pizza-roma-2",
+            "name": "Super Pizza",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oCZzF464GlDIlJ71-WwRYQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/super-pizza-roma-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 14,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 41.9040222,
+                "longitude": 12.5005035
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Volturno 46",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00185",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Volturno 46",
+                    "00185 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+39064440657",
+            "display_phone": "+39 06 444 0657",
+            "distance": 2970.3796599050424,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "_smmMIkAUQORbImNX7A61g",
+            "alias": "pizza-kebab-roma",
+            "name": "Pizza Kebab",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/5pjKC5aHhOBz5WcLly9wag/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizza-kebab-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "importedfood",
+                    "title": "Imported Food"
+                }
+            ],
+            "rating": 3.9,
+            "coordinates": {
+                "latitude": 41.90887,
+                "longitude": 12.46595
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "via dei Gracchi 193A",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00192",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "via dei Gracchi 193A",
+                    "00192 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+393281462189",
+            "display_phone": "+39 328 146 2189",
+            "distance": 5749.597609715928,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "q10pAiI4cRXqJmWLAtbedg",
+            "alias": "mister-kebab-roma",
+            "name": "Mister Kebab",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/TPqxABO53l1b-mgwJioZlw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mister-kebab-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "importedfood",
+                    "title": "Imported Food"
+                }
+            ],
+            "rating": 3.8,
+            "coordinates": {
+                "latitude": 41.86334,
+                "longitude": 12.46443
+            },
+            "transactions": [],
+            "price": "€€",
+            "location": {
+                "address1": "Via Oderisi da Gubbio 231",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00146",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Oderisi da Gubbio 231",
+                    "00146 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+39065592711",
+            "display_phone": "+39 06 559 2711",
+            "distance": 7854.062660073564,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0900",
+                            "end": "0100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "X1Oz4dhqC-8ifBnIEgrQ1w",
+            "alias": "istanbul-kebab-roma-5",
+            "name": "Istanbul kebab",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/7mB6nCQ4Pk5ozsmgb-6BJA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/istanbul-kebab-roma-5?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "arabian",
+                    "title": "Arabic"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.3,
+            "coordinates": {
+                "latitude": 41.862272578964,
+                "longitude": 12.46417298913
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Gerolamo Cardano 182",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00146",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Gerolamo Cardano 182",
+                    "00146 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390686972802",
+            "display_phone": "+39 06 8697 2802",
+            "distance": 7952.980896342907,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "ltxApbk_X4mfte6gA6WAew",
+            "alias": "shisha-e-kebab-roma",
+            "name": "Shisha e Kebab",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xk0XbYsYkDBTr24y6jofDg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/shisha-e-kebab-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.88835,
+                "longitude": 12.47095
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via San Francesco a Ripa, 165",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00153",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via San Francesco a Ripa, 165",
+                    "00153 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+393890514689",
+            "display_phone": "+39 389 051 4689",
+            "distance": 5863.581894210536,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "U-qOuphvH88qoGe0zcjDZw",
+            "alias": "ostiense-10-roma",
+            "name": "Ostiense 10",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/z9KsOCnTAjjt_-rmIW853g/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/ostiense-10-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "rotisserie_chicken",
+                    "title": "Rotisserie Chicken"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 41.87531,
+                "longitude": 12.48044
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Ostiense 10",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00154",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Ostiense 10",
+                    "00154 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+393385636655",
+            "display_phone": "+39 338 563 6655",
+            "distance": 5994.205686974012,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "0830",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0830",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0830",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0830",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0830",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0830",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "0830",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "eWSifZadIiFnrruYneLyMA",
+            "alias": "turkish-kebab-roma",
+            "name": "Turkish Kebab",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IlsnbRsXERDzGz_eALENBA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/turkish-kebab-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "turkish",
+                    "title": "Turkish"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.8,
+            "coordinates": {
+                "latitude": 41.86712,
+                "longitude": 12.53711
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Carroceto 100",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00178",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Carroceto 100",
+                    "00178 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+393331884666",
+            "display_phone": "+39 333 188 4666",
+            "distance": 4796.891374107839,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1130",
+                            "end": "0330",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1130",
+                            "end": "0330",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1130",
+                            "end": "0330",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1130",
+                            "end": "0330",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1130",
+                            "end": "0330",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1130",
+                            "end": "0330",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1130",
+                            "end": "0330",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "ieaibeD9fn_MQrpvBRRbyg",
+            "alias": "le-piramidi-roma",
+            "name": "Le Piramidi",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZjEv9yjK-CZU9faOxEMHSw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/le-piramidi-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 10,
+            "categories": [
+                {
+                    "alias": "gourmet",
+                    "title": "Specialty Food"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.6,
+            "coordinates": {
+                "latitude": 41.89571,
+                "longitude": 12.47135
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Vicolo del Gallo 11",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00186",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Vicolo del Gallo 11",
+                    "00186 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+39066879061",
+            "display_phone": "+39 06 687 9061",
+            "distance": 5543.08908156725,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1200",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "http://www.cucinaarabacampodefiori.it/",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "qODN0vkG-XHe0qo8TTSxxw",
+            "alias": "arabian-kebab-roma",
+            "name": "Arabian Kebab",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/arabian-kebab-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.9726357412238,
+                "longitude": 12.5392366200686
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Alberto Lionello",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00139",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Alberto Lionello",
+                    "00139 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 6942.067698257083,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "W1ZcBMsdUlLagguEmzC8vw",
+            "alias": "mehmi-kebab-e-paninoteca-roma",
+            "name": "Mehmi Kebab & Paninoteca",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MEZ6B8VxKMESPAAerhSL9A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mehmi-kebab-e-paninoteca-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 4,
+            "categories": [
+                {
+                    "alias": "importedfood",
+                    "title": "Imported Food"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.86131,
+                "longitude": 12.56931
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Palmiro Togliatti 201",
+                "address2": null,
+                "address3": null,
+                "city": "Rome",
+                "zip_code": "00172",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Palmiro Togliatti 201",
+                    "00172 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390671546377",
+            "display_phone": "+39 06 7154 6377",
+            "distance": 6124.509661410812,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1100",
+                            "end": "0200",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "XHK4RwJ4DqfqTRNl_Uf6pQ",
+            "alias": "alì-baba-roma-2",
+            "name": "Alì Baba",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/aTLyla1qULuUxkfIAGGzxQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/al%C3%AC-baba-roma-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.3,
+            "coordinates": {
+                "latitude": 41.88066,
+                "longitude": 12.54222
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Piazza della Marranella 6",
+                "address2": null,
+                "address3": null,
+                "city": "Rome",
+                "zip_code": "00176",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Piazza della Marranella 6",
+                    "00176 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390624303106",
+            "display_phone": "+39 06 2430 3106",
+            "distance": 3344.952754238842,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1100",
+                            "end": "2330",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "QHu_ACo289JX88WTICoLPA",
+            "alias": "halal-indian-roma",
+            "name": "Halal Indian",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ISqSnSV1dm6YHlRN7mB9-Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/halal-indian-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "halal",
+                    "title": "Halal"
+                },
+                {
+                    "alias": "indpak",
+                    "title": "Indian"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 2.6,
+            "coordinates": {
+                "latitude": 41.90013,
+                "longitude": 12.50057
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Daniele Manin 2B",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00185",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Daniele Manin 2B",
+                    "00185 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 3096.4382998841575,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "exVmQ6ekVpAkhq3BEMM-3A",
+            "alias": "snapway-roma",
+            "name": "Snapway",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/snapway-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.8994085028104,
+                "longitude": 12.4955380707979
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Agostino Depretis 67",
+                "address2": "",
+                "address3": null,
+                "city": "Rome",
+                "zip_code": "00184",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Agostino Depretis 67",
+                    "00184 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+393295879447",
+            "display_phone": "+39 329 587 9447",
+            "distance": 3513.005665747143,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1730",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1730",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1730",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1730",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1730",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1730",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1730",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": false
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "lLKpq93WyINftJbwE3yHCQ",
+            "alias": "kebab-il-pascià-roma-2",
+            "name": "Kebab Il Pascià",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8unmBPy5-VZIKzVEuSVtaQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kebab-il-pasci%C3%A0-roma-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "hotdog",
+                    "title": "Hot Dogs"
+                },
+                {
+                    "alias": "sandwiches",
+                    "title": "Sandwiches"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 41.8625815772202,
+                "longitude": 12.6847826664857
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via di Prataporci 11",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00132",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via di Prataporci 11",
+                    "00132 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 13454.992712518862,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "EIFyNLijiB2vJVi3gRaSww",
+            "alias": "pizza-pere-e-gorgonzola-roma-2",
+            "name": "Pizza Pere e Gorgonzola",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/GiKZS78ZZsH8Cw0qLzJmOA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizza-pere-e-gorgonzola-roma-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.3,
+            "coordinates": {
+                "latitude": 41.9085988393501,
+                "longitude": 12.4772510907379
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Laurina 7",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00187",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Laurina 7",
+                    "00187 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390698182912",
+            "display_phone": "+39 06 9818 2912",
+            "distance": 4815.516959447848,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2100",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "nBCO-nGHrsfgaW-A91yDKQ",
+            "alias": "kebab-pizzeria-del-pigneto-roma",
+            "name": "Kebab Pizzeria del Pigneto",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/76F7nHUXp0OqwzGosX8dmQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kebab-pizzeria-del-pigneto-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.8,
+            "coordinates": {
+                "latitude": 41.88913,
+                "longitude": 12.52548
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via del Pigneto 73",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00176",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via del Pigneto 73",
+                    "00176 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390670307157",
+            "display_phone": "+39 06 7030 7157",
+            "distance": 2478.8793483068753,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": true,
+                            "start": "1000",
+                            "end": "0100",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "Ze1xNVjtklxRRZNzBZmnWg",
+            "alias": "pizza-regina-kebab-house-roma",
+            "name": "Pizza Regina - Kebab House",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizza-regina-kebab-house-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "arabian",
+                    "title": "Arabic"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 41.937491515276,
+                "longitude": 12.4254769353436
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Viale Dei Monfortani 15",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00135",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Viale Dei Monfortani 15",
+                    "00135 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390635072111",
+            "display_phone": "+39 06 3507 2111",
+            "distance": 9584.776124475755,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "7Y6MDdudTOL2xSldFKFaAw",
+            "alias": "kebab-d-asporto-e-pizzeria-roma",
+            "name": "Kebab D'asporto E Pizzeria",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kebab-d-asporto-e-pizzeria-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.9016528,
+                "longitude": 12.4253645
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Piazza Giureconsulti 9",
+                "address2": null,
+                "address3": null,
+                "city": "Rome",
+                "zip_code": "",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Piazza Giureconsulti 9",
+                    "Rome, Roma",
+                    "Italy"
+                ]
+            },
+            "phone": "+390666032316",
+            "display_phone": "+39 06 6603 2316",
+            "distance": 9156.379727122528,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "410zScldVcewD79v1MJhCQ",
+            "alias": "la-via-della-seta-roma",
+            "name": "La Via della Seta",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/_y_gc_qqrax5ZanzTmxUzg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/la-via-della-seta-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 5,
+            "categories": [
+                {
+                    "alias": "arabian",
+                    "title": "Arabic"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.9005641783828,
+                "longitude": 12.4680202381125
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via dei Coronari 143",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00186",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via dei Coronari 143",
+                    "00186 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390668307438",
+            "display_phone": "+39 06 6830 7438",
+            "distance": 5679.6168934072975,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "-d-60Wj4WEb_HdPSEEPbIA",
+            "alias": "pizzeria-san-romano-roma",
+            "name": "Pizzeria San Romano",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/j7j5picn8ruCOH-Ci8bBUg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizzeria-san-romano-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 1.0,
+            "coordinates": {
+                "latitude": 41.9076563895447,
+                "longitude": 12.5380241043626
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via di San Romano 10",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00159",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via di San Romano 10",
+                    "00159 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 362.7137760046315,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1830",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1830",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1830",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1830",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1830",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1830",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1830",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": false
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "HQPdZzs4dXW7iCYbY9IQEA",
+            "alias": "pizzometro-roma",
+            "name": "Pizzometro",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/ecm5sZWvR28izux_jipZrQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizzometro-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                },
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                }
+            ],
+            "rating": 4.4,
+            "coordinates": {
+                "latitude": 41.8778594,
+                "longitude": 12.5082919
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via Acaia 7",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00183",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Acaia 7",
+                    "00183 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390677201257",
+            "display_phone": "+39 06 7720 1257",
+            "distance": 4245.256498552751,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2300",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0930",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "G0Q5Ex9kpGGxmZZXzbDo5w",
+            "alias": "bà-ghetto-roma-6",
+            "name": "Bà Ghetto",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2GaqnE7mLB-_SFHcOOA3SQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/b%C3%A0-ghetto-roma-6?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 77,
+            "categories": [
+                {
+                    "alias": "jewish",
+                    "title": "Jewish"
+                },
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                },
+                {
+                    "alias": "roman",
+                    "title": "Roman"
+                }
+            ],
+            "rating": 3.3,
+            "coordinates": {
+                "latitude": 41.89272201,
+                "longitude": 12.47796397
+            },
+            "transactions": [],
+            "price": "€€€",
+            "location": {
+                "address1": "Via del Portico d'Ottavia 57",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00186",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via del Portico d'Ottavia 57",
+                    "00186 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390668892868",
+            "display_phone": "+39 06 6889 2868",
+            "distance": 5136.264705382364,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "1500",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "2030",
+                            "end": "2300",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1200",
+                            "end": "2300",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": false
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "1UIAV3gCWFoWISEP1o6CqA",
+            "alias": "lubar-roma",
+            "name": "LuBar",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/gYXz40pRYG4e36tpV1NKgg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/lubar-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "mideastern",
+                    "title": "Middle Eastern"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 41.9066691858992,
+                "longitude": 12.4578281850759
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Ottaviano 5",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00192",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Ottaviano 5",
+                    "00192 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+393384654910",
+            "display_phone": "+39 338 465 4910",
+            "distance": 6431.77192342284,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "D55vfB_MvT0OU7WHuR8SMw",
+            "alias": "jolly-pizza-roma",
+            "name": "Jolly Pizza",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mEyTC8uD1k34x_YPRKwVOQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/jolly-pizza-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "cafes",
+                    "title": "Cafes"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.0,
+            "coordinates": {
+                "latitude": 41.8297409882687,
+                "longitude": 12.6148078590631
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Frascineto 8",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00173",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Frascineto 8",
+                    "00173 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+39067233376",
+            "display_phone": "+39 06 723 3376",
+            "distance": 11109.120616803953,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": "http://www.jollypizza.it/menu",
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "_zZOGlJyC2k5h2p6iWlTIg",
+            "alias": "doner-kebab-munzur-roma",
+            "name": "Doner Kebab Munzur",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Hh-LDV0na8OwqF1uJsHJ9Q/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/doner-kebab-munzur-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 41.9081051138315,
+                "longitude": 12.455442554543
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Leone IV 51",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00192",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Leone IV 51",
+                    "00192 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 6621.019129511831,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "WKkZx_z7LgKpBZUqSl1Pkw",
+            "alias": "kebab-di-via-agri-adige-roma",
+            "name": "Kebab Di Via Agri/Adige",
+            "image_url": "",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kebab-di-via-agri-adige-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 1,
+            "categories": [
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.9214871,
+                "longitude": 12.5032843
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via Agri 12",
+                "address2": "via adige 19",
+                "address3": null,
+                "city": "Rome",
+                "zip_code": "00198",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via Agri 12",
+                    "via adige 19",
+                    "00198 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 2935.5676483455977,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "zsVkwCBSPQ4Kx2k3-PIRdg",
+            "alias": "mondial-pizza-roma",
+            "name": "Mondial Pizza",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/C8rt1Ze7TpGpRgNkxvfpDw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/mondial-pizza-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 6,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "hotdogs",
+                    "title": "Fast Food"
+                }
+            ],
+            "rating": 4.3,
+            "coordinates": {
+                "latitude": 41.8793099,
+                "longitude": 12.4664
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Viale Trastevere 205A",
+                "address2": "",
+                "address3": "",
+                "city": "Rome",
+                "zip_code": "00153",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Viale Trastevere 205A",
+                    "00153 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+39065894526",
+            "display_phone": "+39 06 589 4526",
+            "distance": 6673.983902921712,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2130",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2130",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2130",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2130",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2130",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2130",
+                            "day": 5
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "0900",
+                            "end": "2130",
+                            "day": 6
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "23uC9A3_szEX_mhBtLNR3Q",
+            "alias": "zaza-istanbul-kebab-fiumicino",
+            "name": "Zaza Istanbul Kebab",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mmzzmXl_9UaU8Y3ol9I6Sw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/zaza-istanbul-kebab-fiumicino?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 2,
+            "categories": [
+                {
+                    "alias": "arabian",
+                    "title": "Arabic"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 3.5,
+            "coordinates": {
+                "latitude": 41.7618312515469,
+                "longitude": 12.2349239140749
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Via del Faro 149",
+                "address2": "",
+                "address3": "",
+                "city": "Fiumicino",
+                "zip_code": "00054",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Via del Faro 149",
+                    "00054 Fiumicino",
+                    "Italy"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 29868.25407899105,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "X4RALm2zcTrgsC8BDrinYQ",
+            "alias": "il-borghetto-roma",
+            "name": "Il Borghetto",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/MFWti9Ef32TpUky2iQDi0A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/il-borghetto-roma?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 0,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 0.0,
+            "coordinates": {
+                "latitude": 41.73504,
+                "longitude": 12.36176
+            },
+            "transactions": [],
+            "location": {
+                "address1": "Viale di Castel Porziano 391",
+                "address2": null,
+                "address3": null,
+                "city": "Rome",
+                "zip_code": "00124",
+                "country": "IT",
+                "state": "RM",
+                "display_address": [
+                    "Viale di Castel Porziano 391",
+                    "00124 Rome",
+                    "Italy"
+                ]
+            },
+            "phone": "+390650910579",
+            "display_phone": "+39 06 5091 0579",
+            "distance": 24207.3680405107,
+            "business_hours": [],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        },
+        {
+            "id": "LaoRwRN8yeznz-xgFCvCiA",
+            "alias": "pizza-design-roma-2",
+            "name": "Pizza Design",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/z4ghfd-6E3Ohdo2-M6LQSQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/pizza-design-roma-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+            "review_count": 3,
+            "categories": [
+                {
+                    "alias": "pizza",
+                    "title": "Pizza"
+                },
+                {
+                    "alias": "kebab",
+                    "title": "Kebab"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 41.90057,
+                "longitude": 12.51351
+            },
+            "transactions": [],
+            "price": "€",
+            "location": {
+                "address1": "Via dei Marrucini 3",
+                "address2": "",
+                "address3": "",
+                "city": "Roma",
+                "zip_code": "00185",
+                "country": "IT",
+                "state": "62",
+                "display_address": [
+                    "Via dei Marrucini 3",
+                    "00185 Roma",
+                    "Italy"
+                ]
+            },
+            "phone": "+390644360481",
+            "display_phone": "+39 06 4436 0481",
+            "distance": 2114.9201357410493,
+            "business_hours": [
+                {
+                    "open": [
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 0
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 1
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 2
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 3
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 4
+                        },
+                        {
+                            "is_overnight": false,
+                            "start": "1000",
+                            "end": "0000",
+                            "day": 5
+                        }
+                    ],
+                    "hours_type": "REGULAR",
+                    "is_open_now": true
+                }
+            ],
+            "attributes": {
+                "business_temp_closed": null,
+                "menu_url": null,
+                "open24_hours": null,
+                "waitlist_reservation": null
+            }
+        }
+    ],
+    "total": 84,
+    "region": {
+        "center": {
+            "longitude": 12.535400390625,
+            "latitude": 41.91026940222348
+        }
+    }
+}

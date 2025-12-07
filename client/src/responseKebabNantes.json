@@ -1,0 +1,677 @@
+{
+	"businesses": [
+		{
+			"id": "5oXm817JhL4LAcCgqFrBCA",
+			"alias": "la-rose-des-sables-nantes",
+			"name": "La Rose des Sables",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/0Le0hnpRM1Oge2lGvDiv2Q/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/la-rose-des-sables-nantes?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 3,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 47.2149532,
+				"longitude": -1.5541518
+			},
+			"transactions": [],
+			"location": {
+				"address1": "Rue Bouffay 6",
+				"address2": "",
+				"address3": "",
+				"city": "Nantes",
+				"zip_code": "44000",
+				"country": "FR",
+				"state": "44",
+				"display_address": ["Rue Bouffay 6", "44000 Nantes", "France"]
+			},
+			"phone": "+33240080893",
+			"display_phone": "+33 2 40 08 08 93",
+			"distance": 200.07556634579777,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "OTR1oRMBiMlYPp5T9UpLbQ",
+			"alias": "au-kébab-de-dilan-nantes",
+			"name": "Au Kébab de Dilan",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/VeYO0CS-SgZpphVWpFm-jg/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/au-k%C3%A9bab-de-dilan-nantes?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 47.21387,
+				"longitude": -1.55812
+			},
+			"transactions": [],
+			"price": "€€",
+			"location": {
+				"address1": "6 Rue Gorges",
+				"address2": "",
+				"address3": "",
+				"city": "Nantes",
+				"zip_code": "44000",
+				"country": "FR",
+				"state": "44",
+				"display_address": ["6 Rue Gorges", "44000 Nantes", "France"]
+			},
+			"phone": "+33240205233",
+			"display_phone": "+33 2 40 20 52 33",
+			"distance": 304.9723376245574,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "GIzD279EPYWpUfO09Vvm9w",
+			"alias": "le-petit-crebillon-nantes",
+			"name": "Le Petit Crebillon",
+			"image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aBcavBl9yDfICIlTy-w0YQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/le-petit-crebillon-nantes?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 4,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.3,
+			"coordinates": {
+				"latitude": 47.21464,
+				"longitude": -1.55601
+			},
+			"transactions": [],
+			"location": {
+				"address1": "4 Allée Cassard",
+				"address2": null,
+				"address3": null,
+				"city": "Nantes",
+				"zip_code": "44000",
+				"country": "FR",
+				"state": "44",
+				"display_address": ["4 Allée Cassard", "44000 Nantes", "France"]
+			},
+			"phone": "+33240487699",
+			"display_phone": "+33 2 40 48 76 99",
+			"distance": 213.3541859372098,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "Dfwx1Ef9qCHDVxnYA-VMSg",
+			"alias": "délices-d-istanbul-nantes-2",
+			"name": "Délices d'Istanbul",
+			"image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/KrUgdHSyTZZ9OgBtIKwROw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/d%C3%A9lices-d-istanbul-nantes-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 13,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.5,
+			"coordinates": {
+				"latitude": 47.2146495,
+				"longitude": -1.5581153
+			},
+			"transactions": [],
+			"price": "€€€",
+			"location": {
+				"address1": "6 rue Gorges",
+				"address2": "entre la place du commerce et la place royale",
+				"address3": null,
+				"city": "Nantes",
+				"zip_code": "44000",
+				"country": "FR",
+				"state": "44",
+				"display_address": [
+					"6 rue Gorges",
+					"entre la place du commerce et la place royale",
+					"44000 Nantes",
+					"France"
+				]
+			},
+			"phone": "+33240471300",
+			"display_phone": "+33 2 40 47 13 00",
+			"distance": 337.79059470044643,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "INCRFQ1pBq-Xd-Lofekhfw",
+			"alias": "forty-4-nantes",
+			"name": "Forty 4",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xhks_GpnC95qaiwMr1I5kA/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/forty-4-nantes?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "halal",
+					"title": "Halal"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "sandwiches",
+					"title": "Sandwiches"
+				}
+			],
+			"rating": 2.5,
+			"coordinates": {
+				"latitude": 47.2106322225693,
+				"longitude": -1.55105240643024
+			},
+			"transactions": [],
+			"location": {
+				"address1": "25 chaussée de la Madeleine",
+				"address2": "",
+				"address3": null,
+				"city": "Nantes",
+				"zip_code": "44000",
+				"country": "FR",
+				"state": "44",
+				"display_address": [
+					"25 chaussée de la Madeleine",
+					"44000 Nantes",
+					"France"
+				]
+			},
+			"phone": "+33951339191",
+			"display_phone": "+33 9 51 33 91 91",
+			"distance": 368.757116419234,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 0
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 1
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 2
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 3
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 4
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 5
+						},
+						{
+							"is_overnight": true,
+							"start": "1100",
+							"end": "0200",
+							"day": 6
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "eEt-jcOeCUhT1faRJvHl2w",
+			"alias": "le-paradis-nantes",
+			"name": "Le Paradis",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/le-paradis-nantes?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 2,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "sandwiches",
+					"title": "Sandwiches"
+				}
+			],
+			"rating": 1.0,
+			"coordinates": {
+				"latitude": 47.21557,
+				"longitude": -1.55332
+			},
+			"transactions": [],
+			"price": "€",
+			"location": {
+				"address1": "16 rue de la Juiverie",
+				"address2": "",
+				"address3": null,
+				"city": "Nantes",
+				"zip_code": "44000",
+				"country": "FR",
+				"state": "44",
+				"display_address": ["16 rue de la Juiverie", "44000 Nantes", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 287.52828825087676,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "fW_RB28YTtJi3frT_HibNw",
+			"alias": "kral-nantes",
+			"name": "Kral",
+			"image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3_JCL-NFIkysRleidW0JsQ/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/kral-nantes?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 4.0,
+			"coordinates": {
+				"latitude": 47.23061,
+				"longitude": -1.55754
+			},
+			"transactions": [],
+			"location": {
+				"address1": "2 rue Francois Bruneau",
+				"address2": "",
+				"address3": "",
+				"city": "Nantes",
+				"zip_code": "44000",
+				"country": "FR",
+				"state": "44",
+				"display_address": ["2 rue Francois Bruneau", "44000 Nantes", "France"]
+			},
+			"phone": "+33952204884",
+			"display_phone": "+33 9 52 20 48 84",
+			"distance": 1957.066131941526,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "0000",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": true
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "qO_bKlSB8WJQCufx1kyg8w",
+			"alias": "restaurant-kebab-nantes",
+			"name": "Restaurant Kebab",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/restaurant-kebab-nantes?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				},
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 3.0,
+			"coordinates": {
+				"latitude": 47.218371,
+				"longitude": -1.553621
+			},
+			"transactions": [],
+			"location": {
+				"address1": null,
+				"address2": null,
+				"address3": null,
+				"city": "Nantes",
+				"zip_code": "",
+				"country": "FR",
+				"state": "44",
+				"display_address": ["Nantes", "France"]
+			},
+			"phone": "",
+			"display_phone": "",
+			"distance": 581.8207138186089,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "k-9Gk-W8aQV8l1DXI1gA3Q",
+			"alias": "etoile-du-sud-nantes",
+			"name": "Etoile du Sud",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/etoile-du-sud-nantes?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 1,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				}
+			],
+			"rating": 2.0,
+			"coordinates": {
+				"latitude": 47.222559,
+				"longitude": -1.5630749
+			},
+			"transactions": [],
+			"location": {
+				"address1": "10 rue des Hauts Pavés",
+				"address2": "",
+				"address3": "",
+				"city": "Nantes",
+				"zip_code": "44000",
+				"country": "FR",
+				"state": "44",
+				"display_address": ["10 rue des Hauts Pavés", "44000 Nantes", "France"]
+			},
+			"phone": "+33240891406",
+			"display_phone": "+33 2 40 89 14 06",
+			"distance": 1241.203787290423,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "http://www.alloresto.fr",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "gsZx-ILT1dzJVcLlruF12g",
+			"alias": "burger-layth-nantes",
+			"name": "Burger Layth",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/burger-layth-nantes?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "burgers",
+					"title": "Burgers"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 47.22056,
+				"longitude": -1.54872
+			},
+			"transactions": [],
+			"location": {
+				"address1": "68 Rue Marechal Joffre",
+				"address2": "",
+				"address3": "",
+				"city": "Nantes",
+				"zip_code": "44000",
+				"country": "FR",
+				"state": "44",
+				"display_address": ["68 Rue Marechal Joffre", "44000 Nantes", "France"]
+			},
+			"phone": "+33253553171",
+			"display_phone": "+33 2 53 55 31 71",
+			"distance": 922.3656928388752,
+			"business_hours": [
+				{
+					"open": [
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "1400",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2100",
+							"day": 0
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "1400",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2100",
+							"day": 1
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "1400",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2100",
+							"day": 2
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "1400",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2100",
+							"day": 3
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "1400",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2100",
+							"day": 4
+						},
+						{
+							"is_overnight": false,
+							"start": "1100",
+							"end": "1400",
+							"day": 5
+						},
+						{
+							"is_overnight": false,
+							"start": "1800",
+							"end": "2100",
+							"day": 5
+						}
+					],
+					"hours_type": "REGULAR",
+					"is_open_now": false
+				}
+			],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": null,
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		},
+		{
+			"id": "gIc6tr2aSQ_Ljqltm5-jJQ",
+			"alias": "alaturka-nantes-2",
+			"name": "Alaturka",
+			"image_url": "",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/alaturka-nantes-2?adjust_creative=YqwoIYQBDOl9cvdLiyCrBA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=YqwoIYQBDOl9cvdLiyCrBA",
+			"review_count": 0,
+			"categories": [
+				{
+					"alias": "kebab",
+					"title": "Kebab"
+				},
+				{
+					"alias": "hotdogs",
+					"title": "Fast Food"
+				}
+			],
+			"rating": 0.0,
+			"coordinates": {
+				"latitude": 47.220089,
+				"longitude": -1.53202
+			},
+			"transactions": [],
+			"location": {
+				"address1": "138 bd Ernest Dalby",
+				"address2": null,
+				"address3": "",
+				"city": "Nantes",
+				"zip_code": "44000",
+				"country": "FR",
+				"state": "44",
+				"display_address": ["138 bd Ernest Dalby", "44000 Nantes", "France"]
+			},
+			"phone": "+33251826981",
+			"display_phone": "+33 2 51 82 69 81",
+			"distance": 1842.720801613455,
+			"business_hours": [],
+			"attributes": {
+				"business_temp_closed": null,
+				"menu_url": "http://www.restaurant-alaturka.fr/",
+				"open24_hours": null,
+				"waitlist_reservation": null
+			}
+		}
+	],
+	"total": 11,
+	"region": {
+		"center": {
+			"longitude": -1.5542221069335938,
+			"latitude": 47.213154509088
+		}
+	}
+}
